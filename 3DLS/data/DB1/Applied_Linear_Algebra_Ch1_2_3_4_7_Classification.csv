@@ -1,0 +1,1064 @@
+Chapter,Section,Question_ID,Question Summary / Text,Topic,Difficulty Level
+1,1.1,1.1.1,Solve the following systems of linear equations by reducing to triangular form and then using Back Substitution. (a) x−y...,Linear Systems & Back Substitution,Easy
+1,1.1,1.1.2,"How should the coeﬃcientsa, b,a n dc be chosen so that the systemax +by +cz =3 , ax −y +cz =1 ,x +by −cz =2 , has the so...",Linear Systems & Back Substitution,Medium
+1,1.1,1.1.3,"The system 2x = −6, −4x +3 y =3 ,x +4 y − z =7 ,i si nlower triangular form. (a)F o r m u l a t eam e t h o do fForward ...",Linear Systems & Back Substitution,Easy
+1,1.1,1.1.1,"Are you able to solve them in all cases? A matrix is a rectangular array of numbers. Thus, ( 103 −241 ⎧ , ⎛ ⎜⎜⎜⎝ π 0 e 1...",Linear Systems & Back Substitution,Easy
+1,1.2,1.2.1,"Let A = ⎛ ⎜⎝ −2013 −127 −5 6 −6 −34 ⎞ ⎟⎠.( a) What is the size ofA?( b) What is its (2,3) entry? (c)( 3,1) entry? (d)1 s...",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.2,Write down examples of (a)a3 ×3m a t r i x ;(b)a2 ×3m a t r i x ;(c) a matrix with 3 rows and 4 columns; (d) a row vecto...,Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.3,"For which values ofx,y,z,w are the matrices ( x+yx −z y +wx +2 w ) and ( 10 21 ) equal?",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.4,"For each of the systems in Exercise 1.1.1, write down the coeﬃcient matrixA and the vectors x and b.",Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.5,"Write out and solve the linear systems corresponding to the indicated matrix, vector of unknowns, and right-hand side. (...",Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.6,(a) Write down the 5× 5 identity and zero matrices. (b) Write down their sum and their product. Does the order of multip...,Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.7,"Consider the matricesA = ⎛ ⎜⎝ 1 −13 −14 −2 306 ⎞ ⎟⎠,B = ( −60 3 42 −1 ) ,C = ⎛ ⎜⎝ 23 −3 −4 12 ⎞ ⎟⎠. Compute the indicate...",Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.8,"Which of the following pairs of matrices commute under matrix multiplication? (a) ( 12 −21 ) , ( 23 50 ) , (b) ⎛ ⎜⎝ 3 −1...",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.9,List the diagonal entries ofA = ⎛ ⎜⎜⎜⎝ 1234 5678 91 01 11 2 13 14 15 16 ⎞ ⎟⎟⎟⎠.,Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.10,"Write out the following diagonal matrices: (a)d i a g ( 1,0,−1), (b)d i a g ( 2,−2,3,−3).",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.11,True or false:( a) The sum of two diagonal matrices of the same size is a diagonal matrix. ( b) The product is also diag...,Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.12,"(a) Show that ifD = ( a 0 0 b ) is a 2× 2 diagonal matrix witha ̸= b, then the only matrices that commute (under matrix ...",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.13,Show that the matrix productsAB and BA h a v et h es a m es i z ei fa n do n l yi fA and B are square matrices of the sa...,Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.14,Find all matricesB that commute (under matrix multiplication) withA = ( 12 01 ) .,Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.15,"(a) Show that, ifA,B are commuting square matrices, then (A+B)2 = A2 +2 AB +B2. (b) Find a pair of 2×2m a t r i c e sA,B...",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.16,"Show that if the matricesA and B commute, then they necessarily are both square and t h es a m es i z e .",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.17,Let A be anm × n matrix. What are the permissible sizes for the zero matrices appearing in the identitiesAO=Oa n dO A =O...,Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.18,"Let A be anm×n matrix and letc be a scalar. Show that ifcA = O, then eitherc =0 or A =O .",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.19,True or false:I f AB = O then eitherA =Oo r B =O .,Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.20,"True or false:I f A,B are square matrices of the same size, then A2 −B2 =( A+B)(A−B).",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.21,Prove thatAv = 0 for every vectorv (with the appropriate number of entries) if and only ifA =Oi st h ez e r om a t r i x...,Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.22,(a) Under what conditions is the squareA2 of a matrix deﬁned? (b) Show thatA and A2 commute. (c) How many matrix multipl...,Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.23,Find a nonzero matrixA ̸=Os u c ht h a tA2 =O .,Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.24,Let A have a row all of whose entries are zero. (a) Explain why the productAB also has a zero row. (b) Find an example w...,Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.25,(a) Find all solutionsX = ( xy zw ) to the matrix equationAX =I w h e n A = ( 21 31 ) .( b) Find all solutions toXA = I....,Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.26,(a) Find all solutionsX = ( xy zw ) to the matrix equationAX = B when A = ( 01 −13 ) and B = ( 12 −11 ) .( b) Find all s...,Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.27,(a) Find all solutionsX = ( xy zw ) to the matrix equationAX = XB when A = ( 12 −10 ) and B = ( 01 30 ) .( b) Can you ﬁn...,Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.28,Let A be a matrix andc a scalar. Find all solutions to the matrix equationcA =I .,Matrix Arithmetic & Algebra,Easy
+1,1.2,1.2.29,"Lete be the 1× m row vector all of whose entries are equal to 1. (a) Show that if A is anm × n matrix, then theith entry...",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.30,"The commutator of two matricesA,B, is deﬁned to be the matrix C =[ A,B ]= AB −BA. (1.12) (a) Explain why [A,B ] is deﬁne...",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.31,The trace of an×n matrix A ∈M n×n is deﬁned to be the sum of its diagonal entries: trA = a11 +a22 +··· +ann.( a) Compute...,Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.32,Prove that matrix multiplication is associative:A(BC)=( AB)C when deﬁned.,Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.33,"Justify the following alternative formula for multiplying a matrixA and a column vector x: Ax = x1c1 +x2c2 + ··· +xncn, ...",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.34,"The basic deﬁnition of matrix multiplicationAB tells us to multiply rows ofA by columns ofB. Remarkably, if you suitably...",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.35,"Matrix polynomials.L e tp(x)= cnxn + cn−1xn−1 + ··· + c1x + c0 be a polynomial function. If A is a square matrix, we deﬁ...",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.36,"A block matrix has the formM = ( AB CD ) in whichA,B,C,D are matrices with respective sizesi × k, i × l, j × k, j × l.( ...",Matrix Arithmetic & Algebra,Medium
+1,1.2,1.2.37,The matrixS is said to be asquare rootof the matrixA if S2 = A. (a) Show that S = ( 11 3 −1 ) is a square root of the ma...,Matrix Arithmetic & Algebra,Medium
+1,1.3,1.3.1,"Solve the following linear systems by Gaussian Elimination. (a) ( 1 −1 12 )( x y ) = ( 7 3 ) , (b) ( 61 3 −2 )( u v ) = ...",Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.2,Write out the augmented matrix for the following linear systems. Then solve the system by ﬁrst applying elementary row o...,Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.3,For each of the following augmented matrices write out the corresponding linear system of equations. Solve the system by...,Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.4,"Which of the following matrices are regular? (a) ( 21 14 ) ,( b) ( 0 −1 3 −2 ) , (c) ⎛ ⎜⎝ 3 −21 −14 −3 3 −25 ⎞ ⎟⎠,( d) ⎛...",Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.5,"The techniques that are developed for solving linear systems are also applicable to systems with complex coeﬃcients, who...",Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.6,(a) Write down an example of a system of 5 linear equations in 5 unknowns with regular diagonal coeﬃcient matrix. (b) So...,Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.7,"Find the equation of the parabolay = ax2 + bx + c that goes through the points (1,6),(2,4), and (3,0).",Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.8,"A linear system is calledhomogeneous if all the right-hand sides are zero, and so takes the matrix formAx = 0. Explain w...",Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.9,Under what conditions do two 2×2 upper triangular matrices commute?,Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.10,A matrix is calledlower triangular if all entries above the diagonal are zero. Show that a matrix is both lower and uppe...,Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.11,A square matrix is calledstrictly lower (upper) triangular if all entries on or above (below) the main diagonal are 0. (...,Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.12,A square matrixN is callednilpotent if Nk =Of o rs o m ek ≥ 1. (a) Show thatN = ⎛ ⎜⎝ 012 001 000 ⎞ ⎟⎠is nilpotent. (b) S...,Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.13,"A square matrixW is calledunipotent if N = W − I is nilpotent, as in Exercise 1.3.12, so (W − I)k =Of o rs o m ek ≥ 1. (...",Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.14,A square matrixP is calledidempotent if P2 = P.( a) Find all 2×2 idempotent upper triangular matrices. (b) Find all 2×2 ...,Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.15,What elementary row operations do the following matrices represent? What size matrices do they apply to? (a) ( 1 −2 01 )...,Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.16,Write down the elementary matrix corresponding to the following row operations on 4 × 4m a t r i c e s :(a) Add the thir...,Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.17,Compute the productL3L2L1 of the elementary matrices (1.21). Compare your answer with (1.23).,Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.18,Determine the productE3E2E1 of the elementary matrices in (1.19). Is this the same as the productE1E2E3? Which is easier...,Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.19,"(a) Explain, using their interpretation as elementary row operations, why elementary matrices do not generally commute:E...",Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.20,"Determine which of the following 3× 3m a t r i c e si s(i) upper triangular, (ii) upper unitriangular, (iii) lower trian...",Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.21,"Find theLU factorization of the following matrices: (a) ( 13 −10 ) ,( b) ( 13 31 ) , (c) ⎛ ⎜⎝ −11 −1 11 1 −11 2 ⎞ ⎟⎠,( d...",Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.22,"Given the factorizationA = ⎛ ⎜⎝ 2 −10 −64 −1 4 −67 ⎞ ⎟⎠= ⎛ ⎜⎝ 10 0 −31 0 2 −41 ⎞ ⎟⎠ ⎛ ⎜⎝ 2 −10 01 −1 003 ⎞ ⎟⎠, explain, ...",Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.23,(a)W r i t ed o w na4× 4 lower unitriangular matrix whose entries below the diagonal are distinct nonzero numbers. (b) E...,Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.24,"Let t1,t2,... be distinct real numbers. Find theLU factorization of the following Vandermonde matrices:( a) ( 11 t1 t2 )...",Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.25,"Write down the explicit requirements on its entriesaij for a square matrixA to be (a) diagonal, (b) upper triangular, (c...",Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.26,(a) Explain why the product of two lower triangular matrices is lower triangular. (b) What can you say concerning the di...,Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.27,"True or false:I f A has a zero entry on its main diagonal, it is not regular.",Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.28,"In general, how many elementary row operations does one need to perform in order to reduce a regularn×n matrix to upper ...",Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.29,"Prove that ifA is a regular 2×2m a t r i x ,t h e ni t sLU factorization is unique. In other words, ifA = LU = ˆL ˆU whe...",Gaussian Elimination & LU Factorization,Hard
+1,1.3,1.3.30,Prove directly that the matrixA = ( 01 10 ) does not have anLU factorization.,Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.31,Suppose A is regular. (a) Show that the matrix obtained by multiplying each column of A by the sign of its pivot is also...,Gaussian Elimination & LU Factorization,Medium
+1,1.3,1.3.32,"Given theLU factorizations you calculated in Exercise 1.3.21, solve the associated linear systemsAx = b,w h e r eb is th...",Gaussian Elimination & LU Factorization,Easy
+1,1.3,1.3.33,"In each of the following problems, ﬁnd theA = LU factorization of the coeﬃcient matrix, and then use Forward and Back Su...",Gaussian Elimination & LU Factorization,Hard
+1,1.4,1.4.1,"Determine whether the following matrices are singular or nonsingular: (a) ( 01 12 ) ,( b) ( −12 4 −8 ) ,( c) ⎛ ⎜⎝ 01 2 −...","Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.2,"Classify the following matrices as (i)r e g u l a r ,(ii) nonsingular, and/or (iii) singular: (a) ( 21 14 ) , (b) ⎛ ⎜⎝ 3...","Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.3,"Find the equationz = ax +by +c for the plane passing through the three points p1 =( 0,2,−1), p2 =( −2,4,3), p3 =( 2,−1,−...","Pivoting, Permutations & PA=LU",Easy
+1,1.4,1.4.4,"Show that a 2×2m a t r i xA = ( ab cd ) is (a) nonsingular if and only ifad − bc ̸=0 , (b) regular if and only ifad −bc ...","Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.5,"Solve the following systems of equations by Gaussian Elimination: (a) x1 −2x2 +2 x3 =1 5, x1 −2x2 +x3 =1 0, 2x1 −x2 −2x3...","Pivoting, Permutations & PA=LU",Easy
+1,1.4,1.4.6,True or false: A singular matrix cannot be regular.,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.7,True or false: A square matrix that has a column with all 0 entries is singular. What can you say about a linear system ...,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.8,Explain why the solution to the homogeneous systemAx = 0 with nonsingular coeﬃcient matrix isx = 0.,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.9,"Write out the details of the proof of the “if” part of Theorem 1.7: ifA is nonsingular, then the linear systemAx = b has...","Pivoting, Permutations & PA=LU",Hard
+1,1.4,1.4.10,"Write down the elementary 4×4 permutation matrix (a) P1 that permutes the second and fourth rows, and (b) P2 that permut...","Pivoting, Permutations & PA=LU",Easy
+1,1.4,1.4.11,"Write down the permutation matrixP such that (a) P ⎛ ⎜⎝ u v w ⎞ ⎟⎠= ⎛ ⎜⎝ v w u ⎞ ⎟⎠,( b) P ⎛ ⎜⎜⎜⎝ a b c d ⎞ ⎟⎟⎟⎠= ⎛ ⎜⎜⎜⎝...","Pivoting, Permutations & PA=LU",Easy
+1,1.4,1.4.12,Construct a multiplication table that shows all possible products of the 3× 3 permutation matrices (1.30). List all pair...,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.13,Write down all 4×4 permutation matrices that (a)ﬁ xt h et h i r dr o wo fa4×4m a t r i x A;( b) take the third row to th...,"Pivoting, Permutations & PA=LU",Easy
+1,1.4,1.4.14,True or false:( a) Every elementary permutation matrix satisﬁesP2 =I .( b)E v e r y permutation matrix satisﬁesP2 =I .( ...,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.15,(a)L e tP and Q be n × n permutation matrices andv ∈ Rn a vector. Under what conditions does the equationPv = Qv imply t...,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.16,Let P be the 3× 3 permutation matrix such that the productPA permutes the ﬁrst and third rows of the 3×3m a t r i xA.( a...,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.17,"A common notation for a permutationπ of the integers{1,...,m } is as a 2× m matrix ( 123 ... m π(1) π(2) π(3) ... π (m) ...","Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.18,Justify the statement that there aren! diﬀerentn×n permutation matrices.,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.19,Consider the following combination of elementary row operations of type #1: (i)A d d row i to rowj.( ii) Subtract rowj f...,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.20,What is the eﬀect of permuting thecolumns of its coeﬃcient matrix on a linear system? The PermutedLU Factorization As we...,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.21,"For each of the listed matricesA and vectorsb, ﬁnd a permutedLU factorization of the matrix, and use your factorization ...","Pivoting, Permutations & PA=LU",Easy
+1,1.4,1.4.22,For each of the following linear systems ﬁnd a permutedLU factorization of the coeﬃcient matrix and then use it to solve...,"Pivoting, Permutations & PA=LU",Easy
+1,1.4,1.4.23,"(a) Explain why⎛ ⎜⎝ 010 100 001 ⎞ ⎟⎠ ⎛ ⎜⎝ 01 3 2 −11 2 −20 ⎞ ⎟⎠= ⎛ ⎜⎝ 10 0 01 0 1 −11 ⎞ ⎟⎠ ⎛ ⎜⎝ 2 −11 01 3 00 2 ⎞ ⎟⎠, ⎛ ...","Pivoting, Permutations & PA=LU",Easy
+1,1.4,1.4.24,(a) Find three diﬀerent permutedLU factorizations of the matrixA = ⎛ ⎜⎝ 01 2 10 −1 11 3 ⎞ ⎟⎠. (b) How many diﬀerent perm...,"Pivoting, Permutations & PA=LU",Easy
+1,1.4,1.4.25,What is the maximal number of permutedLU factorizations a regular 3×3 matrix can have? Give an example of such a matrix.,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.26,True or false: The pivots of a nonsingular matrix are uniquely deﬁned.,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.27,(a) Write a pseudocode program implementing the algorithm for ﬁnding the permuted LU factorization of a matrix. (b) Prog...,"Pivoting, Permutations & PA=LU",Medium
+1,1.4,1.4.21,The inverse of a matrix is analogous to the reciprocal a−1 =1 /a of a nonzero scalar a ̸= 0. We already encountered the ...,"Pivoting, Permutations & PA=LU",Hard
+1,1.5,1.5.1,"Verify by direct multiplication that the following matrices are inverses, i.e., both conditions in (1.37) hold: (a) A = ...",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.2,Let A = ⎛ ⎜⎝ 120 013 1 −1 −8 ⎞ ⎟⎠. Find the right inverse ofA by setting up and solving the linear system AX = I. Verify...,Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.3,"Write down the inverse of each of the following elementary matrices: (a) ( 01 10 ) , (b) ( 10 51 ) ,( c) ( 1 −2 01 ) ,( ...",Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.5,1.5.4,"Show that the inverse ofL = ⎛ ⎜⎝ 100 a 10 b 01 ⎞ ⎟⎠is L−1 = ⎛ ⎜⎝ 100 −a 10 −b 01 ⎞ ⎟⎠. However, the inverse of M = ⎛ ⎜⎝ ...",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.5,Explain why a matrix with a row of all zeros does not have an inverse.,Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.6,(a) Write down the inverse of the matricesA = ( 11 21 ) and B = ( 1 −1 12 ) .( b)W r i t e down the product matrixC = AB...,Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.5,1.5.7,"(a) Find the inverse of therotation matrix Rθ = ( cosθ −sinθ sinθ cosθ ) ,w h e r eθ ∈ R. (b) Use your result to solve t...",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.8,"(a) Write down the inverses of each of the 3×3 permutation matrices (1.30). (b)W h i c h ones are their own inverses,P−1...",Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.5,1.5.9,"Find the inverse of the following permutation matrices: (a) ⎛ ⎜⎜⎜⎝ 0001 0010 0100 1000 ⎞ ⎟⎟⎟⎠,( b) ⎛ ⎜⎜⎜⎝ 0100 0010 0001...",Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.5,1.5.10,Explain how to write down the inverse permutation using the notation of Exercise,Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.4,1.4.17,"Apply your method to the examples in Exercise 1.5.9, and check the result by verifying that it produces the inverse perm...","Pivoting, Permutations & PA=LU",Medium
+1,1.5,1.5.11,Find all real 2×2 matrices that are their own inverses:A−1 = A.,Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.5,1.5.12,"Show that if a square matrixA satisﬁes A2 −3A+I=O ,t h e nA−1 =3I −A.",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.13,"Prove that ifc ̸= 0 is any nonzero scalar andA is an invertible matrix, then the scalar product matrixcA is invertible, ...",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.14,Show thatA = ⎛ ⎜⎜⎜⎜⎜⎝ 0 a 000 b 0 c 00 0 d 0 e 0 00 f 0 g 000 h 0 ⎞ ⎟⎟⎟⎟⎟⎠ is not invertible for any value of the entrie...,Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.15,"Show that ifA is a nonsingular matrix, so is everyy powerAn.",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.16,"Prove that a diagonal matrixD =d i a g(d1,...,d n) is invertible if and only if all its diagonal entries are nonzero, in...",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.17,"Prove that ifU is a nonsingular upper triangular matrix, then the diagonal entries of U−1 are the reciprocals of the dia...",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.18,"(a)L e tU be am × n matrix andV an n × m matrix, such that them × m matrix Im +UV is invertible. Prove that In +VU is al...",Matrix Inverses & Gauss-Jordan Elimination,Hard
+1,1.5,1.5.19,"Two matricesA and B are said to besimilar, writtenA ∼ B,i ft h e r ee x i s t sa n invertible matrixS such thatB = S−1AS...",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.20,"(a)Ab l o c km a t r i xD = ( A O O B ) is calledblock diagonalif A and B are square matrices, not necessarily of the sa...",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.21,(a) Show thatB = ( 11 0 −1 −11 ) is a left inverse ofA = ⎛ ⎜⎝ 1 −1 01 11 ⎞ ⎟⎠.( b) Show that A does not have a right inv...,Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.22,"Prove that the rectangular matrixA = ( 12 −1 12 0 ) has a right inverse, but no left inverse.",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.23,(a) Are there any nonzero real scalars that satisfy (a+b)−1 = a−1 +b−1? (b) Are there any nonsingular real 2×2 matrices ...,Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.5,1.5.24,(a) Write down the elementary matrix that multiplies the third row of a 4×4m a t r i x by 7. ( b)W r i t ed o w ni t si ...,Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.5,1.5.25,"Find the inverse of each of the following matrices, if possible, by applying the Gauss– Jordan Method. (a) ( 1 −2 3 −3 )...",Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.5,1.5.26,Write each of the matrices in Exercise 1.5.25 as a product of elementary matrices.,Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.27,Express A = ⎛ ⎜⎜⎜⎝ √ 3 2 −1 2 1 2 √ 3 2 ⎞ ⎟⎟⎟⎠as a product of elementary matrices.,Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.28,"Use the Gauss–Jordan Method to ﬁnd the inverse of the following complex matrices: (a) ( i1 1i ) ,( b) ( 11 − i 1+i 1 ) ,...",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.29,Can two nonsingular linear systems have the same solution and yet not be equivalent?,Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.30,"(a) Suppose ˜A is obtained fromA by applying an elementary row operation. Let C = AB,w h e r eB is any matrix of the app...",Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.5,1.5.31,"Solve the following systems of linear equations by computing the inverses of their coeﬃcient matrices. (a) x+2 y =1 , x−...",Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.5,1.5.32,"For each of the nonsingular matrices in Exercise 1.5.25, use your computed inverse to solve the associated linear system...",Matrix Inverses & Gauss-Jordan Elimination,Hard
+1,1.4,1.4.23,"Moreover, in contrast to regular Gaussian Elimination, here the pivots, i.e., the diagonal entries ofU, are no longer un...","Pivoting, Permutations & PA=LU",Medium
+1,1.5,1.5.33,"Produce theLDV or a permutedLDV factorization of the following matrices: (a) ( 12 −31 ) ,( b) ( 04 −72 ) ,( c) ⎛ ⎜⎝ 212 ...",Matrix Inverses & Gauss-Jordan Elimination,Medium
+1,1.5,1.5.34,"Using theLDV factorization for the matrices you found in parts (a–g)o fE x e r c i s e 1.5.33, solve the corresponding l...",Matrix Inverses & Gauss-Jordan Elimination,Easy
+1,1.6,1.6.1,"Write down the transpose of the following matrices: (a) ( 1 5 ) ,( b) ( 11 02 ) , (c) ( 12 21 ) ,( d) ( 12 −1 20 2 ) ,( ...",Transposes & Symmetric Matrices,Easy
+1,1.6,1.6.2,"Let A = ( 3 −1 −1 121 ) , B = ⎛ ⎜⎝ −12 20 −34 ⎞ ⎟⎠. Compute AT and BT. Then compute (AB)T and (BA)T without ﬁrst computi...",Transposes & Symmetric Matrices,Easy
+1,1.6,1.6.3,Show that (AB)T = ATBT if and only ifA and B are square commuting matrices.,Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.4,Prove formula (1.55).,Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.5,"Find a formula for the transposed product (ABC )T in terms ofAT,BT and CT.",Transposes & Symmetric Matrices,Easy
+1,1.6,1.6.6,True or false: Every square matrixA commutes with its transposeAT.,Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.7,A square matrix is callednormal if it commutes with its transpose:ATA = AAT. Find all normal 2×2 matrices.,Transposes & Symmetric Matrices,Easy
+1,1.6,1.6.8,(a) Prove that the inverse transpose operation (1.57) respects matrix multiplication: (AB)−T = A−TB−T.( b) Verify this i...,Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.9,"Prove that ifA is an invertible matrix, thenAAT and ATA are also invertible.",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.10,"If v,w are column vectors with the same number of entries, doesvw T = wv T?",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.11,"Is there a matrix analogue of formula (1.56), namelyATB = BTA?",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.12,"(a)L e tA be anm × n matrix. Let ej denote the 1×n column vector with a single 1 in thejth entry, as in (1.44). Explain ...",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.13,"Let A and B be m × n matrices. (a) Suppose that vTAw = vTBw for all vectors v,w.P r o v et h a tA = B.( b) Give an examp...",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.14,"(a) Explain why the inverse of a permutation matrix equals its transpose:P−1 = PT. (b)I f A−1 = AT,i sA necessarily a pe...",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.15,Let A be a square matrix andP a permutation matrix of the same size. (a) Explain why the productAPT has the eﬀect of app...,Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.16,"Let v,w be n×1c o l u m nv e c t o r s .(a) Prove that in most cases the inverse of then×n matrix A =I −vw T has the for...",Transposes & Symmetric Matrices,Hard
+1,1.6,1.6.17,"Find all values ofa, b,a n dc for which the following matrices are symmetric: (a) ( 3 a 2a−1 a−2 ) ,( b) ⎛ ⎜⎝ 1 a 2 −1 b...",Transposes & Symmetric Matrices,Easy
+1,1.6,1.6.18,"List all symmetric (a)3 ×3 permutation matrices, (b)4 ×4 permutation matrices.",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.19,"True or false:I f A is symmetric, thenA2 is symmetric.",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.20,"True or false:I f A is a nonsingular symmetric matrix, thenA−1 is also symmetric.",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.21,"True or false:I f A and B are symmetricn×n matrices, so isAB.",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.22,(a) Show that every diagonal matrix is symmetric. (b) Show that an upper (lower) triangular matrix is symmetric if and o...,Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.23,Let A be a symmetric matrix. (a) Show thatAn is symmetric for every nonnegative integer n.( b) Show that 2A2 − 3A + I is...,Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.24,"Show that ifA is any matrix, thenK = ATA and L = AAT are both well-deﬁned, symmetric matrices.",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.25,"Find theLDL T factorization of the following symmetric matrices: (a) ( 11 14 ) ,( b) ( −23 3 −1 ) ,( c) ⎛ ⎜⎝ 1 −1 −1 −13...",Transposes & Symmetric Matrices,Easy
+1,1.6,1.6.26,"Find theLDL T factorization of the matrices M2 = ( 21 12 ) , M3 = ⎛ ⎜⎝ 210 121 012 ⎞ ⎟⎠,a n d M4 = ⎛ ⎜⎜⎜⎝ 2100 1210 0121...",Transposes & Symmetric Matrices,Easy
+1,1.6,1.6.27,Prove that the 3×3m a t r i xA = ⎛ ⎜⎝ 121 24 −1 1 −13 ⎞ ⎟⎠cannot be factored asA = LDL T.,Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.28,Skew-symmetric matrices:A n n × n matrix J is calledskew-symmetric if JT = −J. (a) Show that every diagonal entry of a s...,Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.29,"(a) Prove that every square matrix can be expressed as the sum,A = S + J,o fa symmetric matrixS = ST and a skew-symmetri...",Transposes & Symmetric Matrices,Medium
+1,1.6,1.6.30,"Suppose A = LU is a regular matrix. Write down theLU factorization ofAT.P r o v e that AT is also regular, and its pivot...",Transposes & Symmetric Matrices,Hard
+1,1.7,1.7.1,Solve the following linear systems by (i) Gaussian Elimination with Back Substitution; (ii) the Gauss–Jordan algorithm t...,Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.2,"(a)L e tA be ann × n matrix. Which is faster to compute,A2 or A−1?J u s t i f y your answer. ( b) What aboutA3 versus A−...",Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.3,Which is faster: Back Substitution or multiplying a matrix by a vector? How much faster?,Practical & Numerical Linear Algebra,Medium
+1,1.7,1.7.4,"Use induction to prove the summation formulas (1.62), (1.63) and (1.64).",Practical & Numerical Linear Algebra,Hard
+1,1.7,1.7.5,Let A be a generaln×n matrix. Determine the exact number of arithmetic operations needed to computeA−1 using (a) Gaussia...,Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.6,"Count the number of arithmetic operations needed to solve a system the “old-fashioned” way, by using elementary row oper...",Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.7,"An alternative solution strategy, also calledGauss–Jordan in some texts, is, once a pivot is in position, to use element...",Practical & Numerical Linear Algebra,Medium
+1,1.7,1.7.8,"Here, we describe a remarkable algorithm for matrix multiplication discovered by Strassen, [82]. Let A = ( A1 A2 A3 A4 )...",Practical & Numerical Linear Algebra,Hard
+1,1.7,1.7.9,"For each of the following tridiagonal systems ﬁnd theLU factorization of the coeﬃcient matrix, and then solve the system...",Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.10,True or false:( a) The product of two tridiagonal matrices is tridiagonal. (b) The inverse of a tridiagonal matrix is tr...,Practical & Numerical Linear Algebra,Medium
+1,1.7,1.7.11,(a)F i n dt h eLU factorization of then×n tridiagonal matrixAn with all 2’s along the diagonal and all−1’s along the sub...,Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.12,Answer Exercise 1.7.11 if the super-diagonal entries ofAn are changed to +1.,Practical & Numerical Linear Algebra,Medium
+1,1.7,1.7.13,"Find theLU factorizations of ⎛ ⎜⎝ 411 141 114 ⎞ ⎟⎠, ⎛ ⎜⎜⎜⎝ 4101 1410 0141 1014 ⎞ ⎟⎟⎟⎠, ⎛ ⎜⎜⎜⎜⎜⎝ 41001 14100 01410 00141 ...",Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.14,A tricirculant matrix C = ⎛ ⎜⎜⎜⎜⎜⎜⎜⎜⎜⎝ q1 r1 p1 p2 q2 r2 p3 q3 r3 ... ... ... pn−1 qn−1 rn−1 rn pn qn ⎞ ⎟⎟⎟⎟⎟⎟⎟⎟⎟⎠ is tr...,Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.15,A matrixA is said to havebandwidth k if all entries that are more thank slots away from the main diagonal are zero:aij =...,Practical & Numerical Linear Algebra,Medium
+1,1.7,1.7.23,,Practical & Numerical Linear Algebra,Medium
+1,1.7,1.7.16,(a) Find the exact solution to the linear system ( .12 .7 1.0 .5 )( x y ) = ( 10. −6.0 ) .( b)S o l v e the system using...,Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.17,"(a) Find the exact solution to the linear systemx − 5y − z =1 , 1 6 x − 5 6 y + z =0 , 2x−y =3 . (b) Solve the system us...",Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.18,"Answer Exercise 1.7.17 for the system x+4 y −3z = −3, 25 x+97 y −35z = 39, 35 x−22y +33 z = −15.",Practical & Numerical Linear Algebra,Medium
+1,1.7,1.7.19,"Employ 2 digit arithmetic with rounding to compute an approximate solution of the linear system 0.2x +2 y − 3z =6 , 5x +...",Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.20,"Solve the following systems by hand, using pointers instead of physically interchanging the rows: (a) ⎛ ⎜⎝ 01 −2 1 −11 3...",Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.21,"Solve the following systems using Partial Pivoting and pointers: (a) ( 15 2 −3 )( x y ) = ( 3 −2 ) , (b) ⎛ ⎜⎝ 12 −1 4 −2...",Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.22,Use Full Pivoting with pointers to solve the systems in Exercise 1.7.21.,Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.23,"Let Hn be then × n Hilbert matrix (1.72), andKn = H−1 n its inverse. It can be proved, [40; p. 513], that the (i,j)e n t...",Practical & Numerical Linear Algebra,Medium
+1,1.7,1.7.24,"(a) Write out a pseudo-code algorithm, using both row and column pointers, for Gaussian Elimination with Full Pivoting. ...",Practical & Numerical Linear Algebra,Easy
+1,1.7,1.7.21,"So far, we have treated only linear systems involving the same number of equations as unknowns, and then only those with...",Practical & Numerical Linear Algebra,Medium
+1,1.8,1.8.1,Which of the following systems has (i) a unique solution? (ii) inﬁnitely many solutions? (iii) no solution? In each case...,General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.2,"Determine if the following systems are compatible and, if so, ﬁnd the general solution: (a) 6x1 +3 x2 =1 2, 4x1 +2 x2 =9...",General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.3,"Graph the following planes and determine whether they have a common intersection: x+y +z =1 ,x +y =1 ,x +z =1 .",General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.4,Let A = ⎛ ⎜⎝ a 0 b a 2 a b 2 a ⏐⏐⏐⏐⏐⏐⏐ 2 b a ⎞ ⎟⎠be the augmented matrix for a linear system. For which values ofa and b...,General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.5,"Determine the general (complex) solution to the following systems: (a) 2x+(1+i) y −2i z =2i , (1− i)x+y −2i z =0 . (b) x...",General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.6,"For which values ofb and c does the systemx1 +x2 +bx3 =1 ,b x 1 +3 x2 −x3 = −2, 3x1 +4 x2 +x3 = c, have (a) no solution?...",General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.7,"Determine the rank of the following matrices: (a) ( 11 1 −2 ) ,( b) ( 213 −2 −1 −3 ) , (c) ⎛ ⎜⎝ 1 −11 1 −12 −11 0 ⎞ ⎟⎠,(...",General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.8,Write out aPA = LU factorization for each of the matrices in Exercise 1.8.7.,General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.9,Construct a system of three linear equations in three unknowns that has (a) one and only one solution; (b) more than one...,General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.10,Find a coeﬃcient matrixA such that the associated linear systemAx = b has (a) inﬁnitely many solutions for everyb;( b)0o...,General Linear Systems & Matrix Rank,Easy
+1,1.8,1.8.11,Give an example of anonlinear system of two equations in two unknowns that has (a) no solution; (b) exactly two solution...,General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.12,What does it mean if a linear system has a coeﬃcient matrix with a column of all 0’s?,General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.13,"True or false: One can ﬁnd anm×n matrix of rankr for every 0≤ r ≤ min{m,n }.",General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.14,True or false:E v e r ym×n matrix has (a)e x a c t l ym pivots; (b) at least one pivot.,General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.15,(a) Prove that the productA = vw T of a nonzerom×1c o l u m nv e c t o rv and a nonzero 1×n row vectorwT is anm×n matrix...,General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.16,(a)L e tA be anm ×n matrix and letM = ( A | b ) be the augmented matrix for the linear systemAx = b. Show that either (i...,General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.17,Find the rank of the matrix ⎛ ⎜⎜⎜⎜⎜⎜⎝ aa r . . . a r n−1 arn arn+1 ... ar 2n−1 ... ... ... ... ar(n−1)n ar(n−1)n+1 ... a...,General Linear Systems & Matrix Rank,Easy
+1,1.8,1.8.18,Find the rank of then×n matrix ⎛ ⎜⎜⎜⎜⎜⎜⎜⎝ 12 3 ... n n+1 n+2 n+3 ... 2n 2n+1 2 n+2 2 n+3 ... 3n ... ... ... ... ... n2 −...,General Linear Systems & Matrix Rank,Easy
+1,1.8,1.8.19,"Find two matricesA,B such that rankAB ̸=r a n kBA.",General Linear Systems & Matrix Rank,Easy
+1,1.8,1.8.20,"Let A be anm×n matrix of rankr.( a) Suppose C =( AB )i sa nm×k matrix, k>n , whose ﬁrstn c o l u m n sa r et h es a m ea...",General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.21,"LetA be a singular square matrix. Prove that there exist elementary matricesE1,...,E N such thatA = E1E2 ··· EN Z,w h e ...",General Linear Systems & Matrix Rank,Hard
+1,1.8,1.8.22,"Solve the following homogeneous linear systems. (a) x+y −2z =0 , −x+4 y −3z =0 . (b) 2x+3 y −z =0 , −4x+3 y −5z =0 , x−3...",General Linear Systems & Matrix Rank,Easy
+1,1.8,1.8.23,"Find all solutions to the homogeneous systemAx = 0 for the coeﬃcient matrix (a) ( 3 −1 −93 ) ,( b) ( 2 −14 31 2 ) ,( c) ...",General Linear Systems & Matrix Rank,Easy
+1,1.8,1.8.24,Let U be an upper triangular matrix. Show that the homogeneous systemUx = 0 admits a nontrivial solution if and only ifU...,General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.25,"Find the solution to the homogeneous system 2x1 +x2 −2x3 =0 ,2x1 −x2 −2x3 =0 . Then solve the inhomogeneous version wher...",General Linear Systems & Matrix Rank,Easy
+1,1.8,1.8.26,"Answer Exercise 1.8.25 for the system 2x1+x2+x3−x4 =0 ,2x1−2x2−x3+3x4 =0 .",General Linear Systems & Matrix Rank,Medium
+1,1.8,1.8.27,Find all values ofk for which the following homogeneous systems of linear equations have a non-trivial solution: (a) x+k...,General Linear Systems & Matrix Rank,Easy
+1,1.9,1.9.1,"Use Gaussian Elimination to ﬁnd the determinant of the following matrices: (a) ( 2 −1 −43 ) ,( b) ⎛ ⎜⎝ 01 −2 −103 2 −30 ...",Determinants & Properties,Medium
+1,1.9,1.9.2,"Verify the determinant product formula (1.85) when A = ⎛ ⎜⎝ 1 −13 2 −11 4 −20 ⎞ ⎟⎠,B = ⎛ ⎜⎝ 01 −1 1 −3 −2 201 ⎞ ⎟⎠.",Determinants & Properties,Medium
+1,1.9,1.9.3,"(a) Give an example of a non-diagonal 2×2 matrix for whichA2 =I .( b) In general, if A2 = I, show that detA = ±1. (c)I f...",Determinants & Properties,Hard
+1,1.9,1.9.4,"True or false: If true, explain why. If false, give an explicit counterexample. (a)I fd e tA ̸=0t h e nA−1 exists. (b) d...",Determinants & Properties,Medium
+1,1.9,1.9.5,Prove that the similar matricesB = S−1 AS have the same determinant: detA =d e tB.,Determinants & Properties,Medium
+1,1.9,1.9.6,"Prove that ifA is an×n matrix andc is a scalar, then det(cA)= cn detA.",Determinants & Properties,Medium
+1,1.9,1.9.7,Prove that the determinant of a lower triangular matrix is the product of its diagonal entries.,Determinants & Properties,Medium
+1,1.9,1.9.8,"(a) Show that ifA has sizen × n,t h e nd e t (−A)=( −1)n detA.( b) Prove that, for n odd, anyn × n skew-symmetric matrix...",Determinants & Properties,Medium
+1,1.9,1.9.9,Prove directly that the 2× 2 determinant formula (1.38) satisﬁes the four determinant axioms listed in Theorem 1.50.,Determinants & Properties,Hard
+1,1.9,1.9.10,"In this exercise, we prove the determinantal product formula (1.85). (a)P r o v et h a t if E is any elementary matrix (...",Determinants & Properties,Hard
+1,1.9,1.9.11,Prove (1.86).,Determinants & Properties,Medium
+1,1.9,1.9.12,"Prove (1.89). Hint: Use Exercise 1.6.30 in the regular case. Then extend to the nonsingular case. Finally, explain why t...",Determinants & Properties,Medium
+1,1.9,1.9.13,Write out the formula for a 4×4 determinant. It should contain 24 = 4! terms.,Determinants & Properties,Medium
+1,1.9,1.9.14,"Show that (1.87) satisﬁes all four determinant axioms, and hence is the correct formula for a determinant.",Determinants & Properties,Medium
+1,1.9,1.9.15,Prove that axiom (iv) in Theorem 1.50 can be proved as a consequence of the ﬁrst three axioms and the property det I = 1...,Determinants & Properties,Hard
+1,1.9,1.9.16,Prove that one cannot produce an elementary row operation of type #2 by a combination of elementary row operations of ty...,Determinants & Properties,Medium
+1,1.9,1.9.17,"Show that (a)i f A = ( ab cd ) is regular, then its pivots area and detA a ; (b)i f A = ⎛ ⎜⎝ abe cdf ghj ⎞ ⎟⎠is regular,...",Determinants & Properties,Hard
+1,1.9,1.9.18,"In this exercise, we justify the use of “elementary column operations” to compute determinants. Prove that (a) adding a ...",Determinants & Properties,Medium
+1,1.9,1.9.19,Find the determinant of the Vandermonde matrices listed in Exercise 1.3.24. Can you guess the generaln×n formula?,Determinants & Properties,Easy
+1,1.9,1.9.20,"Cramer’s Rule.( a) Show that the nonsingular systemax +by = p, cx +dy = q has the solution given by the determinantal ra...",Determinants & Properties,Hard
+1,1.9,1.9.21,"(a) Show that ifD = ( A O O B ) is a block diagonal matrix, whereA and B are square matrices, then detD =d e tA detB.( b...",Determinants & Properties,Hard
+2,2.1,2.1.1,Show that the set of complex numbersx +i y forms a real vector space under the operations of addition (x +i y)+( u +i v)...,Real Vector Spaces & Axioms,Medium
+2,2.1,2.1.2,"Show that the positive quadrantQ = {(x,y)|x,y > 0}⊂ R2 forms a vector space if we deﬁne addition by (x1,y1)+( x2,y2)=( x...",Real Vector Spaces & Axioms,Medium
+2,2.1,2.1.3,Let S be any set. Carefully justify the validity of all the vector space axioms for the space F(S) consisting of all rea...,Real Vector Spaces & Axioms,Medium
+2,2.1,2.1.4,"Let S = {0,1,2,3}.( a) Find the sample vectors corresponding to the functions 1, cos πx, cos2 πx, cos3 πx. (b) Is a func...",Real Vector Spaces & Axioms,Easy
+2,2.1,2.1.5,"Find two diﬀerent functionsf(x)a n dg(x) that have thesame sample vectorsf,g at the sample pointsx1 =0 ,x 2 =1 ,x 3 = −1...",Real Vector Spaces & Axioms,Easy
+2,2.1,2.1.6,"(a)L e tx1 =0 ,x 2 = 1. Find the unique linear functionf(x)= ax + b that has the sample vectorf =(3 ,−1)T.( b)L e tx1 =0...",Real Vector Spaces & Axioms,Easy
+2,2.1,2.1.7,"Let F(R2,R2) denote the vector space consisting of all functionsf:R2 → R2. (a) Which of the following functionsf(x,y) ar...",Real Vector Spaces & Axioms,Medium
+2,2.1,2.1.8,"A planar vector ﬁeldis a function that assigns a vectorv(x,y)= ( v1(x,y) v2(x,y) ) to each point ( x y ) ∈ R2. Explain w...",Real Vector Spaces & Axioms,Medium
+2,2.1,2.1.9,"Let h,k > 0b eﬁ x e d .L e tS = {(ih,jk )|1 ≤ i ≤ m,1 ≤ j ≤ n} be points in a rectangular planar grid. Show that the fun...",Real Vector Spaces & Axioms,Medium
+2,2.1,2.1.10,"The spaceR∞ is deﬁned as the set of all inﬁnite real sequencesa =( a1,a2,a3,... ), where ai ∈ R. Deﬁne addition and scal...",Real Vector Spaces & Axioms,Medium
+2,2.1,2.1.11,"Prove the basic vector space properties (i), (j), (k) following Deﬁnition 2.1.",Real Vector Spaces & Axioms,Medium
+2,2.1,2.1.12,Prove that a vector space has only one zero element0.,Real Vector Spaces & Axioms,Medium
+2,2.1,2.1.13,"Suppose thatV and W are vector spaces. TheCartesian product space, denoted by V ×W, is deﬁned as the set of all ordered ...",Real Vector Spaces & Axioms,Medium
+2,2.1,2.1.14,"Use Exercise 2.1.13 to show that the space of pairs (f(x),a), wheref is a continuous scalar function anda is a real numb...",Real Vector Spaces & Axioms,Hard
+2,2.2,2.2.23,(f )T h es p a c eA(I) of analytic functions on the intervalI. Recall that a functionf(x) is calledanalytic at a pointa ...,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.30,"(g) The set of all mean zero functions. Themean or average of an integrable function deﬁned on a closed intervalI =[ a,b...",Subspaces of Vector Spaces,Hard
+2,2.2,2.2.1,"(a) Prove that the set of all vectors (x,y,z )T such thatx−y +4 z = 0 forms a subspace of R3.( b) Explain why the set of...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.2,"Which of the following are subspaces ofR3? Justify your answers! (a)T h es e to fa l l vectors (x,y,z )T satisfying x+y+...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.3,"Graph the following subsets ofR3 and use this to explain which are subspaces: (a) The line (t,−t,3t)T for t ∈ R.( b) The...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.4,"Show that ifW ⊂ R3 is a subspace containing the vectors (1,2,−1)T,(2 ,0,1)T, (0,−1,3)T,t h e nW = R3.",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.5,True or false: An interval is a vector space.,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.6,"(a) Can you construct an example of a subsetS ⊂ R2 with the property thatcv ∈ S for allc ∈ R, v ∈ S,a n dy e tS is not a...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.7,"Determine which of the following sets of vectorsx =( x1,x2,...,x n )T are subspaces of Rn:( a) all equal entriesx1 = ···...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.8,Prove that the set of all solutionsx of the linear systemAx = b forms a subspace if and only if the system is homogeneou...,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.9,A square matrix is calledstrictly lower triangularif all entries on or above the main diagonal are 0. Prove that the spa...,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.10,Which of the following are subspaces of the vector space ofn×n matrices Mn×n? The set of all (a) regular matrices; (b) n...,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.11,The trace of ann × n matrix A ∈M n×n is deﬁned to be the sum of its diagonal entries: trA = a11 +a22 +··· +ann. Prove th...,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.12,(a)I st h es e to fn×n matrices with detA = 1 a subspace ofMn×n? (b) What about the matrices with detA =0 ?,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.13,Let V =C 0(R) be the vector space consisting of all continuous functionsf:R → R. Explain why the set of all functions su...,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.14,"Which of the following are vector spaces? Justify your answer! (a)T h e s e t o f a l l r o w vectors of the form (a,3a)...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.15,Determine which of the following conditions describe subspaces of the vector space C1 consisting of all continuously diﬀ...,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.16,"Let V =C 0[a,b ] be the vector space consisting of all functionsf(t) that are deﬁned and continuous on the interval 0≤ t...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.17,Prove that the set of solutions to the second order ordinary diﬀerential equation u′′= xu is a vector space.,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.18,Show that the set of solutions tou′′= x+u does not form a vector space.,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.19,"(a)P r o v et h a tC1([a,b ],R2), which is the space of continuously diﬀerentiable parameterized plane curvesf:[ a,b ] →...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.20,"A planar vector ﬁeldv(x,y)=( u(x,y),v(x,y))T is calledirrotational if it has zero divergence: ∇· v = ∂u ∂x + ∂v ∂y ≡ 0. ...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.21,"Let C ⊂ R∞ denote the set of all convergent sequences of real numbers, whereR∞ was",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.21,IsC a subspace?,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.22,"Show that ifW and Z are subspaces ofV,t h e n(a) their intersectionW ∩ Z is a subspace ofV,( b)t h e i rs u mW + Z = {w ...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.23,Let V be a vector space. Prove that the intersection ⋂ Wi of any collection (ﬁnite or inﬁnite) of subspacesWi ⊂ V is a s...,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.24,"Let W ⊂ V be a subspace. A subspaceZ ⊂ V is called acomplementary subspaceto W if (i) W ∩Z = {0},a n d (ii) W +Z = V, i....",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.25,"(a) Show thatV0 = {(v,0)|v ∈ V } and W0 = {(0,w)|w ∈ W } are complementary subspaces, as in Exercise 2.2.24, of the Cart...",Subspaces of Vector Spaces,Medium
+2,2.1,2.1.13,"( b) Prove that thediagonal D = {(v,v)} and theanti-diagonal A = {(v,−v)} are complementary subspaces ofV ×V.",Real Vector Spaces & Axioms,Medium
+2,2.2,2.2.26,Show that the set of skew-symmetricn× n matrices forms a complementary subspace to the set of symmetricn×n matrices. Exp...,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.27,"(a) Show that the set of even functions,f(−x)= f(x), is a subspace of the vector space of all functionsF(R). ( b) Show t...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.24,(c) Explain why every function can be uniquely written as the sum of an even function and an odd function.,Subspaces of Vector Spaces,Medium
+2,2.2,2.2.28,"Let V be a vector space. A subset of the formA = {w +a |w ∈ W },w h e r eW ⊂ V is a subspace anda ∈ V is a ﬁxed vector, ...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.29,"Quotient spaces:L e tV be a vector space andW ⊂ V a subspace. We say that two vectorsu,v ∈ V are equivalent moduloW if u...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.28,"(e) Prove that the set of equivalence classes, called thequotient spaceand denoted byV/W = {[u]| u ∈ V }, forms a vector...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.30,"Deﬁne f(x)= ⎧ ⎨ ⎩ e−1/x,x > 0, 0,x ≤ 0. (a) Prove that all derivatives off vanish at the origin:f(n)(0) = 0 forn =0 ,1,2...",Subspaces of Vector Spaces,Medium
+2,2.2,2.2.31,"Let f(x)= 1 1+ x2 .( a) Find the Taylor series off at a =0 .( b) Prove that the Taylor series converges for|x| < 1, but ...",Subspaces of Vector Spaces,Hard
+2,2.3,2.3.1,"Show that ⎛ ⎜⎝ −1 2 3 ⎞ ⎟⎠belongs to the subspace ofR3 spanned by ⎛ ⎜⎝ 2 −1 2 ⎞ ⎟⎠, ⎛ ⎜⎝ 5 −4 1 ⎞ ⎟⎠by writing it as a l...",Span & Linear Independence,Medium
+2,2.3,2.3.2,"Show that ⎛ ⎜⎜⎜⎝ −3 7 6 1 ⎞ ⎟⎟⎟⎠is in the subspace ofR4 spanned by ⎛ ⎜⎜⎜⎝ 1 −3 −2 0 ⎞ ⎟⎟⎟⎠, ⎛ ⎜⎜⎜⎝ −2 6 3 4 ⎞ ⎟⎟⎟⎠and ⎛ ...",Span & Linear Independence,Medium
+2,2.3,2.3.3,(a) Determine whether ⎛ ⎜⎝ 1 −2 −3 ⎞ ⎟⎠is in the span of ⎛ ⎜⎝ 1 1 0 ⎞ ⎟⎠and ⎛ ⎜⎝ 0 1 1 ⎞ ⎟⎠.( b)I s ⎛ ⎜⎝ 1 −2 −1 ⎞ ⎟⎠in ...,Span & Linear Independence,Medium
+2,2.3,2.3.4,"Which of the following sets of vectors span all ofR2?( a) ( 1 −1 ) ;( b) ( 2 −1 ) , ( 1 3 ) ; (c) ( 2 −1 ) , ( −1 2 ) ;(...",Span & Linear Independence,Medium
+2,2.3,2.3.5,"(a) Graph the subspace ofR3 spanned by the vectorv1 =(3 ,0,1)T. (b) Graph the subspace spanned by the vectorsv1 =(3 ,−2,...",Span & Linear Independence,Medium
+2,2.3,2.3.6,"Let U be the subspace ofR3 spanned byu1 =(1 ,2,3)T, u2 =(2 ,−1,0)T.L e tV be the subspace spanned byv1 =(5 ,0,3)T, v2 =(...",Span & Linear Independence,Medium
+2,2.3,2.3.7,(a)L e tS be the subspace ofM2×2 consisting of all symmetric 2×2 matrices. Show that S is spanned by the matrices ( 10 0...,Span & Linear Independence,Medium
+2,2.3,2.3.8,"(a) Determine whether the polynomialsx2 +1,x2 −1,x2 +x+1span P(2). (b)D o x3 −1,x2 +1,x −1,1s p a nP(3)?( c) What aboutx...",Span & Linear Independence,Medium
+2,2.3,2.3.9,"Determine whether any of the following functions lies in the subspace spanned by 1,x, sinx,sin2 x:( a)3 −5x, (b) x2 +sin...",Span & Linear Independence,Medium
+2,2.3,2.3.10,"Write the following trigonometric functions in phase–amplitude form: (a)s i n 3x, (b)c o sx−sinx, (c)3 c o s 2x+4sin2 x,...",Span & Linear Independence,Medium
+2,2.3,2.3.11,(a) Prove that the set of solutions to the homogeneous ordinary diﬀerential equation u′′−4u′+3 u =0i sav e c t o rs p a ...,Span & Linear Independence,Medium
+2,2.3,2.3.12,"Explain why the functions 1,cosx,sinx span the solution space to the third order ordinary diﬀerential equationu′′′+u′ =0...",Span & Linear Independence,Medium
+2,2.3,2.3.13,Find a ﬁnite set of real functions that spans the solution space to the following homogeneous ordinary diﬀerential equat...,Span & Linear Independence,Easy
+2,2.3,2.3.14,"Consider the boundary value problemu′′+4 u =0 , 0 ≤ x ≤ π, u(0) = 0,u (π)=0 . (a) Prove, without solving, that the set o...",Span & Linear Independence,Medium
+2,2.3,2.3.15,"Which of the following functions lie in the span of the vector-valued functions f1(x)= ( 1 x ) , f2(x)= ( x 1 ) , f3(x)=...",Span & Linear Independence,Medium
+2,2.3,2.3.16,True or false: The zero vector belongs to the span of any collection of vectors.,Span & Linear Independence,Medium
+2,2.3,2.3.17,"Prove or give a counter-example: ifz is a linear combination ofu,v,w,t h e nw is a linear combination ofu,v,z.",Span & Linear Independence,Medium
+2,2.3,2.3.18,"Suppose v1,..., vm span V.L e tvm+1,..., vn ∈ V be any other elements. Prove that the combined collectionv1,..., vn also...",Span & Linear Independence,Medium
+2,2.3,2.3.19,"(a) Show that ifv is a linear combination ofv1,..., vm,a n de a c hvj is a linear combination ofw1,..., wn,t h e nv is a...",Span & Linear Independence,Medium
+2,2.3,2.3.20,"The span of an inﬁnite collectionv1,v2,v3,... ∈ V of vector space elements is deﬁned as the set of allﬁnite linear combi...",Span & Linear Independence,Hard
+2,2.3,2.3.37,"An easier proof, based on orthogonality, will appear in Chapter 4. Let us now focus our attention on the linear independ...",Span & Linear Independence,Hard
+2,2.3,2.3.21,"Determine whether the given vectors are linearly independent or linearly dependent: (a) ( 1 2 ) , ( 2 1 ) , (b) ( 1 3 ) ...",Span & Linear Independence,Medium
+2,2.3,2.3.22,"(a) Show that the vectors ⎛ ⎜⎜⎜⎝ 1 0 2 1 ⎞ ⎟⎟⎟⎠, ⎛ ⎜⎜⎜⎝ −2 3 −1 1 ⎞ ⎟⎟⎟⎠, ⎛ ⎜⎜⎜⎝ 2 −2 1 −1 ⎞ ⎟⎟⎟⎠are linearly independen...",Span & Linear Independence,Medium
+2,2.3,2.3.23,"(a) Show that the vectors ⎛ ⎜⎜⎜⎝ 1 1 1 0 ⎞ ⎟⎟⎟⎠, ⎛ ⎜⎜⎜⎝ 1 1 −1 0 ⎞ ⎟⎟⎟⎠, ⎛ ⎜⎜⎜⎝ 1 −1 0 1 ⎞ ⎟⎟⎟⎠, ⎛ ⎜⎜⎜⎝ 1 −1 0 −1 ⎞ ⎟⎟⎟⎠...",Span & Linear Independence,Medium
+2,2.3,2.3.24,"Determine whether the given row vectors are linearly independent or linearly dependent: (a)( 2,1) ,(−1,3) ,(5,2), ( b)( ...",Span & Linear Independence,Medium
+2,2.3,2.3.25,True or false:T h es i x3×3 permutation matrices (1.30) are linearly independent.,Span & Linear Independence,Medium
+2,2.3,2.3.26,True or false: Asetof vectorsis linearly dependent if the zero vectorbelongs to their span.,Span & Linear Independence,Medium
+2,2.3,2.3.27,Does a single vector ever deﬁne a linearly dependent set?,Span & Linear Independence,Medium
+2,2.3,2.3.28,"Let x and y be linearly independent elements of a vector spaceV. Show that u = ax +by,a n dv = cx +dy are linearly indep...",Span & Linear Independence,Medium
+2,2.3,2.3.29,"Prove or give a counterexample to the following statement: Ifv1,..., vk are elements of av e c t o rs p a c eV that do n...",Span & Linear Independence,Medium
+2,2.3,2.3.30,Prove parts (b)a n d(c) of Theorem 2.21.,Span & Linear Independence,Hard
+2,2.3,2.3.31,"(a)P r o v et h a ti fv1,..., vm are linearly independent, then every subset, e.g.,v1,..., vk with k<m , is also linearl...",Span & Linear Independence,Medium
+2,2.3,2.3.32,"(a) Determine whether the polynomialsf1(x)= x2 −3,f 2(x)=2 −x, f3(x)=( x−1)2, are linearly independent or linearly depen...",Span & Linear Independence,Medium
+2,2.3,2.3.33,"Determine whether the given functions are linearly independent or linearly dependent: (a)2 −x2, 3x, x2 +x−2, (b)3 x−1,x ...",Span & Linear Independence,Medium
+2,2.3,2.3.34,"Show that the functionsf(x)= x and g(x)= |x| are linearly independent when considered as functions on all ofR, but are l...",Span & Linear Independence,Medium
+2,2.3,2.3.35,"(a) Prove that the polynomialspi(x)= n∑ j=0 aij xj for i =1 ,...,k are linearly independent if and only if thek × (n +1 ...",Span & Linear Independence,Medium
+2,2.3,2.3.36,"The Fundamental Theorem of Algebra, [26], states that a non-zero polynomial of degree n has at mostn distinct real roots...",Span & Linear Independence,Hard
+2,2.3,2.3.37,"(a)L e tx1,x2,...,x n be a set of distinct sample points. Prove that the functions f1(x),...,f k(x) are linearly indepen...",Span & Linear Independence,Medium
+2,2.3,2.3.38,"Suppose f1(t),..., fk(t) are vector-valued functions fromR to Rn.( a)P r o v et h a ti f f1(t0),..., fk(t0) are linearly...",Span & Linear Independence,Medium
+2,2.3,2.3.39,"The Wronskian of a pair of diﬀerentiable functionsf(x),g(x) is the scalar function W[f(x),g(x)]=det ⎛ ⎝ f(x) g(x) f′(x) ...",Span & Linear Independence,Hard
+2,2.4,2.4.22,"Lemma 2.34. The elementsv1,..., vn form a basis ofV if and only if everyx ∈V can be writtenuniquely as a linear combinat...",Bases & Dimension,Hard
+2,2.4,2.4.1,"Determine which of the following sets of vectors are bases ofR2:( a) ( 1 −3 ) , ( −2 5 ) ; (b) ( 1 −1 ) , ( −1 1 ) ;( c)...",Bases & Dimension,Medium
+2,2.4,2.4.2,"Determine which of the following are bases ofR3:( a) ⎛ ⎜⎝ 2 1 5 ⎞ ⎟⎠, ⎛ ⎜⎝ 1 5 2 ⎞ ⎟⎠;( b) ⎛ ⎜⎝ 0 1 −5 ⎞ ⎟⎠, ⎛ ⎜⎝ −1 3 0...",Bases & Dimension,Medium
+2,2.4,2.4.3,"Let v1 = ⎛ ⎜⎝ 1 0 2 ⎞ ⎟⎠, v2 = ⎛ ⎜⎝ 3 −1 1 ⎞ ⎟⎠, v3 = ⎛ ⎜⎝ 2 −1 −1 ⎞ ⎟⎠, v4 = ⎛ ⎜⎝ 4 −1 3 ⎞ ⎟⎠.( a)D o v1,v2,v3,v4 span ...",Bases & Dimension,Medium
+2,2.4,2.4.4,"Answer Exercise 2.4.3 whenv1 = ⎛ ⎜⎝ 1 −1 2 ⎞ ⎟⎠, v2 = ⎛ ⎜⎝ 2 −2 5 ⎞ ⎟⎠, v3 = ⎛ ⎜⎝ 0 −2 1 ⎞ ⎟⎠, v4 = ⎛ ⎜⎝ 1 3 −1 ⎞ ⎟⎠.",Bases & Dimension,Medium
+2,2.4,2.4.5,Find a basis for (a) the plane given by the equationz − 2y =0i n R3;( b) the plane given by the equation 4x+3 y −z =0i n...,Bases & Dimension,Easy
+2,2.4,2.4.6,"(a) Show that ⎛ ⎜⎝ 4 0 1 ⎞ ⎟⎠, ⎛ ⎜⎝ 2 1 0 ⎞ ⎟⎠,a n d ⎛ ⎜⎝ 2 −1 1 ⎞ ⎟⎠, ⎛ ⎜⎝ 0 2 −1 ⎞ ⎟⎠ are two diﬀerent bases for the p...",Bases & Dimension,Medium
+2,2.4,2.4.7,"A basisv1,..., vn of Rn is calledright-handed if then×n matrix A =( v1 v2 ... vn ) whose columns are the basis vectors h...",Bases & Dimension,Medium
+2,2.4,2.4.8,"Find a basis for and the dimension of the following subspaces: (a) The space of solutions to the linear systemAx = 0,w h...",Bases & Dimension,Hard
+2,2.4,2.4.9,"(a)P r o v et h a t1 +t2,t +t2,1+2 t+t2 is a basis for the space of quadratic polynomials P(2).( b) Find the coordinates...",Bases & Dimension,Easy
+2,2.4,2.4.10,"Find a basis for and the dimension of the span of (a) ⎛ ⎜⎝ 3 1 −1 ⎞ ⎟⎠, ⎛ ⎜⎝ −6 −2 2 ⎞ ⎟⎠,( b) ⎛ ⎜⎝ 2 0 1 ⎞ ⎟⎠, ⎛ ⎜⎝ 0 −...",Bases & Dimension,Easy
+2,2.4,2.4.11,"(a) Show that 1,1−t,(1−t)2,(1−t)3 is a basis forP(3). (b)W r i t ep(t)=1+ t3 in terms of the basis elements.",Bases & Dimension,Medium
+2,2.4,2.4.12,"Let P(4) denote the vector space consisting of all polynomialsp(x)o fd e g r e e≤ 4. (a)A r ex3 − 3x +1 ,x 4 − 6x +3 ,x ...",Bases & Dimension,Hard
+2,2.4,2.4.13,"Let S = { 0, 1 4, 1 2, 3 4 } .( a) Show that the sample vectors corresponding to the functions 1, cosπx,c o s2πx,a n dc ...",Bases & Dimension,Medium
+2,2.4,2.4.14,(a) Prove that the vector space of all 2× 2 matrices is a four-dimensional vector space by exhibiting a basis. (b) Gener...,Bases & Dimension,Hard
+2,2.4,2.4.15,"Determine all values of the scalark for which the following four matrices form a basis for M2×2: A1 = ( 1 −1 00 ) ,A 2 =...",Bases & Dimension,Medium
+2,2.4,2.4.16,Prove that the space of diagonaln×n matrices is ann-dimensional vector space.,Bases & Dimension,Hard
+2,2.4,2.4.17,(a) Find a basis for and the dimension of the space of upper triangular 2× 2 matrices. (b) Can you generalize your resul...,Bases & Dimension,Easy
+2,2.4,2.4.18,(a) What is the dimension of the vector space of 2× 2 symmetric matrices? Of skew- symmetric matrices? ( b) Generalize t...,Bases & Dimension,Medium
+2,2.4,2.4.19,"A matrix is said to be asemi-magic squareif its row sums and column sums (i.e., the sum of entries in an individual row ...",Bases & Dimension,Hard
+2,2.4,2.4.20,"(a)P r o v et h a ti fv1,..., vm forms a basis forV ⊊R n,t h e nm<n .( b) Under the hypothesis of part (a), prove that t...",Bases & Dimension,Medium
+2,2.4,2.4.21,"Suppose thatv1,..., vn form a basis forRn.L e tA be a nonsingular matrix. Prove that Av1,...,A vn also form a basis forR...",Bases & Dimension,Medium
+2,2.4,2.4.22,"Show that ifv1,..., vn span V ̸= {0}, then one can choose a subsetvi1 ,..., vim that forms a basis ofV.T h u s ,d i mV =...",Bases & Dimension,Medium
+2,2.4,2.4.23,"Prove that ifv1,..., vn are a basis ofV, then every subset thereof, e.g.,vi1 ,..., vik,i s linearly independent.",Bases & Dimension,Medium
+2,2.4,2.4.24,"Show, by example, how the uniqueness result in Lemma 2.34 fails if one has a linearly dependent set of vectors.",Bases & Dimension,Medium
+2,2.4,2.4.25,"Let W ⊂ V be a subspace. (a)P r o v et h a td i mW ≤ dimV. (b)P r o v et h a ti fd i mW =d i mV = n< ∞,t h e nW = V. Equ...",Bases & Dimension,Hard
+2,2.4,2.4.26,"Let W,Z ⊂ V be complementary subspaces in a ﬁnite-dimensional vector spaceV,a si n",Bases & Dimension,Hard
+2,2.2,2.2.24,"(a)P r o v et h a ti fw1,..., wj form a basis forW and z1,..., zk ab a s i sf o r Z,t h e nw1,..., wj,z1,..., zk form a ...",Subspaces of Vector Spaces,Medium
+2,2.4,2.4.27,"Let V be a ﬁnite-dimensional vector space andW ⊂ V a subspace. Prove that the quotient space, as deﬁned in Exercise 2.2....",Bases & Dimension,Hard
+2,2.4,2.4.28,"Let f1(x),...,f n(x) be scalar functions. Suppose thatevery set of sample points x1,...,x m ∈ R, for all ﬁnitem ≥ 1, lea...",Bases & Dimension,Hard
+2,2.5,2.5.1,"Characterize the image and kernel of the following matrices: (a) ( 8 −4 −63 ) ,( b) ( 1 −12 −22 −4 ) ,( c) ⎛ ⎜⎝ 123 −241...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.2,"For the following matrices, write the kernel as the span of a ﬁnite number of vectors. Is the kernel a point, line, plan...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.3,"(a) Find the kernel and image of the coeﬃcient matrix for the systemx −3y +2 z = a, 2x − 6y +2 w = b, z − 3w = c. (b) Wr...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.4,Suppose x⋆ = ⎛ ⎜⎝ 1 2 3 ⎞ ⎟⎠is a particular solution to the equation ⎛ ⎜⎝ 1 −10 −101 01 −1 ⎞ ⎟⎠x = b. (a)W h a ti sb?( b...,Fundamental Matrix Subspaces,Easy
+2,2.5,2.5.5,"Prove that the average of all the entries in each row ofA is 0 if and only if (1,1,..., 1)T ∈ kerA.",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.6,"True or false:I f A is a square matrix, then kerA ∩ imgA = {0}.",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.7,Write the general solution to the following linear systems in the form (2.27). Clearly identify the particular solutionx...,Fundamental Matrix Subspaces,Hard
+2,2.5,2.5.8,"Given a,r ̸= 0, characterize the kernel and the image of the matrix ⎛ ⎜⎜⎜⎜⎜⎝ a ar ... ar n−1 arn arn+1 ... ar 2n−1 ... ....",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.9,"Let the square matrixP be idempotent, meaning thatP2 = P.( a)P r o v et h a t w ∈ imgP if and only ifP w = w.( b) Show t...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.10,Let A be anm ×n matrix. Suppose thatC = ( A B ) is an (m + k) ×n matrix whose ﬁrst m rows are the same as those ofA. Pro...,Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.11,Let A be anm ×n matrix. Suppose thatC =( AB )i sa nm ×(n+k)m a t r i xw h o s e ﬁrst n c o l u m n sa r et h es a m ea s...,Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.12,"Find the solutionx⋆ 1 to the system ( 12 −3 −4 )( x y ) = ( 1 0 ) , and the solutionx⋆ 2 to ( 12 −3 −4 )( x y ) = ( 0 1 ...",Fundamental Matrix Subspaces,Easy
+2,2.5,2.5.13,Let A = ⎛ ⎜⎝ 12 −1 25 −1 13 2 ⎞ ⎟⎠.G i v e nt h a tx⋆ 1 = ⎛ ⎜⎝ 5 −1 2 ⎞ ⎟⎠solves Ax = b1 = ⎛ ⎜⎝ 1 3 6 ⎞ ⎟⎠and x⋆ 2 = ⎛ ⎜...,Fundamental Matrix Subspaces,Easy
+2,2.5,2.5.14,(a) Show thatx⋆ 1 = ⎛ ⎜⎝ 1 1 0 ⎞ ⎟⎠and x⋆ 2 = ⎛ ⎜⎝ −3 3 −2 ⎞ ⎟⎠are particular solutions to the system ⎛ ⎜⎝ 2 −1 −5 1 −4 ...,Fundamental Matrix Subspaces,Hard
+2,2.5,2.5.15,"A physical apparatus moves 2 meters under a force of 4 newtons. Assuming linearity, how far will it move under a force o...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.16,"Applying a unit external force in the horizontal direction moves a mass 3 units to the right, while applying a unit forc...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.17,Suppose x⋆ 1 and x⋆ 2 are both solutions toAx = b. List all linear combinations ofx⋆ 1 and x⋆ 2 that solve the system.,Fundamental Matrix Subspaces,Easy
+2,2.5,2.5.18,"Let A be a nonsingularm×m matrix. (a) Explain in detail why the solutions x⋆ 1,..., x⋆ m to the systems (2.34) are the c...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.19,"True or false:I f x⋆ 1 solves Ax = c,a n dx⋆ 2 solves Bx = d,t h e nx⋆ = x⋆ 1 +x⋆ 2 solves (A+B)x = c +d.",Fundamental Matrix Subspaces,Easy
+2,2.5,2.5.20,"Under what conditions on the coeﬃcient matrixA will the systems in (2.34) all have a solution? Adjoint Systems, Cokernel...",Fundamental Matrix Subspaces,Hard
+2,2.5,2.5.21,"For each of the following matrices ﬁnd bases for the (i) image, (ii) coimage, (iii)k e r n e l ,a n d(iv)c o k e r n e l...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.22,Find a set of columns of the matrix ⎛ ⎜⎝ −12 0 −35 2 −41 1 −4 −36 208 ⎞ ⎟⎠that form a basis for its image. Then express ...,Fundamental Matrix Subspaces,Easy
+2,2.5,2.5.23,For each of the following matricesA:( a) Determine the rank and the dimensions of the four fundamental subspaces. (b) Fi...,Fundamental Matrix Subspaces,Hard
+2,2.5,2.5.24,Find the dimension of and a basis for the subspace spanned by the following sets of vectors. Hint: First identify the su...,Fundamental Matrix Subspaces,Hard
+2,2.5,2.5.25,"Show that the set of all vectorsv =( a−3b,a +2 c+4 d,b +3 c−d,c −d)T,w h e r e a,b,c,d are real numbers, forms a subspac...",Fundamental Matrix Subspaces,Hard
+2,2.5,2.5.26,"Find a basis of the solution space of the following homogeneous linear systems. (a) x1 −2x3 =0 , x2 +x4 =0 . (b) 2x1 +x2...",Fundamental Matrix Subspaces,Easy
+2,2.5,2.5.27,Find bases for the image and coimage of ⎛ ⎜⎝ 1 −30 2 −64 −39 1 ⎞ ⎟⎠. Make sure they have the same number of elements. Th...,Fundamental Matrix Subspaces,Easy
+2,2.5,2.5.28,Find bases for the image of ⎛ ⎜⎜⎜⎝ 12 −1 03 −3 2 −46 15 −4 ⎞ ⎟⎟⎟⎠using both of the indicated methods. Demonstrate that t...,Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.29,"Show thatv1 =( 1,2,0,−1)T ,v2 =( −3,1,1,−1)T ,v3 =( 2,0,−4,3)T and w1 =(3 ,2,−4,2)T ,w2 =(2 ,3,−7,4)T ,w3 =(0 ,3,−3,1)T ...",Fundamental Matrix Subspaces,Hard
+2,2.5,2.5.30,"(a)P r o v et h a ti fA is a symmetric matrix, then kerA =c o k e rA and imgA =c o i m gA. (b) Use this observation to p...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.31,(a) Write down a matrix of rankr whose ﬁrstr rows donot form a basis for its row space. (b) Can you ﬁnd an example that ...,Fundamental Matrix Subspaces,Easy
+2,2.5,2.5.32,"Let A be a 4×4m a t r i xa n dl e tU be its row echelon form. (a) Suppose columns 1, 2, 4o fU form a basis for its image...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.33,Can you devise a nonzero matrix whose row echelon form is the same as the row echelon form of its transpose?,Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.34,Explain why the elementary row operations of types #2 and #3 do not change the coimage of a matrix.,Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.35,Let A be anm×n matrix. Prove that imgA = Rm if and only if rankA = m.,Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.36,"Prove or give a counterexample: IfU is the row echelon form ofA,t h e ni m gU =i m gA.",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.37,(a) Devise an alternative method for ﬁnding a basis of the coimage of a matrix. Hint: Look at the two methods for ﬁnding...,Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.38,"Prove that kerA ⊆ kerA2. More generally, prove kerA ⊆ kerBA for every compatible matrix B. 120 2 Vector Spaces and Bases",Fundamental Matrix Subspaces,Hard
+2,2.5,2.5.39,"Prove that imgA ⊇ imgA2. More generally, prove imgA ⊇ img(AB) for every compatible matrixB.",Fundamental Matrix Subspaces,Hard
+2,2.5,2.5.40,"Suppose A is anm ×n matrix, andB and C are nonsingular matrices of sizesm ×m and n×n, respectively. Prove that rankA =r ...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.41,"True or false:I fk e rA =k e rB,t h e nr a n kA =r a n kB.",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.42,Let A and B be matrices of respective sizesm×n and n×p. (a)P r o v et h a td i m k e r (AB) ≤ dimker A+di mk erB. (b)P r...,Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.43,"Suppose A is a nonsingularn× n matrix. (a) Prove that everyn ×(n + k)m a t r i xo f the form (AB ), whereB has sizen × k...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.44,"Let A be anm × n matrix of rankr. Suppose v1,..., vn are a basis forRn such that vr+1,..., vn form a basis for kerA.P r ...",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.45,"(a) Suppose A,B are m × n matrices such that kerA =k e rB. Prove that there is a",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.44,"(b)U s et h i s to conclude that ifAx = b and Bx = c have the same solutions then they are equivalent linear systems, i....",Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.46,(a)L e tA be anm × n matrix and letV be a subspace ofRn. Show thatW = AV = {Av |v ∈ V } forms a subspace of imgA.( b)I f...,Fundamental Matrix Subspaces,Medium
+2,2.4,2.4.25,,Bases & Dimension,Medium
+2,2.5,2.5.47,(a) Show that anm × n matrix has a left inverse if and only if it has rankn.,Fundamental Matrix Subspaces,Medium
+2,2.5,2.5.46,(b) Show that it has a right inverse if and only if it has rankm. (c) Conclude that only nonsingular square matrices hav...,Fundamental Matrix Subspaces,Hard
+2,2.6,2.6.12,"Applying the Fundamental Theorem 2.49, we immediately deduce the following: Corollary 2.52. If A is the incidence matrix...",Graphs & Digraphs,Hard
+2,2.6,2.6.1,"(a) Draw the graph corresponding to the 6×7 incidence matrix whose nonzero (i,j)e n t r i e s equal 1 ifj = i and −1i fj...",Graphs & Digraphs,Medium
+2,2.6,2.6.2,"Draw the digraph represented by the following incidence matrices: (a) ⎛ ⎜⎜⎜⎝ −10 10 10 0 −1 0 −11 0 01 0 −1 ⎞ ⎟⎟⎟⎠,( b) ...",Graphs & Digraphs,Medium
+2,2.6,2.6.3,Write out the incidence matrix of the following digraphs. (a) (b) (c) (d) (e) (f ),Graphs & Digraphs,Medium
+2,2.6,2.6.4,"For each of the digraphs in Exercise 2.6.3, see whether you can predict a collection of independent circuits. Verify you...",Graphs & Digraphs,Medium
+2,2.6,2.6.5,(a) Write down the incidence matrixA for the indicated digraph. (b) What is the rank ofA?( c) Determine the dimensions o...,Graphs & Digraphs,Hard
+2,2.6,2.6.6,(a) Write out the incidence matrix for the cubical digraph and identify the basis of its cokernel with the circuits. (b)...,Graphs & Digraphs,Medium
+2,2.6,2.6.7,"Write out the incidence matrix for the other Platonic solids: (a) tetrahedron, (b)o c t a h e d r o n ,(c) dodecahedron,...",Graphs & Digraphs,Medium
+2,2.6,2.6.8,Prove that a graph withn vertices andn edges must have at least one circuit.,Graphs & Digraphs,Medium
+2,2.6,2.6.9,A connected graph is called atree if it has no circuits. (a) Find the incidence matrix for each of the following directe...,Graphs & Digraphs,Medium
+2,2.6,2.6.10,"A complete graphGn on n vertices has one edge joining every distinct pair of vertices. (a)D r a wG3, G4 and G5.( b) Choo...",Graphs & Digraphs,Medium
+2,2.6,2.6.11,"The complete bipartite digraphGm,n is based on two disjoint sets of, respectively,m and n vertices. Each vertex in the ﬁ...",Graphs & Digraphs,Medium
+2,2.6,2.6.12,"(a) Construct the incidence matrixA for the disconnected digraph D in the ﬁgure. (b) Verify that dimkerA =3 ,w h i c hi ...",Graphs & Digraphs,Hard
+2,2.6,2.6.13,How does altering the direction of the edges of a digraph aﬀect its incidence matrix? The cokernel of its incidence matr...,Graphs & Digraphs,Medium
+2,2.6,2.6.14,(a) Explain why two digraphs are equivalent under relabeling of vertices and edges if and only if their incidence matric...,Graphs & Digraphs,Medium
+2,2.6,2.6.15,"True or false:I f A and B a r ei n c i d e n c em a t r i c e so ft h es a m es i z ea n d cokerA =c o k e rB, then the ...",Graphs & Digraphs,Medium
+2,2.6,2.6.16,(a) Explain why the incidence matrix for a disconnected graph can be written in block diagonal matrix formA = ( B O O C ...,Graphs & Digraphs,Hard
+3,3.1,3.1.1,"Prove that the formula⟨v ,w ⟩= v1w1 −v1w2 −v2w1 +bv2w2 deﬁnes an inner product on R2 if and only ifb> 1.",Inner Products & Function Spaces,Medium
+3,3.1,3.1.2,"Which of the following formulas for⟨v ,w ⟩deﬁne inner products onR2? (a)2 v1w1 +3 v2w2,( b) v1w2 + v2w1,( c)( v1 + v2)(w...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.3,"Show that⟨v ,w ⟩= v1w1+v1w2+v2w1+v2w2 does not deﬁne an inner product onR2.",Inner Products & Function Spaces,Medium
+3,3.1,3.1.4,"Prove that each of the following formulas for⟨v ,w ⟩deﬁnes an inner product onR3. Verify all the inner product axioms in...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.5,The unit circlefor an inner product onR2 is deﬁned as the set of all vectors of unit length: ∥v∥ = 1. Graph the unit cir...,Inner Products & Function Spaces,Medium
+3,3.1,3.1.6,(a) Explain why the formula for the Euclidean norm inR2 follows from the Pythagorean Theorem. ( b) How do you use the Py...,Inner Products & Function Spaces,Medium
+3,3.1,3.1.7,Prove that the norm on an inner product space satisﬁes∥cv∥ = |c|∥ v∥ for every scalar c and vectorv.,Inner Products & Function Spaces,Medium
+3,3.1,3.1.8,"Prove that⟨av +bw ,c v +dw ⟩= ac∥v∥2 +(ad +bc)⟨v ,w ⟩+bd∥w∥2.",Inner Products & Function Spaces,Medium
+3,3.1,3.1.9,Prove that the second bilinearity formula (3.4) is a consequence of the ﬁrst and the other two inner product axioms.,Inner Products & Function Spaces,Medium
+3,3.1,3.1.10,"Let V be an inner product space. (a)P r o v et h a t⟨x ,v ⟩ =0f o ra l lv ∈ V if and only ifx = 0.( b)P r o v et h a t⟨x...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.11,Prove thatx ∈ Rn solves the linear systemAx = b if and only if xTATv = bTv for all v ∈ Rm. The latter is known as thewea...,Inner Products & Function Spaces,Hard
+3,3.1,3.1.12,"(a)P r o v et h ei d e n t i t y ⟨u ,v ⟩= 1 4 ( ∥u +v∥2 −∥ u −v ∥2 ) , (3.11) which allows one to reconstruct an inner p...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.13,"(a) Show that, for all vectorsx and y in an inner product space, ∥x +y∥2 +∥x −y∥2 =2 ( ∥x∥2 +∥y∥2 ) . (b) Interpret this...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.14,"Suppose u,v satisfy ∥u∥ =3 , ∥u +v ∥ =4 ,a n d∥u −v∥ = 6. What must∥v∥ equal? Does your answer depend upon which norm is...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.15,"Let A be anyn×n matrix. Prove that the dot product identityv ·(Aw)=( ATv) ·w is valid for all vectorsv,w ∈ Rn.",Inner Products & Function Spaces,Medium
+3,3.1,3.1.16,"Prove thatA = AT is a symmetricn×n matrix if and only if (Av) ·w = v ·(Aw)f o r all v,w ∈ Rn.",Inner Products & Function Spaces,Medium
+3,3.1,3.1.17,"Prove that⟨A,B ⟩=t r (ATB) deﬁnes an inner product on the vector spaceMn×n of real n×n matrices.",Inner Products & Function Spaces,Medium
+3,3.1,3.1.18,"Suppose ⟨v ,w ⟩deﬁnes an inner product on a vector spaceV. Explain why it also deﬁnes an inner product on every subspace...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.19,"Prove that if⟨v ,w ⟩and ⟨⟨v ,w ⟩⟩are two inner products on the same vector spaceV, then their sum⟨⟨⟨v ,w ⟩⟩⟩= ⟨v ,w ⟩+⟨⟨...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.20,"Let V and W be inner product spaces with respective inner products⟨v ,˜v ⟩and ⟨⟨w , ˜w ⟩⟩. Show that⟨⟨⟨(v,w),(˜v, ˜w)⟩⟩⟩...",Inner Products & Function Spaces,Hard
+3,3.1,3.1.9,"Finally, positivity requires that ∥f∥2 = ⟨f,f ⟩= ∫b a f(x)2 dx ≥0. This is clear becausef(x)2 ≥0, and the integral of a ...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.29,"This completes the proof that (3.12) deﬁnes a bona ﬁde inner product on the space C0[a,b ]. Remark. The L2 inner product...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.21,"For each of the given pairs of functions in C0[0,1], ﬁnd their L2 inner product ⟨f,g ⟩and their L2 norms ∥f∥,∥g∥:( a) f(...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.22,"Let f(x)= x, g(x)=1+ x2. Compute ⟨f,g ⟩, ∥f∥,a n d∥g∥ for (a)t h eL2 inner product ⟨f,g ⟩ = ∫1 0 f(x)g(x)dx;( b)t h eL2 ...",Inner Products & Function Spaces,Easy
+3,3.1,3.1.23,"Which of the following formulas for⟨f,g ⟩deﬁne inner products on the space C0[−1,1]? ( a) ∫1 −1 f(x)g(x)e−x dx,( b) ∫1 −...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.24,"Prove that⟨f,g ⟩= ∫1 0 f(x)g(x)dx does not deﬁne an inner product on the vector space C0[−1,1]. Explain why this does no...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.25,"Does either of the following deﬁne an inner product on C0[0,1]? (a) ⟨f,g ⟩= f(0)g(0) +f(1)g(1), ( b) ⟨f,g ⟩= f(0)g(0) +f...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.26,"Let f(x) be a function, and∥f∥ its L2 norm on [a,b ]. Is ∥f2∥ = ∥f∥2?I fy e s ,p r o v e the statement. If no, give a co...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.27,"Prove that⟨f,g ⟩= ∫b a [ f(x)g(x)+ f′(x)g′(x) ] dx deﬁnes an inner product on the space C1[a,b ] of continuously diﬀeren...",Inner Products & Function Spaces,Hard
+3,3.1,3.1.28,"Let V =C 1[−1,1] denote the vector space of continuously diﬀerentiable functions for −1 ≤ x ≤ 1. (a) Does the expression...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.29,"(a)L e th(x) ≥ 0 be a continuous, non-negative function deﬁned on an interval [a,b]. Prove that ∫b a h(x)dx =0i fa n do ...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.30,"(a) Prove the inner product axioms for the weighted inner product (3.15), assuming w(x) > 0 for alla ≤ x ≤ b.( b) Explai...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.31,"Let Ω⊂ R2 be a closed bounded subset. Let C0(Ω) denote the vector space consisting of all continuous, bounded real-value...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.29,"(b) Use this result to prove that ⟨f,g ⟩= ∫∫ Ω f(x,y)g(x,y)dxdy (3.16) deﬁnes an inner product on C0(Ω), called the L2 i...",Inner Products & Function Spaces,Medium
+3,3.1,3.1.32,"Compute the L2 inner product (3.16) and norms of the functionsf(x,y) ≡ 1a n d g(x,y)= x2 +y2,w h e n(a)Ω = {0 ≤ x ≤ 1,0 ...",Inner Products & Function Spaces,Easy
+3,3.1,3.1.33,"Let V be the vector space consisting of all continuous, vector-valued functions f(x)=( f1(x),f2(x))T deﬁned on the inter...",Inner Products & Function Spaces,Hard
+3,3.2,3.2.1,"Verify the Cauchy–Schwarz inequality for each of the following pairs of vectorsv,w, using the standard dot product, and ...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.2,"(a) Find the Euclidean angle between the vectors (1,1,1,1)T and (1,1,1,−1)T in R4. (b) List the possible angles between ...",Inequalities & Cauchy-Schwarz,Easy
+3,3.2,3.2.3,"Prove that the points (0,0,0),(1,1,0),(1,0,1),(0,1,1) form the vertices of a regular tetrahedron, meaning that all sides...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.4,"Verify the Cauchy–Schwarz inequality for the vectorsv =(1 ,2)T , w =(1 ,−3)T,u s i n g (a) the dot product; (b) the weig...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.5,"Verify the Cauchy–Schwarz inequality for the vectorsv =(3 ,−1,2)T , w =(1 ,−1,1)T, using (a) the dot product; (b) the we...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.6,Show that one can determine the angleθ between v and w via the formula cosθ = ∥v +w ∥2 −∥ v −w∥2 4∥v∥∥ w∥ . Draw a pictu...,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.7,"The Law of Cosines: Prove that the formula ∥v −w∥2 = ∥v∥2 +∥w∥2 −2∥v∥∥ w∥ cosθ, (3.21) where θ is the angle betweenv and...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.8,"Use the Cauchy–Schwarz inequality to prove (acosθ+bsinθ)2 ≤ a2 +b2 for anyθ, a,b.",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.9,"Prove that (a1 +a2 + ··· +an)2 ≤ n(a2 1 +a2 2 +··· +a2 n) for any real numbers a1,...,a n. When does equality hold?",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.10,"The cross productof two vectors inR2 is deﬁned as the scalar v ×w = v1w2 −v2w1 for v =( v1,v2 )T , w =( w1,w2 )T . (3.22...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.11,"Explain why the inequality⟨v ,w ⟩≤∥ v∥∥ w∥, obtained by omitting the absolute value sign on the left-hand side of Cauchy...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.12,Verify the Cauchy–Schwarz inequality for the functionsf(x)= x and g(x)= ex with respect to (a)t h eL2 inner product on t...,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.13,"Using the L2 inner product on the interval [0,π ], ﬁnd the angle between the functions (a) 1 and cosx;( b)1a n ds i nx;(...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.14,Verify the Cauchy–Schwarz inequality for the two particular functions appearing in Exercise 3.1.32 using the L2 inner pr...,Inequalities & Cauchy-Schwarz,Hard
+3,3.2,3.2.15,"(a)F i n da such that (2,a, −3)T is orthogonal to (−1,3,−2)T.( b) Is there any value of a for which (2,a, −3)T is parall...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.16,"Find all vectors inR3 that are orthogonal to both (1,2,3)T and (−2,0,1)T.",Inequalities & Cauchy-Schwarz,Easy
+3,3.2,3.2.17,"Answer Exercises 3.2.15 and 3.2.16 using the weighted inner product ⟨v ,w ⟩=3 v1w1 +2 v2w2 +v3w3.",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.18,"Find all vectors inR4 that are orthogonal to both (1,2,3,4)T and (5,6,7,8)T.",Inequalities & Cauchy-Schwarz,Easy
+3,3.2,3.2.19,"Determine a basis for the subspaceW ⊂ R4 consisting of all vectors which are orthogonal to the vector (1,2,−1,3)T.",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.20,"Find three vectorsu,v and w in R3 such thatu and v are orthogonal,u and w are orthogonal, butv and w are not orthogonal....",Inequalities & Cauchy-Schwarz,Easy
+3,3.2,3.2.21,"For what values ofa,b are the vectors (1,1,a )T and (b,−1,1)T orthogonal (a) with respect to the dot product? (b) with r...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.22,When is a vector orthogonal to itself?,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.23,"Prove that the only elementw in an inner product spaceV that is orthogonal to every vector, so⟨w ,v ⟩=0f o ra l lv ∈ V, ...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.24,"A vector with∥v∥ =1i sk n o w na saunit vector.P r o v et h a ti fv,w are both unit vectors, thenv +w and v −w are ortho...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.25,Let V be an inner product space andv ∈ V. Prove that the set of all vectorsw ∈ V that are orthogonal tov is a subspace o...,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.26,"(a) Show that the polynomialsp1(x)=1 ,p 2(x)= x − 1 2,p 3(x)= x2 − x + 1 6 are mutually orthogonal with respect to the L...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.27,Find a non-zero quadratic polynomial that is orthogonal to bothp1(x)=1a n d p2(x)= x under the L2 inner product on the i...,Inequalities & Cauchy-Schwarz,Easy
+3,3.2,3.2.28,Find all quadratic polynomials that are orthogonal to the functionex with respect to the L2 inner product on the interva...,Inequalities & Cauchy-Schwarz,Easy
+3,3.2,3.2.29,"Determine all pairs among the functions 1,x ,cosπx, sinπx, ex, that are orthogonal with respect to the L2 inner product ...",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.30,"Find two non-zero functions that are orthogonal with respect to the weighted inner product ⟨f,g ⟩= ∫1 0 f(x)g(x)xdx. The...",Inequalities & Cauchy-Schwarz,Hard
+3,3.2,3.2.11,Taking square roots of both sides and using the fact that the resulting expressions are both positive completes the proo...,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.31,"Use the dot product onR3 to answer the following: (a) Find the angle between the vectors (1,2,3)T and (1,−1,2)T .( b) Ve...",Inequalities & Cauchy-Schwarz,Easy
+3,3.2,3.2.32,Verify the triangle inequality for each pair of vectors in Exercise 3.2.1.,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.33,Verify the triangle inequality for the vectors and inner products in Exercise 3.2.4.,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.34,Verify the triangle inequality for the functions in Exercise 3.2.12 for the indicated inner products. 144 3 Inner Produc...,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.35,Verify the triangle inequality for the two particular functions appearing in Exercise 3.1.32 with respect to the L2 inne...,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.36,"Use the L2 inner product⟨f,g ⟩ = ∫1 −1 f(x)g(x)dx to answer the following: (a) Find the “angle” between the functions 1 ...",Inequalities & Cauchy-Schwarz,Easy
+3,3.2,3.2.37,(a) Write down the explicit formulae for the Cauchy–Schwarz and triangle inequalities based on the weighted inner produc...,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.38,"Answer Exercise 3.2.37 for the SobolevH1 inner product ⟨f,g ⟩= ∫1 0 [ f(x)g(x)+ f′(x)g′(x) ]",Inequalities & Cauchy-Schwarz,Medium
+3,3.1,3.1.27,,Inner Products & Function Spaces,Medium
+3,3.2,3.2.39,Prove that∥v −w ∥≥ ⏐⏐⏐∥v∥−∥ w∥ ⏐⏐⏐. Interpret this result pictorially.,Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.40,"True or false: ∥w∥≤∥ v∥+∥v +w∥ for allv,w ∈ V.",Inequalities & Cauchy-Schwarz,Medium
+3,3.2,3.2.41,"(a) Prove that the spaceR∞ consisting of all inﬁnite sequencesx =( x1,x2,x3,. . .) of real numbersxi ∈ R is a vector spa...",Inequalities & Cauchy-Schwarz,Hard
+3,3.3,3.3.1,"Compute the 1, 2, 3, and∞ norms of the vectors ( 1 0 ) , ( 0 1 ) . Verify the triangle inequality in each case.",Vector & Matrix Norms,Easy
+3,3.3,3.3.2,"Answer Exercise 3.3.1 for (a) ( 2 −1 ) , ( 1 −2 ) ,( b) ⎛ ⎜⎝ 1 0 −1 ⎞ ⎟⎠, ⎛ ⎜⎝ −1 1 0 ⎞ ⎟⎠,( c) ⎛ ⎜⎝ 1 −2 −1 ⎞ ⎟⎠, ⎛ ⎜⎝ ...",Vector & Matrix Norms,Medium
+3,3.3,3.3.3,"Which two of the vectorsu =( −2,2,1)T , v =(1 ,4,1)T , w =(0 ,0,−1)T are closest to each other in distance for (a) the E...",Vector & Matrix Norms,Medium
+3,3.3,3.3.4,"(a) Compute the L∞ norm on [0,1] of the functionsf(x)= 1 3 − x and g(x)= x − x2. (b) Verify the triangle inequality for ...",Vector & Matrix Norms,Easy
+3,3.3,3.3.5,Answer Exercise 3.3.4 using the L1 norm.,Vector & Matrix Norms,Medium
+3,3.3,3.3.6,"Which two of the functionsf(x)=1 , g(x)= x, h(x)=s i nπx are closest to each other on the interval [0,1] under (a)t h eL...",Vector & Matrix Norms,Medium
+3,3.3,3.3.7,"Consider the functionsf(x)=1a n d g(x)= x − 3 4 as elements of the vector space C0[0,1]. For each of the following norms...",Vector & Matrix Norms,Easy
+3,3.3,3.3.8,Answer Exercise 3.3.7 whenf(x)= ex and g(x)= e−x.,Vector & Matrix Norms,Medium
+3,3.3,3.3.9,"Carefully prove that ∥(x,y )T ∥ = |x|+2 |x−y| deﬁnes a norm onR2.",Vector & Matrix Norms,Medium
+3,3.3,3.3.10,"Prove that the following formulas deﬁne norms onR2:( a) ∥v∥ = √ 2v2 1 +3 v2 2 , (b) ∥v∥ = √ 2v2 1 −v1v2 +2 v2 2 ,( c) ∥v...",Vector & Matrix Norms,Medium
+3,3.3,3.3.11,"Which of the following formulas deﬁne norms onR3?( a) ∥v∥ = √ 2v2 1 +v2 2 +3 v2 3 , (b) ∥v∥ = √ v2 1 +2 v1v2 +v2 2 +v2 3...",Vector & Matrix Norms,Medium
+3,3.3,3.3.12,Prove that two parallel vectorsv and w have the same norm if and only ifv = ±w.,Vector & Matrix Norms,Medium
+3,3.3,3.3.13,"True or false:I f ∥v +w ∥= ∥v∥+∥w∥,t h e nv,w are parallel vectors.",Vector & Matrix Norms,Medium
+3,3.3,3.3.14,Prove that the∞ norm onR2 does not come from an inner product.Hint:L o o ka t,Vector & Matrix Norms,Medium
+3,3.1,3.1.13,,Inner Products & Function Spaces,Medium
+3,3.3,3.3.15,Can formula (3.11) be used to deﬁne an inner product for (a)t h e1n o r m∥v∥1 on R2? (b)t h e∞ norm ∥v∥∞ on R2?,Vector & Matrix Norms,Medium
+3,3.3,3.3.16,Prove that limp→∞ ∥v∥p = ∥v∥∞ for allv ∈ R2.,Vector & Matrix Norms,Medium
+3,3.3,3.3.17,Justify the triangle inequality for (a)t h eL1 norm (3.31); (b)t h eL∞ norm (3.32).,Vector & Matrix Norms,Medium
+3,3.3,3.3.18,"Let w(x) > 0f o ra ≤ x ≤ b be a weight function. (a)P r o v et h a t ∥f∥1,w = ∫b a |f(x)|w(x)dx deﬁnes a norm on C0[a,b ...",Vector & Matrix Norms,Medium
+3,3.3,3.3.19,"Let ∥·∥1 and ∥·∥2 be two diﬀerent norms on a vector spaceV.( a)P r o v et h a t ∥v∥ =m a x { ∥v∥1,∥v∥2 } deﬁnes a norm o...",Vector & Matrix Norms,Easy
+3,3.3,3.3.20,"Find a unit vector in the same direction asv =(1 ,2,−3)T for (a) the Euclidean norm, (b) the weighted norm∥v∥2 =2 v2 1 +...",Vector & Matrix Norms,Easy
+3,3.3,3.3.21,"Show that, for every choice of given anglesθ , φ,a n dψ, the following are unit vectors in the Euclidean norm: (a)( c o ...",Vector & Matrix Norms,Medium
+3,3.3,3.3.22,"How many unit vectors are parallel to a given vectorv ̸= 0?( a)1 ,( b)2 ,( c)3 , (d) ∞,( e) depends on the norm. Explain...",Vector & Matrix Norms,Medium
+3,3.3,3.3.23,Plot the unit circle (sphere) for (a) the weighted norm∥v∥ = √ v2 1 +4 v2 2 ;,Vector & Matrix Norms,Medium
+3,3.3,3.3.9,150 3 Inner Products and Norms,Vector & Matrix Norms,Medium
+3,3.3,3.3.24,Draw the unit circle for each norm in Exercise 3.3.10.,Vector & Matrix Norms,Medium
+3,3.3,3.3.25,"Sketch the unit sphereS1 ⊂ R3 for (a)t h eL1 norm, (b)t h eL∞ norm, (c)t h e weighted norm∥v∥2 =2 v2 1 +v2 2 +3 v2 3,( d...",Vector & Matrix Norms,Medium
+3,3.3,3.3.26,Let v ̸= 0 be any nonzero vector in a normed vector spaceV. Show how to construct a new norm onV that changesv into a un...,Vector & Matrix Norms,Medium
+3,3.3,3.3.27,True or false: Two norms on a vector space have the same unit sphere if and only if they are the same norm.,Vector & Matrix Norms,Medium
+3,3.3,3.3.28,"Find the unit function that is a constant multiple of the functionf(x)= x − 1 3 with respect to the (a)L 1 norm on [0,1]...",Vector & Matrix Norms,Easy
+3,3.3,3.3.29,"For which norms is the constant functionf(x) ≡ 1 a unit function? (a)L 1 norm on [0,1]; ( b)L 2 norm on [0,1]; ( c)L ∞ n...",Vector & Matrix Norms,Medium
+3,3.3,3.3.30,"A subsetS ⊂ Rn is calledconvex if, for allx,y ∈ S, the line segment joiningx to y is also inS, i.e.,tx +( 1− t)y ∈ S for...",Vector & Matrix Norms,Hard
+3,3.3,3.3.31,"Check the validity of the inequalities (3.38) for the particular vectors (a)( 1,−1)T,( b)( 1,2,3)T,( c)( 1,1,1,1)T,( d)(...",Vector & Matrix Norms,Medium
+3,3.3,3.3.32,"Find allv ∈ R2 such that (a) ∥v∥1 = ∥v∥∞,( b) ∥v∥1 = ∥v∥2 ,( c) ∥v∥2 = ∥v∥∞,( d) ∥v∥∞ = 1 √ 2 ∥v∥2.",Vector & Matrix Norms,Easy
+3,3.3,3.3.33,How would you quantify the following statement: The norm of a vector is small if and only if all its entries are small.,Vector & Matrix Norms,Medium
+3,3.3,3.3.34,Can you ﬁnd an elementary proof of the inequalities∥v∥∞ ≤∥ v∥2 ≤ √ n ∥v∥∞ for v ∈ Rn directly from the formulas for the ...,Vector & Matrix Norms,Medium
+3,3.3,3.3.35,(i) Show the equivalence of the Euclidean norm and the 1 norm onRn by proving ∥v∥2 ≤∥ v∥1 ≤ √ n ∥v∥2.( ii) Verify that t...,Vector & Matrix Norms,Medium
+3,3.3,3.3.36,(i) Establish the equivalence inequalities (3.35) between the 1 and∞ norms.,Vector & Matrix Norms,Medium
+3,3.3,3.3.31,(iii)F o rw h i c hv e c t o r sv ∈ Rn are your inequalities equality?,Vector & Matrix Norms,Medium
+3,3.3,3.3.37,Let ∥·∥2 denote the usual Euclidean norm onRn. Determine the constants in the norm equivalence inequalitiesc⋆ ∥v∥≤∥ v∥2 ...,Vector & Matrix Norms,Medium
+3,3.3,3.3.38,"Let ∥·∥ be a norm onRn. Prove that there is a constantC> 0 such that the entries of every v =( v1,v2,...,v n )T ∈ Rn are...",Vector & Matrix Norms,Medium
+3,3.3,3.3.39,"Prove that if [a,b ] is a bounded interval andf ∈ C0[a,b ], then∥f∥2 ≤ √ b−a ∥f∥∞.",Vector & Matrix Norms,Medium
+3,3.3,3.3.40,"In this exercise, the indicated function norms are taken over all ofR. (a)L e tfn(x)= { 1, −n ≤ x ≤ n, 0, otherwise. Pro...",Vector & Matrix Norms,Medium
+3,3.3,3.3.41,"(a) Prove that the L∞ and L2 norms on the vector space C0[−1,1] are not equivalent. Hint: Look at Exercise 3.3.40 for id...",Vector & Matrix Norms,Medium
+3,3.3,3.3.42,What does it mean if the constants deﬁned in (3.36) are equal:c⋆ = C⋆?,Vector & Matrix Norms,Medium
+3,3.3,3.3.43,"Suppose ⟨v ,w ⟩1 and ⟨v ,w ⟩2 are two inner products on the same vector spaceV.F o r which α,β ∈ R is the linear combina...",Vector & Matrix Norms,Medium
+3,3.3,3.3.44,"Suppose ∥·∥1,∥·∥2 are two norms onRn. Prove that the corresponding matrix norms satisfy ˆc⋆∥A∥1 ≤∥ A∥2 ≤ ˆC⋆∥A∥1 for any...",Vector & Matrix Norms,Hard
+3,3.3,3.3.48,The formula for the Euclidean matrix norm (2 norm) will be deferred until Theorem 8.71. Deﬁnition 3.23. The ith absolute...,Vector & Matrix Norms,Easy
+3,3.3,3.3.45,"Compute the∞ matrix norm of the following matrices. (a) ⎛ ⎝ 1 2 1 4 1 3 1 6 ⎞ ⎠,( b) ⎛ ⎝ 5 3 4 3 − 7 6 −5 6 ⎞ ⎠,( c) ⎛ ⎜...",Vector & Matrix Norms,Easy
+3,3.3,3.3.46,Find a matrixA such that∥A2∥∞ ̸= ∥A∥2 ∞.,Vector & Matrix Norms,Easy
+3,3.3,3.3.47,"True or false:I f B = S−1AS are similar matrices, then∥B∥∞ = ∥A∥∞.",Vector & Matrix Norms,Medium
+3,3.3,3.3.48,(i) Find an explicit formula for the 1 matrix norm∥A∥1.,Vector & Matrix Norms,Easy
+3,3.3,3.3.45,156 3 Inner Products and Norms,Vector & Matrix Norms,Medium
+3,3.3,3.3.49,Prove directly from the axioms of Deﬁnition 3.12 that (3.44) deﬁnes a norm on the space ofn×n matrices.,Vector & Matrix Norms,Medium
+3,3.3,3.3.50,"Let A = ( 11 1 −2 ) . Compute the natural matrix norm∥A∥ for (a)t h ew e i g h t e d∞ norm ∥v∥ =m a x{2|v1 |,3|v2 |};( b...",Vector & Matrix Norms,Easy
+3,3.3,3.3.51,"The Frobenius normof ann×n matrix A is deﬁned as∥A∥F = √ n∑ i,j=1 a2 ij . Prove that this deﬁnes a matrix norm by ch...",Vector & Matrix Norms,Medium
+3,3.3,3.3.52,"Explain why∥A∥ =m a x|aij | deﬁnes a norm on the space ofn×n matrices. Show by example that this isnot a matrix norm, i....",Vector & Matrix Norms,Hard
+3,3.4,3.4.20,,Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.1,"Which of the following 2×2 matrices are positive deﬁnite? (a) ( 10 02 ) ,( b) ( 01 20 ) ,( c) ( 12 21 ) ,( d) ( 53 3 −2 ...",Positive Definite Matrices & Gram Matrices,Easy
+3,3.4,3.4.2,Let K = ( 12 23 ) . Prove that the associated quadratic formq(x)= xTKx is indeﬁnite by ﬁnding a pointx+ where q(x+) > 0a...,Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.3,"(a) Prove that a diagonal matrixD =d i a g(c1,c2,...,c n) is positive deﬁnite if and only if all its diagonal entries ar...",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.4,Write out the Cauchy–Schwarz and triangle inequalities for the inner product deﬁned in Example 3.28. 160 3 Inner Product...,Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.5,(a) Show that every diagonal entry of a positive deﬁnite matrix must be positive. (b) Write down a symmetric matrix with...,Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.6,"Prove that ifK is any positive deﬁnite matrix, then every positive scalar multiplecK, c> 0, is also positive deﬁnite.",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.7,"(a) Show that ifK and L are positive deﬁnite matrices, so isK + L.( b)G i v ea n example of two matrices that are not po...",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.8,Find two positive deﬁnite matricesK and L whose productKL is not positive deﬁnite.,Positive Definite Matrices & Gram Matrices,Easy
+3,3.4,3.4.9,Write down a nonsingular symmetric matrix that is not positive or negative deﬁnite.,Positive Definite Matrices & Gram Matrices,Easy
+3,3.4,3.4.10,"Let K be a nonsingular symmetric matrix. (a) Show thatxTK−1x = yTKy,w h e r e Ky = x.( b)P r o v et h a ti fK is positiv...",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.11,"Prove that ann × n symmetric matrixK is positive deﬁnite if and only if, for every 0 ̸= v ∈ Rn,t h ev e c t o r sv and K...",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.12,Prove that the inner product associated with a positive deﬁnite quadratic formq(x)i s given by thepolarization formula⟨x...,Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.13,"(a) Is it possible for a quadratic form to be positive,q(x+) > 0, at only one point x+ ∈ Rn?( b) Under what conditions i...",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.14,(a)L e tK and L be symmetricn × n matrices. Prove thatxTKx = xTLx for all x ∈ Rn if and only ifK = L.( b) Find an exampl...,Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.15,"Suppose q(x)= xTAx = n∑ i,j=1 aij xixj is a general quadratic form onRn,w h o s e coeﬃcient matrixA is not necessarily s...",Positive Definite Matrices & Gram Matrices,Hard
+3,3.4,3.4.16,(a) Show that a symmetric matrixN is negative deﬁnite if and only ifK = −N is positive deﬁnite. (b) Write down two expli...,Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.17,"Show thatx = ( 1 1 ) is a null direction forK = ( 1 −2 −23 ) , butx ̸∈ kerK.",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.18,Explain why an indeﬁnite quadratic form necessarily has a non-zero null direction.,Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.19,"Let K = KT. True or false:( a)I f K admits a null direction, then kerK ̸= {0}. (b)I f K has no null directions, thenK is...",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.20,"In special relativity, light rays in Minkowski space-timeRn travel along thelight cone which, by deﬁnition, consists of ...",Positive Definite Matrices & Gram Matrices,Easy
+3,3.4,3.4.21,"A functionf(x)o nRn is calledhomogeneous of degree k if f(cx)= ckf(x) for all scalars c.( a)G i v e na ∈ Rn, show that t...",Positive Definite Matrices & Gram Matrices,Hard
+3,3.4,3.4.22,(a) Find the Gram matrix corresponding to each of the following sets of vectors using the Euclidean dot product onRn.( i...,Positive Definite Matrices & Gram Matrices,Easy
+3,3.4,3.4.23,"Recompute the Gram matrices for cases (iii)–(v) in the previous exercise using the weighted inner product⟨x ,y ⟩= x1y1 +...",Positive Definite Matrices & Gram Matrices,Easy
+3,3.4,3.4.24,"Recompute the Gram matrices for cases (vi)–(viii) in Exercise 3.4.22 for the weighted inner product⟨x ,y ⟩= x1y1 + 1 2 x...",Positive Definite Matrices & Gram Matrices,Easy
+3,3.4,3.4.25,"Find the Gram matrixK for the functions 1,ex,e2x using the L2 inner product on [0,1]. Is K positive deﬁnite?",Positive Definite Matrices & Gram Matrices,Easy
+3,3.4,3.4.26,"Answer Exercise 3.4.25 using the weighted inner product⟨f,g ⟩= ∫1 0 f(x)g(x)e−x dx.",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.27,"Find the Gram matrixK for the monomials 1,x,x 2,x3 using the L2 inner product on [−1,1]. Is K positive deﬁnite?",Positive Definite Matrices & Gram Matrices,Easy
+3,3.4,3.4.28,"Answer Exercise 3.4.27 using the weighted inner product⟨f,g ⟩= ∫1 −1 f(x)g(x)(1+ x)dx.",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.29,Let K be a 2×2 Gram matrix. Explain why the positive deﬁniteness criterion (3.55) is equivalent to the Cauchy–Schwarz in...,Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.30,"(a)P r o v et h a ti fK is a positive deﬁnite matrix, thenK2 is also positive deﬁnite. (b) More generally, ifS = ST is s...",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.31,"Let A be anm×n matrix. (a) Explain why the productL = AAT is a Gram matrix. (b) Show that, even though they may be of di...",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.32,"Let K = ATCA,w h e r eC> 0. Prove that (a)k e rK =c o k e rK =k e rA;( b)i m gK =c o i m gK =c o i m gA.",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.33,Prove that every positive deﬁnite matrixK can be written as a Gram matrix.,Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.34,"Suppose K is the Gram matrix computed fromv1,..., vn ∈ V relative to a given inner product. Let ˜K be the Gram matrix fo...",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.35,"Let K1 = AT 1 C1A1 and K2 = AT 2 C2A2 be any twon × n Gram matrices. Let K = K1 +K2.( a) Show that ifK1,K2 > 0t h e nK> ...",Positive Definite Matrices & Gram Matrices,Medium
+3,3.4,3.4.36,Show that0 ̸= z is a null direction for the quadratic formq(x)= xTKx b a s e do nt h e Gram matrixK = ATCA if and only i...,Positive Definite Matrices & Gram Matrices,Hard
+3,3.5,3.5.1,"Are the following matrices are positive deﬁnite? (a) ( 4 −2 −24 ) ,( b) ( 11 11 ) , (c) ⎛ ⎜⎝ 112 121 211 ⎞ ⎟⎠,( d) ⎛ ⎜⎝ ...",Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.2,"Find anLDL T factorization of the following symmetric matrices. Which are positive deﬁnite? ( a) ( 12 23 ) ,( b) ( 5 −1 ...",Completing the Square & Cholesky Factorization,Easy
+3,3.5,3.5.3,"(a) For which values ofc is the matrixA = ⎛ ⎜⎝ 110 1 c 1 011 ⎞ ⎟⎠positive deﬁnite? (b)F o rt h e particular valuec = 3, ...",Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.4,Write the quadratic formq(x)= x2 1 +x1x2+2 x2 2−x1x3+3 x2 3 in the formq(x)= xTKx for some symmetric matrixK.I s q(x) po...,Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.5,"Write the following quadratic forms onR2 as a sum of squares. Which are positive deﬁnite? ( a) x2 +8 xy +y2,( b) x2 −4xy...",Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.6,Prove that the following quadratic forms onR3 are positive deﬁnite by writing each as a sum of squares: (a) x2 +4 xz +3 ...,Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.7,Write the following quadratic forms in matrix notation and determine if they are positive deﬁnite: ( a) x2 +4 xz +2 y2 +...,Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.8,"For what values ofa,b,a n dc is the quadratic formx2 + axy + y2 + bxz + cyz + z2 positive deﬁnite?",Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.9,"True or false: Every planar quadratic formq(x,y)= ax2 +2 bxy +cy2 can be written as a sum of squares.",Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.10,(a) Prove that a positive deﬁnite matrix has positive determinant: detK> 0. (b) Show that a positive deﬁnite matrix has ...,Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.11,"(a)P r o v et h a ti fK1,K2 are positive deﬁniten×n matrices, thenK = ( K1 O O K2 ) is a positive deﬁnite 2n×2n matrix. ...",Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.12,Let ∥·∥ be any norm onRn.( a) Show thatq(x) is a positive deﬁnite quadratic form if and only ifq(u) > 0 for all unit vec...,Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.13,Prove that every symmetric matrixS = K +N can be written as the sum of a positive deﬁnite matrixK and a negative deﬁnite...,Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.14,(a) Prove that every regular symmetric matrix can be decomposed as a linear combination K = d1l1lT 1 +d2l2lT 2 + ··· +dn...,Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.15,There is an alternative criterion for positive deﬁniteness based on subdeterminants of t h em a t r i x .T h e2× 2 versi...,Completing the Square & Cholesky Factorization,Hard
+3,3.5,3.5.16,Let K be a symmetric matrix. Prove that if a non-positive diagonal entry appears anywhere (not necessarily in the pivot ...,Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.17,Formulate a determinantal criterion similar to that in Exercise 3.5.15 for negative deﬁnite matrices. Write out the 2×2a...,Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.18,True or false: A negative deﬁnite matrix must have negative trace and negative determinant. The Cholesky Factorization T...,Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.19,"Find the Cholesky factorizations of the following matrices: (a) ( 3 −2 −22 ) , (b) ( 4 −12 −12 45 ) ,( c) ⎛ ⎜⎝ 111 12 −2...",Completing the Square & Cholesky Factorization,Easy
+3,3.5,3.5.20,"Which of the matrices in Exercise 3.5.1 have a Cholesky factorization? For those that do, write out the factorization.",Completing the Square & Cholesky Factorization,Medium
+3,3.5,3.5.21,"Write the following positive deﬁnite quadratic forms as a sum of pure squares, as in (3.79): ( a)1 6x2 1 +2 5x2 2,( b) x...",Completing the Square & Cholesky Factorization,Hard
+3,3.6,3.6.1,"Write down a single equation that relates the ﬁve most important numbers in mathematics, which are 0,1,e,π ,a n di.",Complex Vector Spaces & Inner Products,Easy
+3,3.6,3.6.2,"For any integerk,p r o v et h a tekπ i =( −1)k.",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.3,Is the formula 1z = 1 valid for all complex values ofz?,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.4,What is wrong with the calculatione2aπ i =( e2πi )a =1 a =1 ?,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.5,"(a) Write i in phase–modulus form. (b) Use this expression to ﬁnd √ i, i.e., a complex number z such thatz2 = i. Can you...",Complex Vector Spaces & Inner Products,Easy
+3,3.6,3.6.6,"In Figure 3.7, where would you place the point 1/z? 176 3 Inner Products and Norms",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.7,"(a)I f z moves counterclockwise around a circle of radiusr in the complex plane, around which circle and in which direct...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.8,Show that−| z|≤ Re z ≤| z| and −| z|≤ Im z ≤| z|.,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.9,"Prove that ifϕ is real, then Re (ei ϕ z) ≤| z|, with equality if and only ifϕ = − phz.",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.10,Prove the identities in (3.90) and (3.91).,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.11,Prove ph(z/w)=p h z − phw =p h (z w) is equal to the angle between the vectors representing z and w.,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.12,"The phase of a complex numberz = x +i y is often written as phz =t a n−1(y/x). Explain why this formula is ambiguous, an...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.13,"Show that if we identify the complex numbersz,w with vectors in the plane, then their Euclidean dot product is equal to ...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.14,(a) Prove that the complex numbersz and w correspond to orthogonal vectors inR2 if and only if Rez w =0 . ( b)P r o v et...,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.15,Prove thatez+w = ez ew. Conclude thatemz =( ez)m whenever m is an integer.,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.16,(a)U s et h ef o r m u l ae2i θ =( eiθ)2 to deduce the well-known trigonometric identities for cos2θ and sin2θ.( b) Deri...,Complex Vector Spaces & Inner Products,Easy
+3,3.6,3.6.17,Use complex exponentials to prove the identity cosθ −cosϕ =2c o sθ −ϕ 2 cos θ +ϕ 2 .,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.18,"Prove that ifz = x+i y,t h e n|ez | = ex, phez = y.",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.19,The formulas cosz = eiz +e−iz 2 and sinz = eiz −e−iz 2i serve to deﬁne the basic complex trigonometric functions. Write ...,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.20,"The complexhyperbolic functionsare deﬁned as coshz = ez +e−z 2 ,s i n hz = ez −e−z 2 . (a) Write out the formulas for th...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.21,"Generalizing Example 2.17c, by atrigonometric polynomialof degree ≤ n,w em e a n a functionT(x)= ∑ 0≤j+k≤n cjk (cosθ)j (...",Complex Vector Spaces & Inner Products,Hard
+3,3.6,3.6.22,Write out the real and imaginary parts of the power functionxc with complex exponent c = a+i b ∈ C.,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.23,"Write the power series expansions forei x. Prove that the real terms give the power series for cosx, while the imaginary...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.24,"The derivative of a complex-valued functionf(x)= u(x)+i v(x), depending on a real variablex,i sg i v e nb yf′(x)= u′(x)+...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.25,Use the complex trigonometric formulas (3.94) and Exercise 3.6.24 to evaluate the following trigonometric integrals: (a)...,Complex Vector Spaces & Inner Products,Hard
+3,3.6,3.6.26,"Determine whether the indicated sets of complex vectors are linearly independent or dependent. ( a) ( i 1 ) , ( 1 i ) , ...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.27,True or false: The set of complex vectors of the form ( z z ) for z ∈ C is a subspace ofC2.,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.28,"(a) Determine whether the vectorsv1 = ⎛ ⎜⎝ 1 i 0 ⎞ ⎟⎠, v2 = ⎛ ⎜⎝ 0 1+i 2 ⎞ ⎟⎠, v3 = ⎛ ⎜⎝ −1+i 1+i −1 ⎞ ⎟⎠, are linearly ...",Complex Vector Spaces & Inner Products,Easy
+3,3.6,3.6.29,"Find the dimension of and a basis for the following subspaces ofC3:( a)T h es e to fa l l complex multiples of (1, i,1− ...",Complex Vector Spaces & Inner Products,Hard
+3,3.6,3.6.30,"Find bases for the four fundamental subspaces associated with the complex matrices (a) ( i2 −12 i ) ,( b) ( 2 −1+i 1 −2i...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.31,Prove thatv = x +i y and v = x − iy are linearly independent complex vectors if and only if their real and imaginary par...,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.32,Prove that the space of complexm×n matrices is a complex vector space. What is its dimension?,Complex Vector Spaces & Inner Products,Hard
+3,3.6,3.6.33,Determine which of the following are subspaces of the vector space consisting of all complex 2× 2 matrices. (a) All matr...,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.34,True or false: The set of all complex-valued functionsu(x)= v(x)+i w(x)w i t h u(0) = i is a subspace of the vector spac...,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.35,"Let V denote the complex vector space spanned by the functions 1,eix and e−ix, where x is a real variable. Which of the ...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.36,"Prove that the following deﬁne Hermitian inner products onC2: (a) ⟨v ,w ⟩= v1 w1 +2 v2 w2,( b) ⟨v ,w ⟩= v1 w1 +i v1 w2 −...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.37,"Which of the following deﬁne inner products onC2?( a) ⟨v ,w ⟩= v1 w1 +2i v2 w2, (b) ⟨v ,w ⟩ = v1w1 +2 v2w2,( c) ⟨v ,w ⟩ ...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.38,"Let A = AT be a real symmetricn×n matrix. Show that (Av) ·w = v · (Aw) for all v,w ∈ Cn.",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.39,"Let z = x +i y ∈ Cn. (a) Prove that, for the Hermitian dot product,∥z∥2 = ∥x∥2 +∥y∥2. (b) Does this formula remain valid...",Complex Vector Spaces & Inner Products,Hard
+3,3.6,3.6.40,"Let V be a complex inner product space. Prove that, for allz,w ∈ V, (a) ∥z +w ∥2 = ∥z∥2 +2Re ⟨z ,w ⟩+∥w∥2; (b) ⟨z ,w ⟩= ...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.41,(a) How would you deﬁne the angle between two elements of a complex inner product space? (b) What is the angle between (...,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.42,Let 0 ̸= v ∈ Cn. Which scalar multiplescv have the same Hermitian norm asv?,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.43,Prove the Cauchy–Schwarz inequality (3.103) and the triangle inequality (3.104) for a,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.44,"The Hermitian adjoint of a complexm × n matrix A is the complex conjugate of its transpose, writtenA† = AT = AT. For exa...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.45,"A complex matrixH is calledHermitian if it equals its Hermitian adjoint,H† = H, as deﬁned in the preceding exercise. (a)...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.46,Multiple choice:L e tV be a complex normed vector space. How many unit vectors are parallel to a given vector0 ̸= v ∈ V?...,Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.47,"Let v1,..., vn be elements of a complex inner product space. LetK denote the corresponding n×n Gram matrix, deﬁned in th...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.45,"(b)P r o v et h a tK is positive semi-deﬁnite, meaningzTKz ≥ 0 for allz ∈ Cn. (c)P r o v et h a tK is positive deﬁnite i...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.48,"For each of the following pairs of complex-valued functions, (i) compute their L2 norm and Hermitian inner product on th...",Complex Vector Spaces & Inner Products,Easy
+3,3.6,3.6.49,"Formulate conditions on a weight functionw(x) that guarantee that the weighted integral ⟨f,g ⟩= ∫b a f(x) g(x)w(x)dx deﬁ...",Complex Vector Spaces & Inner Products,Medium
+3,3.6,3.6.50,"(a) Formulate a general deﬁnition of a norm on a complex vector space. (b) How would you deﬁne analogues of the L1,L2 an...",Complex Vector Spaces & Inner Products,Hard
+4,4.1,4.1.1,"Let R2 have the standard dot product. Classify the following pairs of vectors as (i)b a s i s ,(ii) orthogonal basis, an...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.2,"Let R3 have the standard dot product. Classify the following sets of vectors as (i)b a s i s ,(ii) orthogonal basis, and...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.3,"Repeat Exercise 4.1.1, but use the weighted inner product⟨v ,w ⟩ = v1w1 + 1 9 v2w2 instead of the dot product.",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.4,"Show that the standard basis vectorse1,e2,e3 form an orthogonal basis with respect to the weighted inner product⟨v ,w ⟩=...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.5,"Find all values ofa such that the vectors ( a 1 ) , ( −a 1 ) form an orthogonal basis of R2 under (a) the dot product; (...",Orthogonal & Orthonormal Bases,Easy
+4,4.1,4.1.6,"Find all possible values ofa and b in the inner product⟨v ,w ⟩= av1w1 +bv2w2 that make the vectors (1,2)T,( −1,1)T, an o...",Orthogonal & Orthonormal Bases,Easy
+4,4.1,4.1.7,"Answer Exercise 4.1.6 for the vectors (a)( 2,3)T,( −2,2)T;( b)( 1,4)T,(2 ,1)T.",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.8,"Find an inner product such that the vectors (−1,2)T and (1,2)T form an orthonormal basis ofR2.",Orthogonal & Orthonormal Bases,Easy
+4,4.1,4.1.9,"True or false:I f v1,v2,v3 are a basis forR3, then they form an orthogonal basis under some appropriately weighted inner...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.10,The cross productbetween two vectors inR3 is the vector deﬁned by the formula v ×w = ⎛ ⎜⎝ v2w3 −v3w2 v3w1 −v1w3 v1w2 −v2...,Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.11,Prove that every orthonormal basis ofR2 under the standard dot product has the form u1 = ( cosθ sinθ ) and u2 = ± ( −sin...,Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.12,"Given anglesθ,ϕ,ψ , prove that the vectorsu1 = ⎛ ⎜⎝ cosψcosϕ−cosθsinϕsinψ −sinψcosϕ−cosθsinϕcosψ sinθsinϕ ⎞ ⎟⎠, u2 = ⎛ ⎜...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.13,"(a) Show thatv1,..., vn form an orthonormal basis ofRn for the inner product ⟨v ,w ⟩ = vTKw for K> 0 if and only ifATKA ...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.14,"Describe all orthonormal bases ofR2 for the inner products (a) ⟨v ,w ⟩= vT ( 10 02 ) w;( b) ⟨v ,w ⟩= vT ( 1 −1 −12 ) w.",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.15,"Let v and w be elements of an inner product space. Prove that ∥v +w∥2 = ∥v∥2 +∥w∥2 if and only ifv,w are orthogonal. Exp...",Orthogonal & Orthonormal Bases,Hard
+4,4.1,4.1.16,"Prove that ifv1,v2 form a basis of an inner product spaceV and ∥v1∥ = ∥v2∥,t h e n v1 +v2 and v1 −v2 form an orthogonal ...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.17,"Suppose v1,..., vk are nonzero mutually orthogonal elements of an inner product space V. Write down their Gram matrix. W...",Orthogonal & Orthonormal Bases,Easy
+4,4.1,4.1.18,"Let V = P(1) be the vector space consisting of linear polynomialsp(t)= at + b. (a) Carefully explain why⟨p,q ⟩= ∫1 0 tp(...",Orthogonal & Orthonormal Bases,Easy
+4,4.1,4.1.19,"Explain why the functions cosx,sinx form an orthogonal basis for the space of solutions to the diﬀerential equationy′′+y...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.20,"Do the functionsex/2,e−x/2 form an orthogonal basis for the space of solutions to the diﬀerential equation 4y′′−y = 0 un...",Orthogonal & Orthonormal Bases,Hard
+4,4.1,4.1.21,"(a) Prove that the vectorsv1 =(1 ,1,1)T , v2 =(1 ,1,−2)T , v3 =( −1,1,0)T , form an orthogonal basis ofR3 with the dot p...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.22,"(a)P r o v et h a tv1 = (3 5,0, 4 5 )T , v2 = ( − 4 13, 12 13, 3 13 )T , v3 = ( −48 65,− 5 13, 36 65 )T , form an orthon...",Orthogonal & Orthonormal Bases,Easy
+4,4.1,4.1.23,"Let R2 have the inner product deﬁned by the positive deﬁnite matrixK = ( 2 −1 −13 ) . (a) Show thatv1 =(1 ,1)T , v2 =( −...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.24,"(a)L e tu1,..., un be an orthonormal basis of a ﬁnite-dimensional inner product spaceV. Let v = c1u1 +··· +cnun and w = ...",Orthogonal & Orthonormal Bases,Hard
+4,4.1,4.1.25,Find an example that demonstrates why equation (4.5) is not valid for a non- orthonormal basis.,Orthogonal & Orthonormal Bases,Easy
+4,4.1,4.1.26,"Use orthogonality to write the polynomials 1,x and x2 as linear combinations of the orthogonal basis (4.1).",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.27,"(a) Prove that the polynomialsP0(t)=1 , P1(t)= t, P2(t)= t2 − 1 3 , P3(t)= t3 − 3 5 t, form an orthogonal basis for the ...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.28,"(a) Prove that the polynomialsP0(t)=1 , P1(t)= t− 2 3, P2(t)= t2 − 6 5 t+ 3 10,f o r ma n orthogonal basis forP(2) with ...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.29,"Write the following trigonometric polynomials in terms of the basis functions (4.11): (a)c o s2 x,( b)c o sxsinx,( c)s i...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.30,"Write down an orthonormal basis of the space of trigonometric polynomialsT (n) with respect to the L2 inner product⟨f,g ...",Orthogonal & Orthonormal Bases,Easy
+4,4.1,4.1.31,"Show that the 2n+1 complex exponentialseikx for k = −n,−n+1,..., −1,0,1,...,n , form an orthonormal basis for the space ...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.32,"Prove the trigonometric integral identities (4.13).Hint:Y o uc a ne i t h e ru s ea trigonometric summation identity, or...",Orthogonal & Orthonormal Bases,Medium
+4,4.1,4.1.33,Fill in the complete details of the proof of Theorem 4.9. Once we become convinced of the utility of orthogonal and orth...,Orthogonal & Orthonormal Bases,Hard
+4,4.2,4.2.1,Use the Gram–Schmidt process to determine an orthonormal basis forR3 starting with the following sets of vectors: (a) ⎛ ...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.2,Use the Gram–Schmidt process to construct an orthonormal basis forR4 starting with the following sets of vectors: (a)( 1...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.3,"Try the Gram–Schmidt procedure on the vectors ⎛ ⎜⎜⎜⎝ 1 −1 0 1 ⎞ ⎟⎟⎟⎠, ⎛ ⎜⎜⎜⎝ 0 −1 1 2 ⎞ ⎟⎟⎟⎠, ⎛ ⎜⎜⎜⎝ 2 −1 −1 0 ⎞ ⎟⎟⎟⎠, ⎛...",Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.4,Use the Gram–Schmidt process to construct an orthonormal basis for the following subspaces ofR3:( a) the plane spanned b...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.5,"Find an orthogonal basis of the subspace spanned by the vectorsw1 =(1 ,−1,−1,1,1)T, w2 =(2 ,1,4,−4,2)T,a n dw3 =(5 ,−4,−...",Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.6,"Find an orthonormal basis for the following subspaces ofR4:( a) the span of the vectors⎛ ⎜⎜⎜⎝ 1 1 −1 0 ⎞ ⎟⎟⎟⎠, ⎛ ⎜⎜⎜⎝ −1...",Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.7,"Find orthonormal bases for the four fundamental subspaces associated with the following matrices: (a) ( 1 −1 −33 ) ,( b)...",Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.8,"Construct an orthonormal basis ofR2 for the nonstandard inner products (a) ⟨x ,y ⟩= xT ( 30 05 ) y,( b) ⟨x ,y ⟩= xT ( 4 ...",Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.9,Construct an orthonormal basis forR3 with respect to the inner products deﬁned by the following positive deﬁnite matrice...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.10,"Redo Exercise 4.2.1 using (i) the weighted inner product⟨v ,w ⟩=3 v1w1 +2 v2w2 +v3w3; (ii) the inner product induced by ...",Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.11,(a) How many orthonormal bases doesR have? (b) What aboutR2?( c)D o e sy o u r answer change if you use a diﬀerent inner...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.12,True or false: Reordering the original basis before starting the Gram–Schmidt process leads to the same orthogonal basis...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.13,"Suppose thatW ⊊R n is a proper subspace, andu1,..., um forms an orthonormal basis ofW. Prove that there exist vectorsum+...",Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.14,Verify that the Gram–Schmidt formula (4.19) also produce an orthogonal basis of a complex vector space under a Hermitian...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.15,(a) Apply the complex Gram–Schmidt algorithm from Exercise 4.2.14 to produce an orthonormal basis starting with the vect...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.16,Use the complex Gram–Schmidt algorithm from Exercise 4.2.14 to construct orthonormal bases for (a) the subspace spanned ...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.17,Use the modiﬁed Gram-Schmidt process (4.26–27) to produce orthonormal bases for the spaces spanned by the following vect...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.18,Repeat Exercise 4.2.17 using the numerically stable algorithm (4.28) and check that you get the same result. Which of th...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.19,Redo each of the exercises in the preceding subsection by implementing the numerically stable Gram–Schmidt process (4.28...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.20,Prove that (4.28) does indeed produce an orthonormal basis. Explain why the result is the same orthonormal basis as the ...,Gram-Schmidt Process & QR Factorization,Medium
+4,4.2,4.2.21,Let w(j) j be the vectors in the stable Gram–Schmidt algorithm (4.28). Prove that the coeﬃcients in (4.23) are given byr...,Gram-Schmidt Process & QR Factorization,Hard
+4,4.3,4.3.5,"Lemma 4.22. An orthogonal matrixQ has determinant detQ = ±1. Proof: Taking the determinant of (4.29), and using the dete...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.24,"Although they will not play a signiﬁcant role in this text, groups underlie the mathematical formalization of symmetry a...",Orthogonal Matrices & Householder Method,Easy
+4,4.3,4.3.1,"Determine which of the following matrices are (i) orthogonal; (ii) proper orthogonal. (a) ( 11 −11 ) ,( b) ⎛ ⎝ 12 13 5 1...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.2,"(a) Show thatR = ⎛ ⎜⎝ 100 001 010 ⎞ ⎟⎠, a reﬂection matrix, andQ = ⎛ ⎜⎝ cosθ sinθ 0 −sinθ cosθ 0 00 1 ⎞ ⎟⎠, representing...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.3,"True or false:( a)I f Q is an improper 2×2 orthogonal matrix, thenQ2 =I . (b)I f Q is an improper 3×3 orthogonal matrix,...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.4,"(a) Prove that, for allθ,ϕ,ψ , Q = ⎛ ⎜⎝ cosϕ cosψ −cosθ sinϕ sinψ sinϕ cosψ +cos θ cosϕ sinψ sinθ sinψ −cosϕ sinψ −cosθ ...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.5,"(a) Show that ify2 1 +y2 2 +y2 3 +y2 4 = 1, then the matrix Q = ⎛ ⎜⎜⎝ y2 1 +y2 2 −y2 3 −y2 4 2(y2y3 +y1y4)2 ( y2y4 −y1y3...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.6,(a) Prove that the transpose of an orthogonal matrix is also orthogonal. (b) Explain why the rows of ann×n orthogonal ma...,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.7,Prove that the inverse of an orthogonal matrix is orthogonal.,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.8,"Show that ifQ is a proper orthogonal matrix, andR is obtained fromQ by interchanging two rows, thenR is an improper orth...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.9,Show that the product of two proper orthogonal matrices is also proper orthogonal. What can you say about the product of...,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.10,True or false:( a) A matrix whose columns form an orthogonal basis ofRn is an orthogonal matrix. (b) A matrix whose rows...,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.11,Write down all diagonaln×n orthogonal matrices.,Orthogonal Matrices & Householder Method,Easy
+4,4.3,4.3.12,Prove that an upper triangular matrixU is orthogonal if and only ifU is a diagonal matrix. What are its diagonal entries...,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.13,(a) Show that the elementary row operation matrix corresponding to the interchange of two rows is an improper orthogonal...,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.14,True or false: Applying an elementary row operation to an orthogonal matrix produces an orthogonal matrix.,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.15,(a) Prove that every permutation matrix is orthogonal. (b)H o wm a n yp e r m u t a t i o n matrices of a given size are...,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.16,"(a)P r o v et h a ti fQ is an orthogonal matrix, then∥Qx∥ = ∥x∥ for every vectorx ∈ Rn, where ∥·∥ denotes the standard E...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.17,"Show that ifAT = −A is any skew-symmetric matrix, then itsCayley Transform Q =( I − A)−1(I + A) is an orthogonal matrix....",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.18,"Suppose S is ann×n matrix whose columns form an orthogonal, but not orthonormal, basis ofRn.( a)F i n daf o r m u l af o...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.19,"Let v1,..., vn and w1,..., wn be two sets of linearly independent vectors inRn. Show that all their dot products are the...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.20,"Suppose u1,..., uk form an orthonormal set of vectors inRn with k<n .L e t Q =( u1 u2 ... uk )d e n o t et h en×k matrix...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.21,"Let u1,..., un and ˆu1,..., ˆun be orthonormal bases of an inner product spaceV. Prove thatˆui = n∑ j=1 qijuj for i =1 ,...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.22,"Let A be anm×n matrix whose columns are nonzero, mutually orthogonal vectors in Rm.( a) Explain whym ≥ n.( b)P r o v et ...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.23,Let K> 0 be a positive deﬁniten×n matrix. Prove that ann× n matrix S satisﬁes STKS = I if and only if the columns ofS fo...,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.24,"Groups:As e to fn×n matrices G ⊂M n×n is said to form agroup if (1) whenever A,B ∈ G, so is the productAB ∈ G,a n d (2) ...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.25,"Unitary matrices: A complex, square matrixU is calledunitary if it satisﬁesU† U =I , where U† = UT denotes theHermitian ...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.24,The QR Factorization The Gram–Schmidt procedure for orthonormalizing bases ofRn can be reinterpreted as a matrix factori...,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.30,Example 4.25. The columns of the matrix A = ⎛ ⎝ 11 2 10 −2 −12 3 ⎞ ⎠ are the same basis vectors considered in Example 4....,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.26,Write down theQR matrix factorization corresponding to the vectors in Example 4.17.,Orthogonal Matrices & Householder Method,Easy
+4,4.3,4.3.27,"Find theQR factorization of the following matrices: (a) ( 1 −3 21 ) ,( b) ( 43 32 ) , (c) ⎛ ⎜⎝ 21 −1 013 −1 −11 ⎞ ⎟⎠,( d...",Orthogonal Matrices & Householder Method,Easy
+4,4.3,4.3.28,"For each of the following linear systems, ﬁnd theQR factorization of the coeﬃcient matrix, and then use your factorizati...",Orthogonal Matrices & Householder Method,Easy
+4,4.3,4.3.29,"Use the numerically stable version of the Gram–Schmidt process to ﬁnd theQR factorizations of the 3× 3,4 × 4a n d5× 5 ve...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.30,Prove that theQR factorization of a matrix is unique if all the diagonal entries ofR,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.12,212 4 Orthogonality,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.31,(a) How many arithmetic operations are required to compute theQR factorization of an n×n matrix? ( b) How many additiona...,Orthogonal Matrices & Householder Method,Easy
+4,4.3,4.3.32,Suppose A is anm × n matrix with rankA = n.( a) Show that applying the Gram– Schmidt algorithm to the columns ofA produc...,Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.33,"(a) According to Exercise 4.2.14, the Gram–Schmidt process can also be applied to produce orthonormal bases of complex v...",Orthogonal Matrices & Householder Method,Medium
+4,4.3,4.3.34,"(a) Write down the Householder matrices corresponding to the following unit vectors: (i)( 1,0)T,( ii) (3 5, 4 5 )T ,( ii...",Orthogonal Matrices & Householder Method,Easy
+4,4.3,4.3.35,Use Householder’s Method to solve Exercises 4.3.27 and 4.3.29.,Orthogonal Matrices & Householder Method,Easy
+4,4.3,4.3.36,"Let Hn = QnRn be theQR factorization of then×n Hilbert matrix (1.72). (a)F i n d Qn and Rn for n =2 ,3,4. (b) Use a comp...",Orthogonal Matrices & Householder Method,Easy
+4,4.3,4.3.37,Write out a pseudocode program to implement Householder’s Method. The input should be ann × n matrix A and the output sh...,Orthogonal Matrices & Householder Method,Hard
+4,4.4,4.4.10,") Theorem 4.32. Let u1,..., un be an orthonormal basis for the subspaceW ⊂V.T h e n the orthogonal projection ofv ∈V ont...",Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.1,"Determine which of the vectorsv1 = ⎛ ⎜⎝ 1 1 0 ⎞ ⎟⎠,v2 = ⎛ ⎜⎝ −2 2 2 ⎞ ⎟⎠,v3 = ⎛ ⎜⎝ 2 −1 −3 ⎞ ⎟⎠,v4 = ⎛ ⎜⎝ −1 3 4 ⎞ ⎟⎠,i ...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.2,"Find the orthogonal projection of the vectorv =(1 ,1,1)T onto the following subspaces, using the indicated orthonormal/o...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.3,"Find the orthogonal projection ofv =( 1,2,−1,2)T onto the following subspaces: (a) the span of ⎛ ⎜⎜⎜⎝ 1 −1 2 1 ⎞ ⎟⎟⎟⎠, ⎛...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.4,Find the orthogonal projection of the vector ⎛ ⎜⎝ 1 2 3 ⎞ ⎟⎠onto the image of ⎛ ⎜⎝ 32 2 −2 1 −2 ⎞ ⎟⎠.,Orthogonal Projections & Fredholm Alternative,Easy
+4,4.4,4.4.5,"Find the orthogonal projection of the vectorv =(1 ,3,−1)T onto the plane spanned by (−1,2,1)T ,(2,1,−3)T by ﬁrst using t...",Orthogonal Projections & Fredholm Alternative,Easy
+4,4.4,4.4.6,"Find the orthogonal projection ofv =(1 ,2,−1,2)T onto the span of (1,−1,2,5)T and (2,1,0,−1)T using the weighted inner p...",Orthogonal Projections & Fredholm Alternative,Easy
+4,4.4,4.4.7,"Redo Exercise 4.4.2 using (i) the weighted inner product⟨v ,w ⟩=2 v1w1 +2 v2w2 +v3w3; (ii) the inner product induced by ...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.8,(a) Prove that the set of all vectors orthogonal to a given subspaceV ⊂ Rm forms a subspace. (b) Find a basis for the se...,Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.9,"Let u1,..., uk be an orthonormal basis for the subspaceW ⊂ Rm.L e t A =( u1 u2 ... uk )b et h em×k matrix whose columns ...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.10,"Let w1,..., wn be an arbitrary basis of the subspaceW ⊂ Rm.L e tA =( w1,..., wn) be them × n matrix whose columns are th...",Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.11,"Use the projection matrix method of Exercise 4.4.10 to ﬁnd the orthogonal projection of v =(1 ,0,0,0)T onto the image of...",Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.26,Example 4.36. Let V = R3 have the ordinary dot product. Then the planeW ⊂R3 deﬁned by the equation 2x−y +3 z = 0 is orth...,Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.10,"Example 4.43. Let W ⊂R4 be the two-dimensional subspace spanned by the orthog- onal vectorsw1 =(1 ,1,0,1)T and w2 =(1 ,1...",Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.12,Find the orthogonal complementW⊥ of the subspacesW ⊂ R3 spanned by the indicated vectors. What is the dimension ofW⊥ in ...,Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.13,Find a basis for the orthogonal complement of the following subspaces ofR3:( a)t h e plane 3x +4 y − 5z =0 ; (b) the lin...,Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.14,Find a basis for the orthogonal complement of the following subspaces ofR4:( a)t h e set of solutions to−x +3 y − 2z + w...,Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.15,"Decompose each of the following vectors with respect to the indicated subspace as v = w +z,w h e r ew ∈ W,z ∈ W⊥.( a) v ...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.16,"Redo Exercise 4.4.12 using the weighted inner product⟨v ,w ⟩= v1w1+2v2w2+3v3w3 instead of the dot product.",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.17,"Redo Example 4.43 with the dot product replaced by the weighted inner product ⟨v ,w ⟩= v1w1 +2 v2w2 +3 v3w3 +4 v4w4.",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.18,"Prove that the orthogonal complementW⊥ of a subspaceW ⊂ V is itself a subspace. † In general, a subsetW ⊂ V of a normed ...",Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.19,"Let V = P(4) denote the space of quartic polynomials, with the L2 inner product ⟨p,q ⟩ = ∫1 −1 p(x)q(x)dx.L e tW = P(2) ...",Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.20,"Let W ⊂ V.P r o v et h a t(a) W ∩W⊥ = {0},( b) W ⊆ (W⊥)⊥.",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.21,"Let V be an inner product space. Prove that (a) V⊥ = {0},( b) {0}⊥ = V.",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.22,"Prove that ifW1 ⊂ W2 are ﬁnite-dimensional subspaces of an inner product space, then W⊥ 1 ⊃W⊥ 2 .",Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.23,"(a) Show that ifW,Z ⊂ Rn are complementary subspaces, thenW⊥ and Z⊥ are also complementary subspaces. (b) Sketch a pictu...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.24,"Prove that ifW,Z are subspaces of an inner product space, then (W+Z)⊥ = W⊥ ∩Z⊥. (See Exercise 2.2.22(b) for the deﬁnitio...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.25,Fill in the details of the proof of Proposition 4.44.,Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.26,Prove Lemma 4.35.,Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.27,"Let W ⊂ V with dimV = n. Suppose w1,..., wm is an orthogonal basis forW and wm+1,..., wn is an orthogonal basis forW⊥.( ...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.28,"Consider the subspaceW = {u(a)=0= u(b)} of the vector space C0[a,b ]w i t ht h e usual L2 inner product. (a) Show thatW ...",Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.38,Theorem 4.49. Multiplication by an m ×n matrix A of rank r deﬁnes a one-to-one correspondence between the r-dimensional ...,Orthogonal Projections & Fredholm Alternative,Hard
+4,4.4,4.4.29,"For each of the following matricesA,( i) ﬁnd a basis for each of the four fundamental subspaces; (ii) verify that the im...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.30,"For each of the following matrices, use Gaussian elimination on the augmented matrix( A | b ) to determine a basis for i...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.31,Let A = ⎛ ⎜⎝ 1 −22 −1 −24 −35 −1207 ⎞ ⎟⎠.( a) Find a basis for coimgA.( b)U s eT h e o r e m4 . 4 9 to ﬁnd a basis of im...,Orthogonal Projections & Fredholm Alternative,Easy
+4,4.4,4.4.32,Write down the compatibility conditions on the following systems of linear equations by ﬁrst computing a basis for the c...,Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.33,"For each of the followingm × n matrices, decompose the ﬁrst standard basis vector e1 = w +z ∈ Rn,w h e r ew ∈ coimgA and...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.34,"For each of the following linear systems, (i) verify compatibility using the Fredholm alternative, (ii) ﬁnd the general ...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.35,"Show that ifA = AT is a symmetric matrix, thenAx = b has a solution if and only if b is orthogonal to kerA.",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.36,"Suppose v1,..., vn span a subspaceV ⊂ Rm.P r o v et h a tw is orthogonal toV if and only ifw ∈ cokerA,w h e r eA =( v1 v...",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.37,Let A = ⎛ ⎜⎜⎜⎝ 1 −10 2 2 −20 4 −11 1 −1 00 22 ⎞ ⎟⎟⎟⎠.( a) Find an orthogonal basis for coimgA.( b)F i n da n orthogonal ...,Orthogonal Projections & Fredholm Alternative,Easy
+4,4.4,4.4.38,"Prove that ifv1,..., vr are a basis of coimgA, then their imagesAv1,...,A vr are a basis for imgA.",Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.39,True or false: The standard algorithm for ﬁnding a basis for kerA will always produce an orthogonal basis.,Orthogonal Projections & Fredholm Alternative,Medium
+4,4.4,4.4.40,"Is Theorem 4.45 true as stated for complex matrices? If not, can you formulate a similar theorem that is true? What is t...",Orthogonal Projections & Fredholm Alternative,Hard
+4,4.5,4.5.9,"Q.E.D. The Legendre polynomials play an important role in many aspects of applied math- ematics, including numerical ana...",Orthogonal Polynomials,Medium
+4,4.5,4.5.1,Write the following polynomials as linear combinations of monic Legendre polynomials. Use orthogonality to compute the c...,Orthogonal Polynomials,Easy
+4,4.5,4.5.2,(a) Find the monic Legendre polynomial of degree 5 using the Gram–Schmidt process. Check your answer using the Rodrigues...,Orthogonal Polynomials,Easy
+4,4.5,4.5.3,(a) Explain whyqn is the unique monic polynomial that satisﬁes (4.55). (b)U s et h i s characterization to directly cons...,Orthogonal Polynomials,Medium
+4,4.5,4.5.4,Prove that the even (odd) degree Legendre polynomials are even (odd) functions oft.,Orthogonal Polynomials,Medium
+4,4.5,4.5.5,"Prove that ifp(t)= p(−t) is an even polynomial, then all the odd-order coeﬃcients c2j+1 = 0 in its Legendre expansion (4...",Orthogonal Polynomials,Medium
+4,4.5,4.5.6,Write out an explicit Rodrigues-type formula for the monic Legendre polynomialqk(t) and its norm.,Orthogonal Polynomials,Medium
+4,4.5,4.5.7,"Write out an explicit Rodrigues-type formula for anorthonormal basisQ0(t),...,Q n(t) for the space of polynomials of deg...",Orthogonal Polynomials,Medium
+4,4.5,4.5.8,Use the Rodrigues formula to prove (4.59).Hint:W r i t e(t2 −1)k =( t−1)k (t+1)k.,Orthogonal Polynomials,Medium
+4,4.5,4.5.9,A proof of the formula in (4.61) for the norms of the Legendre polynomials is based on the following steps. (a)F i r s t...,Orthogonal Polynomials,Medium
+4,4.5,4.5.10,"(a)F i n dt h er o o t s ,Pn(t) = 0, of the Legendre polynomialsP2,P3 and P4.( b)P r o v e that for 0≤ j ≤ k, the polyno...",Orthogonal Polynomials,Hard
+4,4.5,4.5.11,"Construct polynomialsP0,P1,P2,a n dP3 of degree 0,1,2, and 3, respectively, that are orthogonal with respect to the inne...",Orthogonal Polynomials,Medium
+4,4.5,4.5.12,"Find the ﬁrst four orthogonal polynomials on the interval [0,1]fortheweightedL 2 inner product with weightw(t)= t2.",Orthogonal Polynomials,Easy
+4,4.5,4.5.13,"Write down an orthogonal basis for vector spaceP(5) of quintic polynomials under the inner product⟨f,g ⟩= ∫2 −2 f(t)g(t)...",Orthogonal Polynomials,Easy
+4,4.5,4.5.14,"Use the Gram–Schmidt process based on the L2 inner product on [0,1] to construct a system of orthogonal polynomials of d...",Orthogonal Polynomials,Medium
+4,4.5,4.5.15,"Find the ﬁrst four orthogonal polynomials under the SobolevH1 inner product ⟨f,g ⟩= ∫1 −1 [ f(t)g(t)+ f′(t)g′(t) ]",Orthogonal Polynomials,Easy
+4,4.5,4.5.16,Prove the formula for∥˜Pk∥ in (4.73) .,Orthogonal Polynomials,Medium
+4,4.5,4.5.17,Find the monic Laguerre polynomials of degrees 4 and 5 and their norms.,Orthogonal Polynomials,Easy
+4,4.5,4.5.18,Prove the integration formula (4.67).,Orthogonal Polynomials,Medium
+4,4.5,4.5.19,"(a) The physicists’Hermite polynomialsare orthogonal with respect to the inner product ⟨f,g ⟩= ∫∞ −∞ f(t)g(t)e−t2 dt. Fi...",Orthogonal Polynomials,Easy
+4,4.5,4.5.20,"The Chebyshev polynomials:( a)P r o v et h a tTn(t)=c o s (narccost), n =0 ,1,2,... , form a system of orthogonal polyno...",Orthogonal Polynomials,Medium
+4,4.5,4.5.21,Does the Gram–Schmidt process for the inner product (4.75) lead to the Chebyshev polynomials Tn(t) deﬁned in the precedi...,Orthogonal Polynomials,Medium
+4,4.5,4.5.22,Find two functions that form an orthogonal basis for the space of the solutions to the diﬀerential equationy′′−3y′+2 y =...,Orthogonal Polynomials,Easy
+4,4.5,4.5.23,Find an orthogonal basis for the space of solutions to the diﬀerential equation y′′′−y′′+y′−y =0f o rt h eL2 inner produ...,Orthogonal Polynomials,Easy
+4,4.5,4.5.24,"In this exercise, we investigate the eﬀect of more general changes of variables on orthogonal polynomials. (a)P r o v et...",Orthogonal Polynomials,Hard
+4,4.5,4.5.25,(a) Show that the change of variabless = e−t maps the Laguerre inner product (4.66) to the standard L2 inner product on ...,Orthogonal Polynomials,Medium
+4,4.5,4.5.26,Explain how to adapt the numerically stable Gram–Schmidt method in (4.28) to construct a system of orthogonal polynomial...,Orthogonal Polynomials,Hard
+7,7.1,7.1.1,"Which of the following functionsF:R3 → R are linear? (a) F(x,y,z )= x, (b) F(x,y,z )= y −2, (c) F(x,y,z )= x+y +3, ( d) ...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.2,"Explain why the following functionsF:R2 → R2 are not linear. (a) ( x+2 x+y ) ,( b) ( x2 y2 ) ,( c) ( |y| |x| ) ,( d) ( s...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.3,"Which of the following functionsF:R2 → R2 are linear? (a) F ( x y ) = ( x−y x+y ) ,( b) F ( x y ) = ( x+y +1 x−y −1 ) ,(...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.4,"Explain why the translation functionT:R2 → R2, deﬁned byT ( x y ) = ( x+a y +b ) for a,b ∈ R, is almost never linear. Pr...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.5,Find a matrix representation for the following linear transformations onR3: (a) counterclockwise rotation by 90◦ around ...,"Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.6,Find a linear functionL:R2 → R such thatL ( 1 1 ) =2a n dL ( 1 −1 ) = 3. Is it unique?,"Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.7,Find a linear functionL:R2 → R2 such thatL ( 1 2 ) = ( 2 −1 ) and L ( 2 1 ) = ( 0 −1 ) .,"Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.8,Under what conditions does there exist a linear functionL:R2 → R2 such that L ( x1 y1 ) = ( a1 b1 ) and L ( x2 y2 ) = ( ...,"Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.9,"Can you construct a linear functionL:R3 → R such that L ⎛ ⎜⎝ 1 −1 0 ⎞ ⎟⎠=1 ,L ⎛ ⎜⎝ 1 0 −1 ⎞ ⎟⎠=4 , a n dL ⎛ ⎜⎝ 0 1 −1 ⎞ ...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.10,"Given a =( a,b,c )T ∈ R3, prove that the cross product mapLa[v]= a ×v, as deﬁned in (4.2), is linear, and ﬁnd its matrix...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.11,"Is the Euclidean norm functionN(v)= ∥v∥,f o rv ∈ Rn, linear?","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.12,"Let V be a vector space. Prove that every linear functionL:R → V has the form L[x]= xb,w h e r ex ∈ R,f o rs o m eb ∈ V.","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.13,True or false: The quadratic formQ(v)= vTKv deﬁned by a symmetricn×n matrix K deﬁnes a linear functionQ:Rn → R.,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.14,(a)P r o v et h a tL is linear if and only if it satisﬁes (7.3). (b) Use induction to prove thatL satisﬁes (7.4).,"Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.15,"Let A = ( ab cd ) ,B = ( pq rs ) be 2×2 matrices. For each of the following functions, prove thatL:M2×2 →M 2×2 deﬁnes a ...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.16,The domain space of the following functions is the space ofn × n real matricesA. Which are linear? What is the codomain ...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.17,"Let v1,..., vn be a basis ofV and w1,..., wn be any vectors inW. Show that there is a unique linear functionL:V → W such...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.18,"Bilinear functions:L e tV,W,Z be vector spaces. A function that takes any pair of vectors v ∈ V and w ∈ W to a vectorz =...","Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.19,Which of the following deﬁne linear operators on the vector space C1(R)o f continuously diﬀerentiable scalar functions? ...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.20,"True or false: The average or meanA[f]= 1 b−a ∫b a f(x)dx of a function on the interval [a,b ] deﬁnes a linear operatorA...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.21,"Prove that multiplicationMh[f(x)]= h(x)f(x) by a given functionh ∈ Cn[a,b ] deﬁnes a linear operatorMh:Cn[a,b ] → Cn[a,b...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.22,"Show that ifw(x) is any continuous function, then the weighted integral Iw[f]= ∫b a f(x)w(x)dx deﬁnes a linear operatorI...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.23,(a) Show that the partial derivatives∂x[f]= ∂f ∂x and ∂y[f]= ∂f ∂y both deﬁne linear operators on the space of continuou...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.24,Prove that the Laplacian operator Δ[f]= ∂2f ∂x2 + ∂2f ∂y2 deﬁnes a linear function on the vector space of twice continuo...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.25,Show that the gradientG[f]= ∇f deﬁnes a linear operator from the space of continuously diﬀerentiable scalar-valued funct...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.26,"Prove that, onR3, the gradient, curl, and divergence all deﬁne linear operators. Be precise in your description of the d...","Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.27,"Write down a basis for and dimension of the linear function spaces (a) L(R3,R), (b) L(R2,R2), (c) L(Rm,Rn), (d) L(P(3),R...","Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.28,"True or false: The set of linear transformationsL:R2 → R2 such thatL ( 1 0 ) = ( 0 0 ) is a subspace ofL(R2,R2). If true...","Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.29,True or false: The set of linear transformationsL:R3 → R3 such thatL ⎛ ⎜⎝ 0 1 0 ⎞ ⎟⎠= ⎛ ⎜⎝ 0 1 0 ⎞ ⎟⎠ is a subspace ofL(...,"Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.30,"Consider the linear functionL:R3 → R deﬁned byL(x,y,z )=3 x−y+2 z.W r i t ed o w n the vectora ∈ R3 such thatL[v]= ⟨a ,v...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.31,"Let Rn be equipped with the inner product⟨v ,w ⟩= vTKw.L e tL[v]= rv where r is a row vector of size 1×n.( a) Find a for...","Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.32,"Dual Bases: Given a basisv1,..., vn of V,t h edual basisℓ1,...,ℓ n of V∗ consists of the linear functions uniquely deﬁne...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.33,"Use Exercise 7.1.32(c) to ﬁnd the dual basis for: (a) v1 = ( 1 1 ) , v2 = ( 1 −1 ) ; (b) v1 = ( 1 2 ) , v2 = ( 3 −1 ) ;(...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.34,"Let P(2) denote the space of quadratic polynomials equipped with the L2 inner product ⟨p,q ⟩ = ∫1 0 p(x)q(x)dx. Find the...","Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.35,"Find the dual basis, as deﬁned in Exercise 7.1.32, for the monomial basis ofP(2) with respect to the L2 inner product⟨p,...","Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.36,Write out a proof of Theorem 7.10 that does not rely on ﬁnding an orthonormal basis. Composition Besides adding and mult...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.37,"For each of the following pairs of linear functionsS,T :R2 → R2,d e s c r i b et h e compositions S◦T and T ◦S. Do the f...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.38,Find a matrix representative for the linear functions (a) L:R2 → R2 that mapse1 to ( 1 −3 ) and e2 to ( −1 2 ) ;( b) M:R...,"Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.39,"On the vector spaceR3,l e tR denote counterclockwise rotation around thex axis by 90◦ and S counterclockwise rotation ar...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.40,Let P denote orthogonal projection ofR3 onto the planeV = {z = x+y} and Q denote orthogonal projection onto the planeW =...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.41,(a) Write the linear operatorL[f(x)]= f′(b) as a composition of two linear functions. Do your linear functions commute? ...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.42,"Let L = xD +1,and M = D −x be diﬀerential operators. FindL◦M and M ◦L.D o the diﬀerential operators commute?","Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.43,Show that the space of constant coeﬃcient linear diﬀerential operators of order≤ n is a vector space. Determine its dime...,"Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.44,(a) Explain why the diﬀerential operatorL = D◦Ma ◦D obtained by composing the linear operators of diﬀerentiationD[f(x)]=...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.45,(a) Show that composition of linear functions is associative: (L◦M)◦N = L◦(M ◦N). Be precise about the domain and codoma...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.46,"Show that ifp(x,y) is any polynomial, thenL = p(∂x,∂y) deﬁnes a linear, constant coeﬃcient partial diﬀerential operator....","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.47,"The commutator of two linear transformationsL,M :V → V on a vector spaceV is K =[ L,M ]= L◦M −M ◦L. (7.17) (a) Prove tha...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.18,,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.48,"(a) In (one-dimensional) quantum mechanics, the diﬀerentiation operator P[f(x)]= f′(x)r e p r e s e n t st h emomentum o...","Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.49,"Let D(1) denote the set of all ﬁrst order linear diﬀerential operatorsL = p(x)D +q(x) where p,q are polynomials. (a)P r ...","Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.50,Do the conclusions of Exercise 7.1.49(a–b) hold for the spaceD(2) of second order diﬀerential operatorsL = p(x)D2 +q(x)D...,"Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.51,"Determine which of the following linear functionsL:R2 → R2 has an inverse, and, if so, describe it: (a) the scaling tran...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.52,"For each of the linear functions in Exercise 7.1.51, write down its matrix representative, the matrix representative of ...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.53,"Let L:R2 → R2 be the linear function such thatL[e1]=(1 ,−1)T, L[e2]=(3 ,−2)T. Find L−1[e1]a n dL−1[e2].","Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.54,"Let L:R3 → R3 be the linear function such thatL[e1]=(2 ,1,−1)T, L[e2]=(1 ,2,1)T, L[e3]=( −1,2,2)T.F i n dL−1[e1], L−1[e2...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.55,"Prove that the inverse of a linear transformation is unique; i.e., givenL,t h e r ei sa t most one linear transformation...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.56,"Let L:V → W be a linear function. SupposeM,N :W → V are linear functions that satisfy L◦M =I V = N ◦L.P r o v et h a tM ...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.57,"Give an example of a matrix with a left inverse, but not a right inverse. Is your left inverse unique?","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.58,"Suppose v1,..., vn is a basis forV and w1,..., wn ab a s i sf o rW.( a) Prove that there is a unique linear functionL:V ...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.59,"Suppose V,W ⊂ Rn are subspaces of the same dimension. Prove that there is an","Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.58,,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.60,"Let W,Z be complementary subspaces of a vector spaceV, as in Exercise 2.2.24. Let L:Z → V/W that mapsL[z]=[ z]W deﬁnes a...","Linear Functions, Operators & Dual Spaces",Medium
+7,7.1,7.1.61,"Let L:V → W be a linear map. (a) Suppose V,W are ﬁnite-dimensional vector spaces, and letA be a matrix representative of...","Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.62,"Let V be a ﬁnite-dimensional real inner product space and letV∗ be its dual. Using Theorem 7.10, prove that the mapJ:V∗ ...","Linear Functions, Operators & Dual Spaces",Hard
+7,7.1,7.1.63,(a)P r o v et h a tL[p]= p′ + p deﬁnes an invertible linear map on the spaceP(2) of quadratic polynomials. Find a formul...,"Linear Functions, Operators & Dual Spaces",Easy
+7,7.1,7.1.64,"(a) Show that the set of all functions of the formf(x)=( ax2 +bx +c)ex for a,b,c, ∈ R is a vector space. What is its dim...","Linear Functions, Operators & Dual Spaces",Hard
+7,7.2,7.2.1,"For each of the following linear transformationsL:R2 → R2, ﬁnd a matrix representative, and then describe its eﬀect on (...",Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.2,Let L be the linear transformation represented by the matrix ( 01 −10 ) . Show that L2 = L◦L is rotation by 180◦.I s L i...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.3,"Let L be the linear transformation determined by ( 01 10 ) . Show L2 = I, and interpret geometrically.",Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.4,What is the geometric interpretation of the linear transformation with matrix A = ( 10 2 −1 ) ? Use this to explain whyA...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.5,"Describe the image of the lineℓthat goes through the points ( −2 1 ) , ( 1 −2 ) under the linear transformation ( 23 −10...",Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.6,Draw the parallelogram spanned by the vectors ( 1 2 ) and ( 3 1 ) . Then draw its image under the linear transformations...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.7,Find a linear transformation that maps the unit circlex2 +y2 = 1 to the ellipse 1 4 x2 + 1 9 y2 = 1. Is your answer uniq...,Linear Transformations & Change of Basis,Easy
+7,7.2,7.2.8,Find a linear transformation that maps the unit spherex2 +y2 +z2 = 1 to the ellipsoid x2 + 1 4 y2 + 1 16 z2 =1 .,Linear Transformations & Change of Basis,Easy
+7,7.2,7.2.9,True or false: A linear transformationL:R2 → R2 maps (a) straight lines to straight lines; (b) triangles to triangles; (...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.10,(a) Prove that the linear transformation associated with the improper orthogonal matrix( cosθ sinθ sinθ −cosθ ) is a reﬂ...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.11,(a) Find the matrix inR3 that corresponds to a counterclockwise rotation around the x-axis through an angle 60◦.( b) Wri...,Linear Transformations & Change of Basis,Easy
+7,7.2,7.2.12,Let L ⊂ R2 be the line through the origin in the direction of a unit vectoru.( a)P r o v e that the matrix representativ...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.13,Decompose the following matrices into a product of elementary matrices. Then interpret each of the factors as a linear t...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.14,"(a)P r o v et h a t ( cosθ −sinθ sinθ cosθ ) = ( 1 a 01 )( 10 b 1 )( 1 a 01 ) ,w h e r ea = −tan 1 2 θ and b =s i nθ.( b...",Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.15,Determine the matrix representative for orthogonal projectionP:R2 → R2 on the line through the origin in the direction (...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.16,"(a) Prove that every 2× 2m a t r i xo fr a n k1c a nb ew r i t t e ni nt h ef o r mA = uvT where u,v ∈ R2 are non-zero c...",Linear Transformations & Change of Basis,Hard
+7,7.2,7.2.17,Give a geometrical interpretation of the linear transformations onR3 deﬁned by each of the six 3×3 permutation matrices ...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.18,Write down the 3× 3m a t r i xXψ representing a clockwise rotation inR3 around the x-axis by angleψ.,Linear Transformations & Change of Basis,Easy
+7,7.2,7.2.19,"Explain why the linear map deﬁned by− I deﬁnes a rotation in two-dimensional space, but a reﬂection in three-dimensional...",Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.20,"Let u =( u1,u2,u3 )T ∈ R3 be a unit vector. Show thatQπ =2 uuT − Ir e p r e s e n t s rotation around the axisu t h r o ...",Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.21,Let u ∈ R3 be a unit vector. (a) Explain why theelementary reﬂection matrix R =I −2uuT represents a reﬂection through th...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.20,,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.22,"Let a ∈ R3,a n dl e tQ be any 3× 3 rotation matrix such thatQa = e3.( a) Show, using the notation of (7.25), thatRθ = QT...",Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.23,Quaternions:T h eskew ﬁeld H of quaternions can be identiﬁed with the vector space R4 equipped with anoncommutative mult...,Linear Transformations & Change of Basis,Hard
+7,7.2,7.2.24,"Find the matrix form of the linear transformationL(x,y)= ( x−4y −2x+3 y ) with respect to the following bases ofR2: (a) ...",Linear Transformations & Change of Basis,Easy
+7,7.2,7.2.25,"Find the matrix form ofL[x]= ⎛ ⎜⎝ −322 −313 −120 ⎞ ⎟⎠x with respect to the following bases ofR3: (a) ⎛ ⎜⎝ 2 0 0 ⎞ ⎟⎠, ⎛ ...",Linear Transformations & Change of Basis,Easy
+7,7.2,7.2.26,Find bases of the domain and codomain that place the following matrices in the canonical form (7.33). Use (7.32) to chec...,Linear Transformations & Change of Basis,Easy
+7,7.2,7.2.27,(a) Show that every invertible linear functionL:Rn → Rn can be represented by the identity matrix by choosing appropriat...,Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.28,"Suppose a linear transformationL:Rn → Rn is represented by a symmetric matrix with respect to the standard basise1,..., ...",Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.29,"In this exercise, we show that every inner product⟨·,·⟩ on Rn can be reduced to the dot product when expressed in a suit...",Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.30,"Dual functions:L e tL:V → W be a linear function between vector spaces. Thedual linear function, denoted byL∗:W∗ → V∗ (n...",Linear Transformations & Change of Basis,Medium
+7,7.1,7.1.32,370 7L i n e a r i t y Figure 7.10. Translation.,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.2,7.2.31,"Suppose A is anm×n matrix. (a)L e tv1,..., vn be a basis ofRn,a n dAvi = wi ∈ Rm, for i =1 ,...,n . Prove that the vecto...",Linear Transformations & Change of Basis,Hard
+7,7.3,7.3.2,"For example, every aﬃne transformation fromR to R has the form f(x)= αx +β. (7.36) As mentioned earlier, even though the...",Affine Transformations & Isometries,Medium
+7,7.3,7.3.14,Note that the aﬃne transformation (7.35) can be obtained by composing a linear func- tion L[x]= Ax with a translationT[x...,Affine Transformations & Isometries,Medium
+7,7.3,7.3.1,True or false: An aﬃne transformation takes (a) straight lines to straight lines; (b) triangles to triangles; (c) square...,Affine Transformations & Isometries,Medium
+7,7.3,7.3.2,"(a)L e tF:Rn → Rn be an aﬃne transformation. LetL1,L2 ⊂ Rn be two parallel lines. Prove thatF[L1]a n dF[L2] are also par...",Affine Transformations & Isometries,Medium
+7,7.3,7.3.3,"Describe the image of (i)t h ex-axis, (ii) the unit diskx2 +y2 ≤ 1, (iii) the unit square 0 ≤ x,y ≤ 1, under the followi...",Affine Transformations & Isometries,Medium
+7,7.3,7.3.4,"Using the aﬃne transformations in Exercise 7.3.3, write out the following compositions and verify that they satisfy (7.3...",Affine Transformations & Isometries,Medium
+7,7.3,7.3.5,"Describe the image of the triangle with vertices (−1,0),(1,0),(0,2) under the aﬃne transformation T ( x y ) = ( 4 −1 25 ...",Affine Transformations & Isometries,Medium
+7,7.3,7.3.6,Under what conditions is the composition of two aﬃne transformations (a) a translation? ( b) a linear function?,Affine Transformations & Isometries,Medium
+7,7.3,7.3.7,(a) Under what conditions does an aﬃne transformation have an inverse? (b)I st h e inverse an aﬃne transformation? If so...,Affine Transformations & Isometries,Easy
+7,7.3,7.3.3,,Affine Transformations & Isometries,Medium
+7,7.3,7.3.8,"Let v1,..., vn be a basis forRn.( a) Show that every aﬃne transformation F[x]= Ax +b on Rn is uniquely determined by the...",Affine Transformations & Isometries,Hard
+7,7.3,7.3.9,Show that the space of all aﬃne transformations onRn is a vector space. What is its dimension?,Affine Transformations & Isometries,Hard
+7,7.3,7.3.10,"In this exercise, we establish a useful matrix representation for aﬃne transformations. We identifyRn with then-dimensio...",Affine Transformations & Isometries,Hard
+7,7.3,7.3.11,"Which of the indicated mapsF(x,y) deﬁne isometries of the Euclidean plane? (a) ( y −x ) ,( b) ( x−2 y −1 ) ,( c) ( x−y +...",Affine Transformations & Isometries,Medium
+7,7.3,7.3.12,Prove that the planar aﬃne isometryF ( x y ) = ( −y +1 x−2 ) represents a rotation t h r o u g ha na n g l eo f9 0◦ arou...,Affine Transformations & Isometries,Medium
+7,7.3,7.3.13,True or false:T h em a pL[x]= −x for x ∈ Rn deﬁnes (a)a ni s o m e t r y ;(b) a rotation.,Affine Transformations & Isometries,Medium
+7,7.3,7.3.14,"Prove that everyproper aﬃne plane isometryF[x]= Qx +b of R2, where detQ =1 , is either (i) a translation, or (ii) a rota...",Affine Transformations & Isometries,Medium
+7,7.3,7.3.15,Compute both compositionsF ◦G and G◦F of the following aﬃne transformations on R2. Which pairs commute? (a) F = counterc...,Affine Transformations & Isometries,Easy
+7,7.3,7.3.16,"In R2, show the following: (a) The composition of two aﬃne isometries is another aﬃne isometry. (b) The composition of t...",Affine Transformations & Isometries,Medium
+7,7.3,7.3.17,Let ℓbe a line inR2.A glide reﬂectionis an aﬃne map onR2 composed of a translation in the direction ofℓby a distanced fo...,Affine Transformations & Isometries,Easy
+7,7.3,7.3.18,Let ℓbe the line in the direction of the unit vectoru through the pointa.( a)W r i t e down the formula for the aﬃne map...,Affine Transformations & Isometries,Medium
+7,7.2,7.2.12,"(b) Write down the formula for the glide reﬂection, as deﬁned in Exercise 7.3.17, alongℓby a distanced in the direction ...",Linear Transformations & Change of Basis,Medium
+7,7.2,7.2.10,,Linear Transformations & Change of Basis,Medium
+7,7.3,7.3.19,"A set ofn+1po i n t sa0,..., an ∈ Rn is said to bein general positionif the diﬀerences ai − aj span Rn.( a) Show that th...",Affine Transformations & Isometries,Hard
+7,7.3,7.3.20,"Suppose thatV is an inner product space andL:V → V is an isometry, so ∥L[v]∥ = ∥v∥ for allv ∈ V.P r o v et h a tL also p...",Affine Transformations & Isometries,Medium
+7,7.3,7.3.21,Let V be a normed vector space. Prove that a linear mapL:V → V deﬁnes an isometry ofV for the given norm if and only if ...,Affine Transformations & Isometries,Medium
+7,7.3,7.3.22,(a) List all linear and aﬃne isometries ofR2 with respect to the∞ norm. Hint:U s e,Affine Transformations & Isometries,Medium
+7,7.3,7.3.21,( b) Can you generalize your results toR3?,Affine Transformations & Isometries,Medium
+7,7.3,7.3.23,Answer Exercise 7.3.22 for the 1 norm.,Affine Transformations & Isometries,Medium
+7,7.3,7.3.24,A matrix of the formH = ( coshα sinhα sinhα coshα ) for α ∈ R deﬁnes ahyperbolic rotation of R2.( a) Prove that all hype...,Affine Transformations & Isometries,Hard
+7,7.3,7.3.25,"Let ℓ ⊂ R2 be a line, andp ̸∈ ℓap o i n t .Aperspective map takes a pointx ∈ R2 to the pointq ∈ ℓthat is the intersectio...",Affine Transformations & Isometries,Easy
+7,7.4,7.4.1,"True or false:I f F[x] is an aﬃne transformation onRn, then the equationF[x]= c deﬁnes a linear system.",Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.2,"Place each of the following linear systems in the form (7.45). Carefully describe the linear function, its domain, its c...",Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.3,The Fredholm Alternative of Theorem 4.46 ﬁrst appeared in the study of what are now known asFredholm integral equations:...,Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.4,"Answer Exercise 7.4.3 for theVolterra integral equationu(t)+ ∫t a K(t,s)u(s)ds = f(t), where a ≤ t ≤ b.",Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.5,(a) Prove that the solution to the linear integral equationu(t)= a+ ∫t 0 k(s)u(s)ds solves the linear initial value prob...,Linear Systems & Superposition Principle,Hard
+7,7.1,7.1.46,Solutions to the Laplace equation are known asharmonic functions. Unlike homogeneous linear ordinary diﬀerential equatio...,"Linear Functions, Operators & Dual Spaces",Medium
+7,7.4,7.4.6,Solve the following homogeneous linear ordinary diﬀerential equations. What is the dimension of the solution space? (a) ...,Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.7,"Deﬁne L[y]= y′′+y.( a) Prove directly from the deﬁnition thatL:C2[a,b ] → C0[a,b ] is a linear transformation. (b) Deter...",Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.8,Answer Exercise 7.4.7 whenL =3 D2 −2D −5.,Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.9,Consider the linear diﬀerential equationy′′′+5 y′′+3 y′−9y =0 .( a) Write the equation in the formL[y] = 0 for a diﬀeren...,Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.10,The following functions are solutions to a constant coeﬃcient homogeneous scalar ordinary diﬀerential equation. (i) Dete...,Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.11,"Solve the following Euler diﬀerential equations: (a) x2u′′+5 xu′−5u =0 , (b)2 x2u′′−xu′−2u =0 , ( c) x2u′′−u =0 , ( d) x...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.12,Solve the third order Euler diﬀerential equationx3u′′′+2 x2u′′− 3xu′+3 u =0b y using the power ansatz (7.56). What is th...,Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.13,"(i) Show that ifu(x) solves the Euler equationax2 d2u dx2 +bx du dx +cu =0 ,t h e n v(t)= u(et) solves a linear, constan...",Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.11,,Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.14,(a) Use the method in Exercise 7.4.13 to solve an Euler equation whose characteristic equation has a double rootr1 = r2 ...,Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.15,"Show that ifu(x)s o l v e sxu′′+2 u′ − 4xu =0 ,t h e nv(x)= xu(x)s o l v e sa linear, constant coeﬃcient equation. Use t...",Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.16,"Let S ⊂ R be an open subset (i.e., a union of open intervals), and letD:C1(S) → C0(S) be the derivative operatorD[f]= f′...",Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.17,"Show that log(x2 +y2)a n d x x2 +y2 are harmonic functions, that is, solutions of the two-dimensional Laplace equation.",Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.18,Find all solutionsu = f(r) of the two-dimensional Laplace equation that depend only on the radial coordinater = √ x2 +y2...,Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.19,"Find all (real) solutions to the two-dimensional Laplace equation of the form u =l o gp(x,y), wherep(x,y) is a quadratic...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.20,(a) Show that the functionex cosy is a solution to the two-dimensional Laplace equation. ( b) Show that its quadratic Ta...,Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.21,"(a) Find a basis for, and the dimension of, the vector space consisting of all quadratic polynomial solutions of the thr...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.22,Find all solutionsu = f(r) of the three-dimensional Laplace equation ∂2u ∂x2 + ∂2u ∂y2 + ∂2u ∂z2 = 0 that depend only on...,Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.23,"Let L,M be linear functions. (a) Prove that ker(L◦M) ⊇ kerM.( b)F i n da n example in which ker(L◦M) ̸=k e rM. Inhomogen...",Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.24,"For each of the following inhomogeneous systems, determine whether the right-hand side lies in the image of the coeﬃcien...",Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.25,"Which of the following systems have a unique solution? (a) ⎛ ⎜⎝ 31 −1 −1 20 ⎞ ⎟⎠ ( x y ) = ⎛ ⎜⎝ 0 2 2 ⎞ ⎟⎠,( b) ( 12 −1 ...",Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.26,"Solve the following inhomogeneous linear ordinary diﬀerential equations: (a) u′−4u = x−3, ( b)5 u′′−4u′+4 u = ex cosx,( ...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.27,"Solve the following initial value problems: (a) u′+3u = ex,u (1) = 0, (b) u′′+4u =1 , u(π)= u′(π)=0 , ( c) u′′−u′−2u = e...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.28,Solve the following inhomogeneous Euler equations using either variation of parameters or the change of variables method...,Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.29,"Write down all solutions to the following boundary value problems. Label your answer as ( i) unique solution, (ii) no so...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.30,"Let L:U → V be a linear function, and letW ⊂ U be a subspace of the domain space. (a)P r o v et h a tY = {L[w]|w ∈ W }⊂ ...",Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.31,"(a) Show that ifL:V → V is linear and kerL ̸= {0},t h e nL is not invertible. (b) Show that if imgL ̸= V,t h e nL is not...",Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.32,"Use superposition to solve the following inhomogeneous ordinary diﬀerential equations: (a) u′+2 u =1+c o sx,( b) u′′− 9u...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.33,"Consider the diﬀerential equationu′′+xu = 2. Suppose you know solutions to the two boundary value problemsu(0) = 1,u (1)...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.34,Consider the diﬀerential equationxu′′− (x +1 )u′ + u = 0. Suppose we know the solution to the initial value problemu(1) ...,Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.35,Consider the diﬀerential equation 4xu′′+2 u′+ u =0 .G i v e nt h a tc o s√ x solves the boundary value problemu (1 4 π2 ...,Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.36,"Solve the following boundary value problems by using superposition: (a) u′′+9 u = x, u(0) = 1,u ′(π)=0 , (b) u′′−8u′+16 ...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.37,"Given thatx2 + y2 solves the Poisson equation∂2u ∂x2 + ∂2u ∂y2 = 4, whilex4 + y4 solves ∂2u ∂x2 + ∂2u ∂y2 = 12(x2 +y2), ...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.38,Reduction of order: Suppose you know one solutionu1(x) to the second order homogeneous diﬀerential equationu′′+ a(x)u′ +...,Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.39,"Write out the details of the proof of Theorem 7.43. Complex Solutions to Real Systems As we know, solutions to a linear,...",Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.40,Can you ﬁnd a complex matrixA such that kerA ̸= {0} and the real and imaginary parts of every complex solution toAu = 0 ...,Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.41,"Find the general real solution to the following homogeneous diﬀerential equations: (a) u′′+4 u =0 , (b) u′′+6 u′+1 0u =0...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.42,The following functions are solutions to a real constant coeﬃcient homogeneous scalar ordinary diﬀerential equation. (i)...,Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.43,"Find the general solution to the following complex ordinary diﬀerential equations. Verify that, in these cases, the real...",Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.44,(a) Write down the explicit formulas for the harmonic polynomials of degree 4 and check that they are indeed solutions t...,Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.45,"Find all complex exponential solutionsu(t,x)= eωt+kx of thebeam equation ∂2u ∂t2 = ∂4u ∂x4 . How many diﬀerent real solu...",Linear Systems & Superposition Principle,Easy
+7,7.4,7.4.46,"(a) Show that, ifk ∈ R,t h e nu(t,x)= e−k2 t+i kx is a complex solution to the heat equation ∂u ∂t = ∂2u ∂x2 .( b) Use c...",Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.47,Show that the free spaceSchr¨odinger equation i ∂u ∂t = ∂2u ∂x2 is not a real linear system by constructing a complex qu...,Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.48,Which of the following sets of vectors span conjugated subspaces ofC3? (a) ⎛ ⎜⎝ 1 −1 2 ⎞ ⎟⎠;( b) ⎛ ⎜⎝ 1 −i 2i ⎞ ⎟⎠;( c) ...,Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.49,"Prove that the real and imaginary parts of a general element of a conjugated vector space, as deﬁned by (7.76), are both...",Linear Systems & Superposition Principle,Hard
+7,7.4,7.4.50,Prove that a subspaceV ⊂ Cn is conjugated if and only if it admits a basis all of whose elements are real.,Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.51,"Prove that ifL[u]= f is a real inhomogeneous linear system with real right-hand side f,a n du = v +i w is a complex solu...",Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.52,"Prove that a linear functionL:Cn → Cm is real if and only ifL[u]= Au,w h e r eA is a real m×n matrix.",Linear Systems & Superposition Principle,Medium
+7,7.4,7.4.53,"Let u = x +i y be a complex solution to a real linear system. Under what conditions are its real and imaginary partsx,y ...",Linear Systems & Superposition Principle,Hard
+7,7.2,7.2.30,"These clashing notations are both well established in the literature, although occasionally a prime, as in V′,L′, is use...",Linear Transformations & Change of Basis,Medium
+7,7.5,7.5.10,"In this book, the dual notation appears only in these few exercises. 396 7L i n e a r i t y Notethattheadjointfunctiongo...",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.7,"Remark. Technically, (7.80) serves to deﬁne the “formal adjoint” of the linear operatorL. For the inﬁnite-dimensional fu...",Adjoint Operators & Minimization Principles,Easy
+7,7.5,7.5.1,Choose one from the following list of inner products onR2. Then ﬁnd the adjoint of A = ( 12 −13 ) when your inner produc...,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.2,"From the list in Exercise 7.5.1, choose diﬀerent inner products on the domain and codomain, and then determine the adjoi...",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.3,"Choose one from the following list of inner products onR3 for both the domain and codomain, and ﬁnd the adjoint ofA = ⎛ ...",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.4,"From the list in Exercise 7.5.3, choose diﬀerent inner products on the domain and codomain, and then compute the adjoint...",Adjoint Operators & Minimization Principles,Easy
+7,7.5,7.5.5,"Choose an inner product onR2 from the list in Exercise 7.5.1, and an inner product on R3 from the list in Exercise 7.5.3...",Adjoint Operators & Minimization Principles,Easy
+7,7.5,7.5.6,"Let P(2) be the space of quadratic polynomials equipped with the inner product ⟨p,q ⟩= ∫1 0 p(x)q(x)dx. Find the adjoint...",Adjoint Operators & Minimization Principles,Easy
+7,7.5,7.5.7,"Prove that, if it exists, the adjoint of a linear function is uniquely determined by (7.80).",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.8,"Prove that ( a)( L+M)∗ = L∗ +M∗,( b)( cL)∗ = cL∗ for c ∈ R, (c)( L∗)∗ = L,( d)( L−1)∗ =( L∗)−1.",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.9,Let L:U → V be a linear function between inner product spaces. Prove thatu ∈ Rn solves the inhomogeneous linear systemL[...,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.10,"Suppose V,W are ﬁnite-dimensional inner product spaces with dual spaceV∗,W ∗.L e t L:V → W be a linear function, and let...",Adjoint Operators & Minimization Principles,Hard
+7,7.5,7.5.11,Show that the following linear transformations ofR2 are self-adjoint with respect to the Euclidean dot product: (a) rota...,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.12,"Let M be a positive deﬁnite matrix. Show thatA:Rn → Rn is self-adjoint with respect to the inner product⟨v ,w ⟩= vTM w i...",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.13,Prove thatA = ( 63 24 ) is self-adjoint with respect to the weighted inner product,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.12,,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.14,"Consider the weighted inner product⟨v ,w ⟩= v1w1 + 1 2 v2w2 + 1 3 v3w3 on R3. (a) What are the conditions on the entries...",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.12,(b) Write down an example of a non-diagonal self-adjoint matrix.,Adjoint Operators & Minimization Principles,Easy
+7,7.5,7.5.15,Answer Exercise 7.5.14 for the inner product based on ⎛ ⎜⎝ 2 −10 −12 −1 0 −12 ⎞ ⎟⎠.,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.16,True or false: The identity transformation is self-adjoint for an arbitrary inner product on the underlying vector space...,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.17,True or false: A diagonal matrix is self-adjoint for an arbitrary inner product onRn.,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.18,Suppose L:U → U has an adjointL∗:U → U.( a) Show thatL + L∗ is self-adjoint. (b) Show thatL◦L∗ is self-adjoint.,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.19,"Suppose J,M :U → U are self-adjoint linear functions on an inner product spaceU. (a)P r o v et h a t⟨J[u],u ⟩= ⟨M[u],u ⟩...",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.20,"Prove that ifL:U → U is an invertible linear transformation on an inner product space U, then the following three statem...",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.19,,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.21,(a) Prove that the operationMa[u(x)] = a(x)u(x) of multiplication by a continuous function a(x) deﬁnes a self-adjoint li...,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.22,A linear functionS:U → U is calledskew-adjoint if S∗ = −S.( a)P r o v et h a ta skew-symmetric matrix is skew-adjoint wi...,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.23,"(a)L e tL1:U → V1 and L2:U → V2 be linear maps between inner product spaces, with V1,V2 not necessarily the same. LetJ1 ...",Adjoint Operators & Minimization Principles,Hard
+7,7.5,7.5.24,Find the minimum value ofp(u)= 1 2 uT ( 3 −2 −23 ) u −uT ( 1 −1 ) for u ∈ R2.,Adjoint Operators & Minimization Principles,Easy
+7,7.5,7.5.25,Minimize the functionp(u)= 1 2 uT ⎛ ⎜⎝ 2 −10 −14 −2 0 −23 ⎞ ⎟⎠u −uT ⎛ ⎜⎝ 2 0 −1 ⎞ ⎟⎠for u ∈ R3.,Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.26,"Minimize ∥(2 x−y,x +y)T ∥2 − 6x over allx,y,w h e r e∥·∥ denotes the Euclidean norm onR2.",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.27,"Answer Exercise 7.5.26 for (a) the weighted norm∥(x,y )T ∥ = √ 2x2 +3 y2 ; (b) the norm based on ( 2 −1 −11 ) ;( c) the ...",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.28,"Let L(x,y)= ⎛ ⎜⎝ x−2y x+y −x+3 y ⎞ ⎟⎠and f = ( 1 0 ) . Minimize p(x)= 1 2 ∥L[x]∥2 −⟨ x ,f ⟩using (a) the Euclidean inner...",Adjoint Operators & Minimization Principles,Medium
+7,7.5,7.5.29,"Find the minimum distance between the point (1,0,0)T and the planex+y −z =0 when distance is measured in (a) the Euclide...",Adjoint Operators & Minimization Principles,Easy
+7,7.5,7.5.30,"How would you modify the statement of Theorem 7.62 if kerL ̸= {0}?  Chapter 8 Eigenvalues and Singular Values So far, ou...",Adjoint Operators & Minimization Principles,Easy

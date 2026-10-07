@@ -1,0 +1,44 @@
+
+DATA CLEANING REPORT
+====================
+
+Source file:
+finalDatasetforML (Copy)(1).csv
+
+Original shape:
+145 rows x 58 columns
+
+Important finding:
+The supplied CSV contains two blocks:
+1) first 22 rows = raw literature extraction records
+2) remaining 123 rows = a standardized experimental-data block
+
+Cleaning rules:
+- Original/raw columns were preserved in the master file.
+- Placeholder values such as 0, 0.0, NR, and blank were converted to missing (NA) ONLY in cleaned fields.
+- No missing value was replaced with an invented measurement.
+- Numeric standardized fields were converted only when the entire cell was numeric.
+- Text ranges, units, and qualitative descriptions were NOT converted to fake numbers.
+- Rows were deduplicated only when their experimental-condition fields were identical.
+- 3D-printing records were filtered using the standardized Fabrication_Method field containing 3D/printing/bioprint.
+- Viability values >100 were retained in the master but excluded from the viability training subset and flagged for manual verification.
+- Albumin, Urea, and CYP values are NOT pooled into one regression target because their units/measurement definitions differ across studies. Unit harmonization is required first.
+- Paper_ID is retained for grouped train/test splitting to reduce study-level leakage.
+
+Outputs:
+1) finalDataset_cleaned_master.csv
+   Full cleaned dataset with raw columns, cleaned columns, numeric helper columns, and quality flags.
+
+2) finalDataset_ML_3D_printed_cleaned.csv
+   Deduplicated standardized records classified as 3D-printing records using Fabrication_Method.
+
+3) finalDataset_ML_Viability_ready.csv
+   3D-printing records with a numeric viability percentage <=100, prepared as a first ML target dataset.
+   This is NOT yet model-ready for scikit-learn because categorical encoding, missing-value imputation, and grouped validation still need to be performed.
+
+Counts:
+Standardized block: 123
+After exact-condition deduplication: 73
+3D-printing records after deduplication: 60
+Numeric viability records: 40
+Viability records used for initial ML subset after excluding >100% values: 40

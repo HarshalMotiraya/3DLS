@@ -1,0 +1,604 @@
+Yes. **Let’s stop the ML part for a moment.** Your confusion is mainly because your CSV contains **two layers of information mixed together**: literature/extraction information and ML-ready information.
+
+I inspected your uploaded `finalDatasetforML.csv`. It contains **145 rows and 58 columns**. The most important thing is to understand what each row and column means before doing any ML.
+
+# 1. First: What is your dataset?
+
+Think of your dataset as a **database created from research papers**.
+
+You read many liver-scaffold research papers and extracted information such as:
+
+> What material did they use?
+> How much gelatin?
+> How was the scaffold fabricated?
+> What was the pore size?
+> How stiff was it?
+> What liver cells were used?
+> What happened to the cells?
+
+You put all this information into one table.
+
+So your dataset is basically:
+
+**Research papers → Experimental scaffold information → Hepatic cell response → One standardized table**
+
+---
+
+# 2. What does ONE ROW mean?
+
+This is the most important concept.
+
+### One row = one experimental condition/scaffold condition.
+
+For example, your first two rows are:
+
+| Paper      | Scaffold condition | Cell | Architecture |
+| ---------- | ------------------ | ---- | ------------ |
+| Lewis 2018 | Gelatin scaffold   | HUH7 | 60°          |
+| Lewis 2018 | Gelatin scaffold   | HUH7 | 90°          |
+
+These are **two different experimental conditions from the same paper**.
+
+So:
+
+> ❌ One row does NOT necessarily mean one paper.
+
+Instead:
+
+> ✅ One row represents one experimental condition that can potentially be compared with other conditions.
+
+This is very important for your ML model.
+
+---
+
+# 3. Your dataset has TWO sides
+
+This is the easiest way to understand your project.
+
+## LEFT SIDE = Scaffold/Input information
+
+These are the things that describe the scaffold.
+
+For example:
+
+```text
+Polymer
+Gelatin concentration
+Crosslinker
+Fabrication
+Pore size
+Porosity
+Water uptake
+Stiffness
+Architecture
+```
+
+These are basically your **X variables/features**.
+
+Think:
+
+> **"What kind of scaffold did the researchers make?"**
+
+---
+
+## RIGHT SIDE = Biological response/output
+
+These describe what happened to the liver cells.
+
+For example:
+
+```text
+Cell type
+Viability
+Albumin
+Urea
+CYP3A4
+CYP1A2
+```
+
+These are potential **Y variables/targets**.
+
+Think:
+
+> **"How did the liver cells behave on that scaffold?"**
+
+---
+
+# 4. The entire project can therefore be represented like this
+
+```text
+             SCAFFOLD
+                ↓
+   ┌─────────────────────────┐
+   │ Polymer                 │
+   │ Gelatin concentration   │
+   │ Crosslinker             │
+   │ Fabrication             │
+   │ Pore size               │
+   │ Porosity                │
+   │ Water uptake            │
+   │ Stiffness               │
+   │ Architecture            │
+   └─────────────────────────┘
+                ↓
+          Liver cells
+                ↓
+   ┌─────────────────────────┐
+   │ Viability               │
+   │ Albumin                 │
+   │ Urea                    │
+   │ CYP3A4                  │
+   │ CYP1A2                  │
+   └─────────────────────────┘
+```
+
+Your ML question becomes:
+
+> **Can we learn the relationship between scaffold properties and liver-cell responses?**
+
+That is the heart of your project.
+
+---
+
+# 5. Then what is "The Dataset Research Narrative"?
+
+This is probably the biggest source of your confusion.
+
+**Dataset Research Narrative** simply means:
+
+> **The scientific story that explains why you collected these particular variables, where they came from, how they are organized, and what scientific question the dataset is intended to answer.**
+
+It is NOT another dataset.
+
+It is the **story behind your dataset**.
+
+---
+
+# 6. Your Dataset Research Narrative
+
+For your project, I would explain the narrative like this:
+
+### Step 1 — Problem
+
+Researchers have developed many different 3D liver scaffolds.
+
+They use different:
+
+* materials
+* gelatin concentrations
+* crosslinkers
+* fabrication methods
+* pore structures
+* stiffness values
+* architectures
+
+And they test different liver cells.
+
+The biological outcomes also differ.
+
+---
+
+### Step 2 — Problem with existing literature
+
+The information is scattered across many research papers.
+
+For example:
+
+Paper A might report:
+
+```text
+Gelatin = 10%
+Stiffness = ...
+Albumin = ...
+```
+
+Paper B might report:
+
+```text
+GelMA
+Pore size = ...
+Viability = ...
+CYP3A4 = ...
+```
+
+Paper C might report:
+
+```text
+Another polymer
+Porosity = ...
+Urea = ...
+```
+
+Therefore, it is difficult to compare all studies systematically.
+
+---
+
+# 7. Your solution
+
+You collect these experimental results into **one standardized dataset**.
+
+So:
+
+```text
+Paper 1 ──┐
+Paper 2 ──┤
+Paper 3 ──┤
+Paper 4 ──┼──→ Standardized Dataset
+Paper 5 ──┤
+Paper 6 ──┘
+```
+
+Your 145 rows are the current collection of experimental conditions extracted from the literature.
+
+---
+
+# 8. What are you trying to learn from this dataset?
+
+You want to discover relationships such as:
+
+### Example 1
+
+Does stiffness affect albumin production?
+
+```text
+Stiffness
+    ↓
+Albumin secretion
+```
+
+### Example 2
+
+Does pore architecture affect viability?
+
+```text
+Pore architecture
+       ↓
+Cell viability
+```
+
+### Example 3
+
+Do several scaffold properties together influence hepatic function?
+
+```text
+Gelatin concentration
+        +
+Pore size
+        +
+Porosity
+        +
+Stiffness
+        +
+Architecture
+        ↓
+Albumin / Urea / CYP3A4
+```
+
+This third question is where ML becomes particularly useful.
+
+---
+
+# 9. Your dataset is NOT yet a perfect ML dataset
+
+This is very important.
+
+Looking at your CSV, I can see that it contains **raw literature extraction information** as well as fields intended for ML.
+
+For example, the first Lewis row contains:
+
+```text
+Hepatocyte_viability:
+High; numeric value not reported in text
+
+Albumin:
+~40 pg/cell more cumulative albumin secretion than 90°
+
+CYP3A4:
+3D activity significantly higher than 2D;
+numeric value not reported
+```
+
+These are scientifically useful, but they are **not directly usable as numerical ML targets**.
+
+For example:
+
+```text
+"High"
+```
+
+cannot directly be used as:
+
+```text
+91%
+```
+
+unless the paper actually reports 91%.
+
+Similarly:
+
+```text
+"~40 pg/cell more"
+```
+
+is not the same thing as:
+
+```text
+Albumin = 40 pg/mL
+```
+
+So your dataset currently contains **literature-extracted evidence**, not just clean numerical ML data.
+
+That distinction is extremely important.
+
+---
+
+# 10. Why do you have two sets of columns?
+
+Your CSV contains columns like:
+
+```text
+Polymer_concentration
+Gelatin_concentration
+Pore_size_um
+Water_uptake_pct
+Stiffness_kPa
+```
+
+and later:
+
+```text
+Polymer_Concentration_pct
+Gelatin_Concentration_pct
+Pore_Size_um
+Water_Uptake_pct
+```
+
+This suggests that your dataset contains **two stages of extraction/standardization**.
+
+### First layer
+
+```text
+Polymer_concentration
+Gelatin_concentration
+Pore_size_um
+...
+```
+
+These appear to preserve the literature-style extracted information.
+
+### Second layer
+
+```text
+Polymer_Concentration_pct
+Gelatin_Concentration_pct
+Pore_Size_um
+...
+```
+
+These look intended to become standardized/ML fields.
+
+But many of the standardized fields in the current CSV are still `0`.
+
+For example, the Lewis record has:
+
+```text
+Gelatin_Concentration_pct = 0
+Pore_Size_um = 0
+Stiffness-related standardized fields = 0
+```
+
+even though the literature-extraction section contains information.
+
+**So I would NOT start ML on this CSV yet.**
+
+We should first clean and define exactly which columns are the authoritative ML columns.
+
+---
+
+# 11. What does "0" mean here?
+
+This is another major issue.
+
+In scientific datasets:
+
+```text
+0 ≠ missing
+```
+
+For example:
+
+```text
+Stiffness = 0 kPa
+```
+
+means the scaffold actually had zero stiffness, which is probably not what you mean.
+
+But:
+
+```text
+Stiffness = NR
+```
+
+means:
+
+> Not reported in the paper.
+
+Your current standardized section has many zeros. We need to determine whether those zeros mean:
+
+> missing/not extracted
+
+or
+
+> actual experimental value = 0.
+
+For your project, **we should not silently treat missing values as zero**.
+
+---
+
+# 12. So what should your final ML dataset look like?
+
+I recommend eventually having something conceptually like this:
+
+| Scaffold inputs X     | Biological outputs Y |
+| --------------------- | -------------------- |
+| Polymer               | Viability            |
+| Polymer concentration | Albumin              |
+| Gelatin concentration | Urea                 |
+| Crosslinker           | CYP3A4               |
+| Fabrication           | CYP1A2               |
+| Pore size             |                      |
+| Porosity              |                      |
+| Water uptake          |                      |
+| Stiffness             |                      |
+| Architecture          |                      |
+| Cell type             |                      |
+| Culture duration      |                      |
+
+For example:
+
+| Gelatin % | Pore size | Stiffness | Cell       | Viability | Albumin | Urea |
+| --------: | --------: | --------: | ---------- | --------: | ------: | ---: |
+|        10 |       700 |       3.2 | Hepatocyte |        91 |     125 |   42 |
+
+**But only if those exact numbers actually occur together in one experimental condition in a source.**
+
+We must never create a row by combining values from different papers.
+
+---
+
+# 13. Your research narrative in one sentence
+
+If your supervisor asks:
+
+> **"What is the research narrative of your dataset?"**
+
+You can say:
+
+> **"We extracted quantitative and qualitative information on scaffold composition, fabrication, physicochemical properties, and hepatic cellular responses from published 3D liver-scaffold studies and standardized these data into a structured dataset to investigate relationships between scaffold properties and hepatic cell functionality using machine learning."**
+
+That's the academic version.
+
+---
+
+# 14. Explain it to your CS classmates in simple language
+
+You can say:
+
+> **"We are building a dataset from existing liver-scaffold research papers. Each row represents one experimental scaffold condition. The input features describe how the scaffold was made, such as material, gelatin concentration, pore size, porosity and stiffness. The output variables describe how liver cells responded, such as viability, albumin, urea and CYP3A4. We will use machine learning to learn the relationship between scaffold properties and liver-cell responses."**
+
+That's enough for a CS presentation.
+
+---
+
+# 15. And what is the final goal?
+
+This is where your whole project connects.
+
+Your project is **not simply:**
+
+> "I collected 145 papers."
+
+And it is not simply:
+
+> "I trained Random Forest."
+
+Your research story is:
+
+```text
+Published research papers
+          ↓
+Extract experimental data
+          ↓
+Standardize the data
+          ↓
+Create scaffold–cell response dataset
+          ↓
+Analyze relationships
+          ↓
+Machine Learning
+          ↓
+Predict hepatic response
+          ↓
+Identify important scaffold properties
+          ↓
+Find promising combinations
+          ↓
+Candidate scaffold design
+          ↓
+Biotechnology partner
+          ↓
+Fabrication + biological testing
+```
+
+That is your **research narrative**.
+
+---
+
+# 16. One very important correction to your thinking
+
+Don't say:
+
+> **"ML will find the perfect scaffold."**
+
+Instead say:
+
+> **"ML will identify/predict promising scaffold-property combinations associated with improved hepatic cellular responses, which can then be experimentally validated."**
+
+Because your literature dataset is observational and heterogeneous. Experimental validation is needed before calling a design optimal.
+
+---
+
+# 17. Where your current 145-row dataset fits
+
+Your current position is approximately:
+
+```text
+                YOUR CURRENT POSITION
+                         ↓
+Literature papers
+       ↓
+Data extraction
+       ↓
+┌─────────────────────────────┐
+│ 145 extracted records       │
+│ 58 columns                  │
+│ scaffold information       │
+│ biological information     │
+│ source information         │
+└─────────────────────────────┘
+       ↓
+       YOU ARE HERE
+       ↓
+Clean + standardize
+       ↓
+Select ML-ready records
+       ↓
+EDA
+       ↓
+ML
+       ↓
+XAI
+       ↓
+Candidate scaffold design
+```
+
+So **you are not supposed to jump directly from this CSV to Random Forest/XGBoost.**
+
+The next important task is **dataset auditing and cleaning**.
+
+### My recommendation as your project guide
+
+Before doing any ML, we should take your `finalDatasetforML.csv` and make **three clear tables**:
+
+**Table A — Literature metadata**
+Paper, author, year, DOI, source, figure/table, extraction method.
+
+**Table B — Scaffold/Input variables**
+Polymer, gelatin %, crosslinker, fabrication, pore size, porosity, water uptake, stiffness, architecture, etc.
+
+**Table C — Biological/Output variables**
+Cell type, viability, albumin, urea, CYP3A4, CYP1A2, culture duration, etc.
+
+Then we can identify **which of the 145 rows are actually ML-ready and which require manual extraction/verification**.
+
+That will remove most of the confusion before we touch ML.
