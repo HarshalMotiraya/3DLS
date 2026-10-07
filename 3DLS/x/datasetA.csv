@@ -1,0 +1,146 @@
+Gelatin_concentration_%,Polymer_concentration_%,Pore_size_μm,Porosity_%,Stiffness_kPa,Water_uptake_%,Swelling,Crosslinking,Degradation_rate
+NR,NR,NR,NR,NR,NR,NR,"15 mM EDC + 6 mM NHS, 1 h",NR
+NR,NR,NR,NR,NR,NR,NR,"15 mM EDC + 6 mM NHS, 1 h",NR
+NR,NR,NR,83 ± 2,NR,NR,NR,NR,NR
+NR,NR,NR,PG/PB/PN ~95; PU ~90,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,3.4 mM ascorbic acid free-radical scavenger in optimized formulation,NR
+NR,NR,NR,NR,NR,NR,NR,Photocrosslinking,NR
+NR,NR,NR,NR,Lobule 5.17 ± 0.35; grid 3.47 ± 0.25,NR,NR,Genipin-crosslinked,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,"15 mM EDC + 6 mM NHS, 1 h",NR
+NR,NR,NR,NR,NR,NR,NR,"15 mM EDC + 6 mM NHS, 1 h",NR
+NR,NR,NR,83 ± 2,NR,NR,NR,NR,NR
+NR,NR,NR,PG/PB/PN ~95; PU ~90,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,3.4 mM ascorbic acid free-radical scavenger in optimized formulation,NR
+NR,NR,NR,NR,NR,NR,NR,Photocrosslinking,NR
+NR,NR,NR,NR,Lobule 5.17 ± 0.35; grid 3.47 ± 0.25,NR,NR,Genipin-crosslinked,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+10.0,10.0,NR,NR,NR,NR,NR,EDC/NHS,NR
+10.0,10.0,NR,NR,NR,NR,NR,EDC/NHS,NR
+10.0,10.0,NR,NR,NR,NR,NR,EDC/NHS,NR
+4.0,4.0,NR,NR,4.269,NR,NR,UV photocrosslinking (LAP photoinitiator),NR
+4.0,4.0,NR,NR,3.175,NR,NR,UV photocrosslinking (LAP photoinitiator),NR
+4.0,4.0,NR,NR,2.624,NR,NR,UV photocrosslinking (LAP photoinitiator),NR
+5.0,"1% alginate, 3% CNC, 5% GelMA",NR,NR,11.222,NR,NR,"UV (LAP) + ionic (Ca2+, from culture medium, over time)",NR
+5.0,"1% alginate, 3% CNC, 5% GelMA",NR,NR,15.876,NR,NR,"UV (LAP) + ionic (Ca2+, from culture medium)",NR
+5.0,"1% alginate, 3% CNC, 5% GelMA",NR,NR,6.8,NR,NR,NR,NR
+5.0,"1% alginate, 3% CNC, 5% GelMA",NR,NR,9.204,NR,NR,NR,NR
+4.0,NR,NR,NR,NR,NR,NR,NR,NR
+4.0,NR,NR,NR,NR,NR,NR,NR,NR
+4.0,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,COL I 6 mg/mL; HA 2 mg/mL (ratio 2:1),NR,NR,NR,NR,NR,UV (thiol-ene reaction via photoinitiator),NR
+NR,COL I 6 mg/mL; HA 2 mg/mL (ratio 3:1),NR,NR,NR,NR,NR,UV (thiol-ene reaction via photoinitiator),NR
+NR,COL I 6 mg/mL; HA 2 mg/mL (ratio 4:1),NR,NR,NR,NR,NR,UV (thiol-ene reaction via photoinitiator),NR
+NR,Collagen 3%; Alginate 3%,"Exterior width 36.45 (+/-13); Side width 51.66 (+/-28); Lumen width 98.21 (+/-8.7), all in um",NR,NR,NR,NR,"Ca2+ (alginate, sacrificial) then removed; collagen gelled at 37 C",NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,3.0,NR,NR,NR,NR,NR,Calcium chloride (CaCl2),NR
+NR (not gelatin-based; PEGDA scaffold),20.0,NR,80.0,NR,NR,NR,UV (405 nm; 0.5 wt% LAP photoinitiator; 2 mM tartrazine photomask),NR
+NR (not gelatin-based; galactosylated alginate),1.2,NR,NR,NR,NR,NR,Barium chloride (BaCl2.2H2O),NR
+10.0,10.0,500.0,NR,NR,NR,NR,EDC / NHS,NR
+10.0,10.0,500.0,NR,NR,NR,NR,EDC / NHS,NR
+10.0,10.0,NR,NR,NR,NR,NR,EDC / NHS,NR
+2.0,100.0,400.0,52.0,NR,NR,NR,Glutaraldehyde (GA),NR
+2.0,100.0,400.0,50.0,NR,NR,NR,Glutaraldehyde (GA),NR
+1.0,100.0,400.0,52.0,NR,NR,NR,Glutaraldehyde (GA),NR
+NR,100.0,400.0,52.0,NR,NR,NR,NR,NR
+NR,100.0,400.0,50.0,NR,NR,NR,NR,NR
+NR,20.0,300.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+NR,20.0,300.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+NR,20.0,300.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+NR,20.0,300.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+NR,20.0,300.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+NR,20.0,400.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+3.0,2.0,1.5,NR,3.4,NR,NR,CaSO4 (pre-crosslink) + CaCl2 (bath),NR
+3.0,2.0,1.5,NR,3.0,NR,NR,CaSO4 + CaCl2,NR
+3.0,2.0,1.5,NR,2.5,NR,NR,CaSO4 + CaCl2,NR
+3.0,2.0,1.5,NR,4.1,NR,NR,CaSO4 + CaCl2,NR
+NR,0.5,NR,NR,3.65,NR,NR,UV light photo-crosslinking (Thiol-ene click + methacrylate linkage),NR
+NR,0.5,NR,NR,3.65,NR,NR,UV light photo-crosslinking,NR
+NR,0.47,NR,NR,2.15,NR,NR,UV light photo-crosslinking,NR
+NR,0.52,NR,NR,3.25,NR,NR,UV light photo-crosslinking,NR
+NR,3.0,150.0,68.0,0.48,NR,NR,"Thermal (37 C, 1 h for collagen gelation) + sacrificial alginate dissolution",NR
+NR,3.0,150.0,68.0,0.48,NR,NR,"Thermal (37 C, 1 h)",NR
+NR,3.0,NR,68.0,0.48,NR,NR,"Thermal (37 C, 1 h)",NR
+NR,3.0,150.0,68.0,0.52,NR,NR,"Thermal (37 C, 1 h) + alginate sacrificial dissolution",NR
+5.0,9.0,2400.0,78.0,2.7,NR,1.15,LAP (UV 365 nm photo-crosslinking),NR
+5.0,9.0,2400.0,78.0,2.62,NR,1.15,LAP (UV 365 nm),NR
+5.0,9.0,2400.0,78.0,3.18,NR,1.15,LAP (UV 365 nm),NR
+5.0,9.0,2400.0,78.0,6.8,NR,1.15,LAP (UV 365 nm),NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+10.0,10.0,500.0,NR,NR,NR,NR,EDC / NHS,NR
+10.0,10.0,500.0,NR,NR,NR,NR,EDC / NHS,NR
+10.0,10.0,NR,NR,NR,NR,NR,EDC / NHS,NR
+2.0,100.0,400.0,52.0,NR,NR,NR,Glutaraldehyde (GA),NR
+2.0,100.0,400.0,50.0,NR,NR,NR,Glutaraldehyde (GA),NR
+1.0,100.0,400.0,52.0,NR,NR,NR,Glutaraldehyde (GA),NR
+NR,100.0,400.0,52.0,NR,NR,NR,NR,NR
+NR,100.0,400.0,50.0,NR,NR,NR,NR,NR
+NR,20.0,300.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+NR,20.0,300.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+NR,20.0,300.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+NR,20.0,300.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+NR,20.0,300.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+NR,20.0,400.0,80.0,NR,NR,1.05,LAP (UV 405 nm DLP),NR
+3.0,2.0,1.5,NR,3.4,NR,NR,CaSO4 (pre-crosslink) + CaCl2 (bath),NR
+3.0,2.0,1.5,NR,3.0,NR,NR,CaSO4 + CaCl2,NR
+3.0,2.0,1.5,NR,2.5,NR,NR,CaSO4 + CaCl2,NR
+3.0,2.0,1.5,NR,4.1,NR,NR,CaSO4 + CaCl2,NR
+NR,0.5,NR,NR,3.65,NR,NR,UV light photo-crosslinking (Thiol-ene click + methacrylate linkage),NR
+NR,0.5,NR,NR,3.65,NR,NR,UV light photo-crosslinking,NR
+NR,0.47,NR,NR,2.15,NR,NR,UV light photo-crosslinking,NR
+NR,0.52,NR,NR,3.25,NR,NR,UV light photo-crosslinking,NR
+NR,3.0,150.0,68.0,0.48,NR,NR,"Thermal (37 C, 1 h for collagen gelation) + sacrificial alginate dissolution",NR
+NR,3.0,150.0,68.0,0.48,NR,NR,"Thermal (37 C, 1 h)",NR
+NR,3.0,NR,68.0,0.48,NR,NR,"Thermal (37 C, 1 h)",NR
+NR,3.0,150.0,68.0,0.52,NR,NR,"Thermal (37 C, 1 h) + alginate sacrificial dissolution",NR
+5.0,9.0,2400.0,78.0,2.7,NR,1.15,LAP (UV 365 nm photo-crosslinking),NR
+5.0,9.0,2400.0,78.0,2.62,NR,1.15,LAP (UV 365 nm),NR
+5.0,9.0,2400.0,78.0,3.18,NR,1.15,LAP (UV 365 nm),NR
+5.0,9.0,2400.0,78.0,6.8,NR,1.15,LAP (UV 365 nm),NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,CaCl2,NR
+NR,NR,NR,NR,NR,NR,NR,CaCl2,NR
+NR,NR,NR,NR,NR,NR,NR,CaCl2,NR
+NR,NR,NR,NR,NR,NR,NR,CaCl2,NR
+5.0,5.0,NR,60.0,0.33,NR,1.4,LAP (UV 405 nm),NR
+5.0,5.0,NR,60.0,0.33,NR,1.4,LAP (UV 405 nm),NR
+5.0,5.0,1400.0,60.0,0.33,NR,1.4,LAP (UV 405 nm),NR
+5.0,5.0,1400.0,60.0,0.33,NR,1.4,LAP (UV 405 nm),NR
+5.0,5.0,NR,60.0,0.33,NR,1.4,LAP (UV 405 nm),NR
+NR,100.0,800.0,65.0,NR,NR,NR,"Thermal (37 C, 30 min in 5% CO2)",NR
+NR,100.0,800.0,65.0,NR,NR,NR,"Thermal (37 C, 30 min)",NR
+NR,100.0,800.0,65.0,NR,NR,NR,"Thermal (37 C, 30 min)",NR
+NR,3.0,600.0,62.0,NR,NR,NR,CaCl2,NR
+NR,3.0,600.0,62.0,NR,NR,NR,CaCl2,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+NR,NR,NR,NR,NR,NR,NR,CaCl2,NR
+NR,NR,NR,NR,NR,NR,NR,CaCl2,NR
+NR,NR,NR,NR,NR,NR,NR,CaCl2,NR
+NR,NR,NR,NR,NR,NR,NR,CaCl2,NR
+5.0,5.0,NR,60.0,0.33,NR,1.4,LAP (UV 405 nm),NR
+5.0,5.0,NR,60.0,0.33,NR,1.4,LAP (UV 405 nm),NR
+5.0,5.0,1400.0,60.0,0.33,NR,1.4,LAP (UV 405 nm),NR
+5.0,5.0,1400.0,60.0,0.33,NR,1.4,LAP (UV 405 nm),NR
+5.0,5.0,NR,60.0,0.33,NR,1.4,LAP (UV 405 nm),NR
+NR,100.0,800.0,65.0,NR,NR,NR,"Thermal (37 C, 30 min in 5% CO2)",NR
+NR,100.0,800.0,65.0,NR,NR,NR,"Thermal (37 C, 30 min)",NR
+NR,100.0,800.0,65.0,NR,NR,NR,"Thermal (37 C, 30 min)",NR
+NR,3.0,600.0,62.0,NR,NR,NR,CaCl2,NR
+NR,3.0,600.0,62.0,NR,NR,NR,CaCl2,NR
+NR,NR,NR,NR,NR,NR,NR,NR,NR
+3.0,5.0,102.0,NR,0.6,NR,NR,Irgacure 2959 (UV 365 nm) + Antioxidant Cocktail (3.4 mM AA + 100 uM a-Toc),NR
+3.0,5.0,102.0,NR,0.6,NR,NR,Irgacure 2959 (UV 365 nm) + Antioxidant Cocktail (3.4 mM AA + 100 uM a-Toc),NR
+3.0,5.0,102.0,NR,0.6,NR,NR,Irgacure 2959 (UV 365 nm) + Antioxidant Cocktail (3.4 mM AA + 100 uM a-Toc),NR
+NR,5.0,102.0,NR,0.6,NR,NR,Irgacure 2959 (UV 365 nm),NR
+3.0,5.0,102.0,NR,0.6,NR,NR,Irgacure 2959 (UV 365 nm) + Antioxidant Cocktail (3.4 mM AA + 100 uM a-Toc),NR
+3.0,5.0,102.0,NR,0.6,NR,NR,Irgacure 2959 (UV 365 nm) + Antioxidant Cocktail (3.4 mM AA + 100 uM a-Toc),NR
+3.0,5.0,102.0,NR,0.6,NR,NR,Irgacure 2959 (UV 365 nm) + Antioxidant Cocktail (3.4 mM AA + 100 uM a-Toc),NR
+NR,5.0,102.0,NR,0.6,NR,NR,Irgacure 2959 (UV 365 nm),NR
